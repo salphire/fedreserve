@@ -1,0 +1,4425 @@
+Country,Monetary_Unit,Date,Rate
+Australia,Dollars, 4-Jan-00 ,0.6562
+Australia,Dollars, 5-Jan-00 ,0.6550
+Australia,Dollars, 6-Jan-00 ,0.6540
+Australia,Dollars, 7-Jan-00 ,0.6548
+Australia,Dollars,10-Jan-00 ,0.6561
+Australia,Dollars,11-Jan-00 ,0.6575
+Australia,Dollars,12-Jan-00 ,0.6578
+Australia,Dollars,13-Jan-00 ,0.6687
+Australia,Dollars,14-Jan-00 ,0.6665
+Australia,Dollars,17-Jan-00 ,ND
+Australia,Dollars,18-Jan-00 ,0.6640
+Australia,Dollars,19-Jan-00 ,0.6634
+Australia,Dollars,20-Jan-00 ,0.6666
+Australia,Dollars,21-Jan-00 ,0.6621
+Australia,Dollars,24-Jan-00 ,0.6544
+Australia,Dollars,25-Jan-00 ,0.6542
+Australia,Dollars,26-Jan-00 ,0.6505
+Australia,Dollars,27-Jan-00 ,0.6550
+Australia,Dollars,28-Jan-00 ,0.6265
+Australia,Dollars,31-Jan-00 ,0.6382
+Australia,Dollars, 1-Feb-00 ,0.6315
+Australia,Dollars, 2-Feb-00 ,0.6360
+Australia,Dollars, 3-Feb-00 ,0.6387
+Australia,Dollars, 4-Feb-00 ,0.6315
+Australia,Dollars, 7-Feb-00 ,0.6339
+Australia,Dollars, 8-Feb-00 ,0.6353
+Australia,Dollars, 9-Feb-00 ,0.6345
+Australia,Dollars,10-Feb-00 ,0.6320
+Australia,Dollars,11-Feb-00 ,0.6282
+Australia,Dollars,14-Feb-00 ,0.6279
+Australia,Dollars,15-Feb-00 ,0.6300
+Australia,Dollars,16-Feb-00 ,0.6301
+Australia,Dollars,17-Feb-00 ,0.6320
+Australia,Dollars,18-Feb-00 ,0.6292
+Australia,Dollars,21-Feb-00 ,ND
+Australia,Dollars,22-Feb-00 ,0.6257
+Australia,Dollars,23-Feb-00 ,0.6196
+Australia,Dollars,24-Feb-00 ,0.6144
+Australia,Dollars,25-Feb-00 ,0.6175
+Australia,Dollars,28-Feb-00 ,0.6116
+Australia,Dollars,29-Feb-00 ,0.6155
+Australia,Dollars, 1-Mar-00 ,0.6067
+Australia,Dollars, 2-Mar-00 ,0.6077
+Australia,Dollars, 3-Mar-00 ,0.6082
+Australia,Dollars, 6-Mar-00 ,0.6016
+Australia,Dollars, 7-Mar-00 ,0.6035
+Australia,Dollars, 8-Mar-00 ,0.6094
+Australia,Dollars, 9-Mar-00 ,0.6155
+Australia,Dollars,10-Mar-00 ,0.6136
+Australia,Dollars,13-Mar-00 ,0.6165
+Australia,Dollars,14-Mar-00 ,0.6140
+Australia,Dollars,15-Mar-00 ,0.6125
+Australia,Dollars,16-Mar-00 ,0.6107
+Australia,Dollars,17-Mar-00 ,0.6067
+Australia,Dollars,20-Mar-00 ,0.6065
+Australia,Dollars,21-Mar-00 ,0.6100
+Australia,Dollars,22-Mar-00 ,0.6056
+Australia,Dollars,23-Mar-00 ,0.6041
+Australia,Dollars,24-Mar-00 ,0.6064
+Australia,Dollars,27-Mar-00 ,0.6114
+Australia,Dollars,28-Mar-00 ,0.6141
+Australia,Dollars,29-Mar-00 ,0.6124
+Australia,Dollars,30-Mar-00 ,0.6125
+Australia,Dollars,31-Mar-00 ,0.6062
+Australia,Dollars, 3-Apr-00 ,0.6073
+Australia,Dollars, 4-Apr-00 ,0.6032
+Australia,Dollars, 5-Apr-00 ,0.6053
+Australia,Dollars, 6-Apr-00 ,0.6016
+Australia,Dollars, 7-Apr-00 ,0.6003
+Australia,Dollars,10-Apr-00 ,0.5991
+Australia,Dollars,11-Apr-00 ,0.5957
+Australia,Dollars,12-Apr-00 ,0.5970
+Australia,Dollars,13-Apr-00 ,0.5963
+Australia,Dollars,14-Apr-00 ,0.5972
+Australia,Dollars,17-Apr-00 ,0.5913
+Australia,Dollars,18-Apr-00 ,0.5946
+Australia,Dollars,19-Apr-00 ,0.5957
+Australia,Dollars,20-Apr-00 ,0.5931
+Australia,Dollars,21-Apr-00 ,0.5925
+Australia,Dollars,24-Apr-00 ,0.5945
+Australia,Dollars,25-Apr-00 ,0.5956
+Australia,Dollars,26-Apr-00 ,0.5890
+Australia,Dollars,27-Apr-00 ,0.5875
+Australia,Dollars,28-Apr-00 ,0.5837
+Australia,Dollars, 1-May-00 ,0.5800
+Australia,Dollars, 2-May-00 ,0.5857
+Australia,Dollars, 3-May-00 ,0.5900
+Australia,Dollars, 4-May-00 ,0.5914
+Australia,Dollars, 5-May-00 ,0.5935
+Australia,Dollars, 8-May-00 ,0.5870
+Australia,Dollars, 9-May-00 ,0.5828
+Australia,Dollars,10-May-00 ,0.5815
+Australia,Dollars,11-May-00 ,0.5790
+Australia,Dollars,12-May-00 ,0.5810
+Australia,Dollars,15-May-00 ,0.5739
+Australia,Dollars,16-May-00 ,0.5773
+Australia,Dollars,17-May-00 ,0.5685
+Australia,Dollars,18-May-00 ,0.5703
+Australia,Dollars,19-May-00 ,0.5728
+Australia,Dollars,22-May-00 ,0.5740
+Australia,Dollars,23-May-00 ,0.5747
+Australia,Dollars,24-May-00 ,0.5713
+Australia,Dollars,25-May-00 ,0.5700
+Australia,Dollars,26-May-00 ,0.5716
+Australia,Dollars,29-May-00 ,ND
+Australia,Dollars,30-May-00 ,0.5768
+Australia,Dollars,31-May-00 ,0.5708
+Australia,Dollars, 1-Jun-00 ,0.5721
+Australia,Dollars, 2-Jun-00 ,0.5790
+Australia,Dollars, 5-Jun-00 ,0.5812
+Australia,Dollars, 6-Jun-00 ,0.5887
+Australia,Dollars, 7-Jun-00 ,0.5900
+Australia,Dollars, 8-Jun-00 ,0.5878
+Australia,Dollars, 9-Jun-00 ,0.5864
+Australia,Dollars,12-Jun-00 ,0.5912
+Australia,Dollars,13-Jun-00 ,0.5973
+Australia,Dollars,14-Jun-00 ,0.6007
+Australia,Dollars,15-Jun-00 ,0.6015
+Australia,Dollars,16-Jun-00 ,0.6083
+Australia,Dollars,19-Jun-00 ,0.6024
+Australia,Dollars,20-Jun-00 ,0.6037
+Australia,Dollars,21-Jun-00 ,0.6026
+Australia,Dollars,22-Jun-00 ,0.5993
+Australia,Dollars,23-Jun-00 ,0.5964
+Australia,Dollars,26-Jun-00 ,0.5965
+Australia,Dollars,27-Jun-00 ,0.6012
+Australia,Dollars,28-Jun-00 ,0.6023
+Australia,Dollars,29-Jun-00 ,0.6029
+Australia,Dollars,30-Jun-00 ,0.5971
+Australia,Dollars, 3-Jul-00 ,0.5996
+Australia,Dollars, 4-Jul-00 ,ND
+Australia,Dollars, 5-Jul-00 ,0.5907
+Australia,Dollars, 6-Jul-00 ,0.5909
+Australia,Dollars, 7-Jul-00 ,0.5901
+Australia,Dollars,10-Jul-00 ,0.5912
+Australia,Dollars,11-Jul-00 ,0.5891
+Australia,Dollars,12-Jul-00 ,0.5890
+Australia,Dollars,13-Jul-00 ,0.5855
+Australia,Dollars,14-Jul-00 ,0.5847
+Australia,Dollars,17-Jul-00 ,0.5855
+Australia,Dollars,18-Jul-00 ,0.5844
+Australia,Dollars,19-Jul-00 ,0.5750
+Australia,Dollars,20-Jul-00 ,0.5816
+Australia,Dollars,21-Jul-00 ,0.5865
+Australia,Dollars,24-Jul-00 ,0.5860
+Australia,Dollars,25-Jul-00 ,0.5849
+Australia,Dollars,26-Jul-00 ,0.5904
+Australia,Dollars,27-Jul-00 ,0.5891
+Australia,Dollars,28-Jul-00 ,0.5872
+Australia,Dollars,31-Jul-00 ,0.5787
+Australia,Dollars, 1-Aug-00 ,0.5805
+Australia,Dollars, 2-Aug-00 ,0.5830
+Australia,Dollars, 3-Aug-00 ,0.5844
+Australia,Dollars, 4-Aug-00 ,0.5832
+Australia,Dollars, 7-Aug-00 ,0.5862
+Australia,Dollars, 8-Aug-00 ,0.5868
+Australia,Dollars, 9-Aug-00 ,0.5786
+Australia,Dollars,10-Aug-00 ,0.5818
+Australia,Dollars,11-Aug-00 ,0.5795
+Australia,Dollars,14-Aug-00 ,0.5810
+Australia,Dollars,15-Aug-00 ,0.5831
+Australia,Dollars,16-Aug-00 ,0.5897
+Australia,Dollars,17-Aug-00 ,0.5935
+Australia,Dollars,18-Aug-00 ,0.5905
+Australia,Dollars,21-Aug-00 ,0.5890
+Australia,Dollars,22-Aug-00 ,0.5802
+Australia,Dollars,23-Aug-00 ,0.5708
+Australia,Dollars,24-Aug-00 ,0.5725
+Australia,Dollars,25-Aug-00 ,0.5737
+Australia,Dollars,28-Aug-00 ,0.5715
+Australia,Dollars,29-Aug-00 ,0.5713
+Australia,Dollars,30-Aug-00 ,0.5720
+Australia,Dollars,31-Aug-00 ,0.5764
+Australia,Dollars, 1-Sep-00 ,0.5765
+Australia,Dollars, 4-Sep-00 ,ND
+Australia,Dollars, 5-Sep-00 ,0.5699
+Australia,Dollars, 6-Sep-00 ,0.5655
+Australia,Dollars, 7-Sep-00 ,0.5579
+Australia,Dollars, 8-Sep-00 ,0.5557
+Australia,Dollars,11-Sep-00 ,0.5590
+Australia,Dollars,12-Sep-00 ,0.5586
+Australia,Dollars,13-Sep-00 ,0.5550
+Australia,Dollars,14-Sep-00 ,0.5490
+Australia,Dollars,15-Sep-00 ,0.5450
+Australia,Dollars,18-Sep-00 ,0.5417
+Australia,Dollars,19-Sep-00 ,0.5420
+Australia,Dollars,20-Sep-00 ,0.5372
+Australia,Dollars,21-Sep-00 ,0.5428
+Australia,Dollars,22-Sep-00 ,0.5455
+Australia,Dollars,25-Sep-00 ,0.5490
+Australia,Dollars,26-Sep-00 ,0.5506
+Australia,Dollars,27-Sep-00 ,0.5510
+Australia,Dollars,28-Sep-00 ,0.5490
+Australia,Dollars,29-Sep-00 ,0.5415
+Australia,Dollars, 2-Oct-00 ,0.5450
+Australia,Dollars, 3-Oct-00 ,0.5400
+Australia,Dollars, 4-Oct-00 ,0.5365
+Australia,Dollars, 5-Oct-00 ,0.5350
+Australia,Dollars, 6-Oct-00 ,0.5339
+Australia,Dollars, 9-Oct-00 ,ND
+Australia,Dollars,10-Oct-00 ,0.5339
+Australia,Dollars,11-Oct-00 ,0.5360
+Australia,Dollars,12-Oct-00 ,0.5320
+Australia,Dollars,13-Oct-00 ,0.5297
+Australia,Dollars,16-Oct-00 ,0.5230
+Australia,Dollars,17-Oct-00 ,0.5188
+Australia,Dollars,18-Oct-00 ,0.5187
+Australia,Dollars,19-Oct-00 ,0.5210
+Australia,Dollars,20-Oct-00 ,0.5280
+Australia,Dollars,23-Oct-00 ,0.5274
+Australia,Dollars,24-Oct-00 ,0.5256
+Australia,Dollars,25-Oct-00 ,0.5191
+Australia,Dollars,26-Oct-00 ,0.5185
+Australia,Dollars,27-Oct-00 ,0.5233
+Australia,Dollars,30-Oct-00 ,0.5235
+Australia,Dollars,31-Oct-00 ,0.5181
+Australia,Dollars, 1-Nov-00 ,0.5227
+Australia,Dollars, 2-Nov-00 ,0.5208
+Australia,Dollars, 3-Nov-00 ,0.5249
+Australia,Dollars, 6-Nov-00 ,0.5280
+Australia,Dollars, 7-Nov-00 ,0.5280
+Australia,Dollars, 8-Nov-00 ,0.5264
+Australia,Dollars, 9-Nov-00 ,0.5252
+Australia,Dollars,10-Nov-00 ,0.5220
+Australia,Dollars,13-Nov-00 ,0.5205
+Australia,Dollars,14-Nov-00 ,0.5190
+Australia,Dollars,15-Nov-00 ,0.5203
+Australia,Dollars,16-Nov-00 ,0.5183
+Australia,Dollars,17-Nov-00 ,0.5190
+Australia,Dollars,20-Nov-00 ,0.5134
+Australia,Dollars,21-Nov-00 ,0.5112
+Australia,Dollars,22-Nov-00 ,0.5194
+Australia,Dollars,23-Nov-00 ,ND
+Australia,Dollars,24-Nov-00 ,0.5215
+Australia,Dollars,27-Nov-00 ,0.5261
+Australia,Dollars,28-Nov-00 ,0.5223
+Australia,Dollars,29-Nov-00 ,0.5228
+Australia,Dollars,30-Nov-00 ,0.5262
+Australia,Dollars, 1-Dec-00 ,0.5372
+Australia,Dollars, 4-Dec-00 ,0.5431
+Australia,Dollars, 5-Dec-00 ,0.5405
+Australia,Dollars, 6-Dec-00 ,0.5448
+Australia,Dollars, 7-Dec-00 ,0.5470
+Australia,Dollars, 8-Dec-00 ,0.5445
+Australia,Dollars,11-Dec-00 ,0.5400
+Australia,Dollars,12-Dec-00 ,0.5420
+Australia,Dollars,13-Dec-00 ,0.5380
+Australia,Dollars,14-Dec-00 ,0.5397
+Australia,Dollars,15-Dec-00 ,0.5458
+Australia,Dollars,18-Dec-00 ,0.5416
+Australia,Dollars,19-Dec-00 ,0.5435
+Australia,Dollars,20-Dec-00 ,0.5491
+Australia,Dollars,21-Dec-00 ,0.5533
+Australia,Dollars,22-Dec-00 ,0.5550
+Australia,Dollars,25-Dec-00 ,ND
+Australia,Dollars,26-Dec-00 ,0.5588
+Australia,Dollars,27-Dec-00 ,0.5590
+Australia,Dollars,28-Dec-00 ,0.5522
+Australia,Dollars,29-Dec-00 ,0.5560
+Australia,Dollars, 1-Jan-01 ,ND
+Australia,Dollars, 2-Jan-01 ,0.5592
+Australia,Dollars, 3-Jan-01 ,0.5635
+Australia,Dollars, 4-Jan-01 ,0.5655
+Australia,Dollars, 5-Jan-01 ,0.5712
+Australia,Dollars, 8-Jan-01 ,0.5660
+Australia,Dollars, 9-Jan-01 ,0.5628
+Australia,Dollars,10-Jan-01 ,0.5572
+Australia,Dollars,11-Jan-01 ,0.5595
+Australia,Dollars,12-Jan-01 ,0.5557
+Australia,Dollars,15-Jan-01 ,ND
+Australia,Dollars,16-Jan-01 ,0.5549
+Australia,Dollars,17-Jan-01 ,0.5514
+Australia,Dollars,18-Jan-01 ,0.5562
+Australia,Dollars,19-Jan-01 ,0.5570
+Australia,Dollars,22-Jan-01 ,0.5544
+Australia,Dollars,23-Jan-01 ,0.5528
+Australia,Dollars,24-Jan-01 ,0.5449
+Australia,Dollars,25-Jan-01 ,0.5451
+Australia,Dollars,26-Jan-01 ,0.5432
+Australia,Dollars,29-Jan-01 ,0.5432
+Australia,Dollars,30-Jan-01 ,0.5474
+Australia,Dollars,31-Jan-01 ,0.5480
+Australia,Dollars, 1-Feb-01 ,0.5540
+Australia,Dollars, 2-Feb-01 ,0.5521
+Australia,Dollars, 5-Feb-01 ,0.5508
+Australia,Dollars, 6-Feb-01 ,0.5490
+Australia,Dollars, 7-Feb-01 ,0.5462
+Australia,Dollars, 8-Feb-01 ,0.5361
+Australia,Dollars, 9-Feb-01 ,0.5367
+Australia,Dollars,12-Feb-01 ,0.5381
+Australia,Dollars,13-Feb-01 ,0.5337
+Australia,Dollars,14-Feb-01 ,0.5282
+Australia,Dollars,15-Feb-01 ,0.5240
+Australia,Dollars,16-Feb-01 ,0.5305
+Australia,Dollars,19-Feb-01 ,ND
+Australia,Dollars,20-Feb-01 ,0.5224
+Australia,Dollars,21-Feb-01 ,0.5234
+Australia,Dollars,22-Feb-01 ,0.5246
+Australia,Dollars,23-Feb-01 ,0.5218
+Australia,Dollars,26-Feb-01 ,0.5213
+Australia,Dollars,27-Feb-01 ,0.5236
+Australia,Dollars,28-Feb-01 ,0.5248
+Australia,Dollars, 1-Mar-01 ,0.5262
+Australia,Dollars, 2-Mar-01 ,0.5292
+Australia,Dollars, 5-Mar-01 ,0.5218
+Australia,Dollars, 6-Mar-01 ,0.5170
+Australia,Dollars, 7-Mar-01 ,0.5090
+Australia,Dollars, 8-Mar-01 ,0.5089
+Australia,Dollars, 9-Mar-01 ,0.5085
+Australia,Dollars,12-Mar-01 ,0.5096
+Australia,Dollars,13-Mar-01 ,0.5031
+Australia,Dollars,14-Mar-01 ,0.4981
+Australia,Dollars,15-Mar-01 ,0.4944
+Australia,Dollars,16-Mar-01 ,0.4940
+Australia,Dollars,19-Mar-01 ,0.4984
+Australia,Dollars,20-Mar-01 ,0.4997
+Australia,Dollars,21-Mar-01 ,0.4936
+Australia,Dollars,22-Mar-01 ,0.4913
+Australia,Dollars,23-Mar-01 ,0.4963
+Australia,Dollars,26-Mar-01 ,0.4990
+Australia,Dollars,27-Mar-01 ,0.4963
+Australia,Dollars,28-Mar-01 ,0.4936
+Australia,Dollars,29-Mar-01 ,0.4921
+Australia,Dollars,30-Mar-01 ,0.4881
+Australia,Dollars, 2-Apr-01 ,0.4828
+Australia,Dollars, 3-Apr-01 ,0.4860
+Australia,Dollars, 4-Apr-01 ,0.4893
+Australia,Dollars, 5-Apr-01 ,0.4898
+Australia,Dollars, 6-Apr-01 ,0.4958
+Australia,Dollars, 9-Apr-01 ,0.4948
+Australia,Dollars,10-Apr-01 ,0.4945
+Australia,Dollars,11-Apr-01 ,0.5025
+Australia,Dollars,12-Apr-01 ,0.5082
+Australia,Dollars,13-Apr-01 ,0.5081
+Australia,Dollars,16-Apr-01 ,0.5105
+Australia,Dollars,17-Apr-01 ,0.5055
+Australia,Dollars,18-Apr-01 ,0.4990
+Australia,Dollars,19-Apr-01 ,0.5085
+Australia,Dollars,20-Apr-01 ,0.5178
+Australia,Dollars,23-Apr-01 ,0.5061
+Australia,Dollars,24-Apr-01 ,0.5035
+Australia,Dollars,25-Apr-01 ,0.5045
+Australia,Dollars,26-Apr-01 ,0.5065
+Australia,Dollars,27-Apr-01 ,0.5102
+Australia,Dollars,30-Apr-01 ,0.5096
+Australia,Dollars, 1-May-01 ,0.5177
+Australia,Dollars, 2-May-01 ,0.5213
+Australia,Dollars, 3-May-01 ,0.5187
+Australia,Dollars, 4-May-01 ,0.5189
+Australia,Dollars, 7-May-01 ,0.5186
+Australia,Dollars, 8-May-01 ,0.5182
+Australia,Dollars, 9-May-01 ,0.5222
+Australia,Dollars,10-May-01 ,0.5241
+Australia,Dollars,11-May-01 ,0.5207
+Australia,Dollars,14-May-01 ,0.5180
+Australia,Dollars,15-May-01 ,0.5193
+Australia,Dollars,16-May-01 ,0.5233
+Australia,Dollars,17-May-01 ,0.5273
+Australia,Dollars,18-May-01 ,0.5251
+Australia,Dollars,21-May-01 ,0.5290
+Australia,Dollars,22-May-01 ,0.5231
+Australia,Dollars,23-May-01 ,0.5188
+Australia,Dollars,24-May-01 ,0.5175
+Australia,Dollars,25-May-01 ,0.5193
+Australia,Dollars,28-May-01 ,ND
+Australia,Dollars,29-May-01 ,0.5166
+Australia,Dollars,30-May-01 ,0.5130
+Australia,Dollars,31-May-01 ,0.5068
+Australia,Dollars, 1-Jun-01 ,0.5084
+Australia,Dollars, 4-Jun-01 ,0.5062
+Australia,Dollars, 5-Jun-01 ,0.5093
+Australia,Dollars, 6-Jun-01 ,0.5141
+Australia,Dollars, 7-Jun-01 ,0.5191
+Australia,Dollars, 8-Jun-01 ,0.5243
+Australia,Dollars,11-Jun-01 ,0.5223
+Australia,Dollars,12-Jun-01 ,0.5237
+Australia,Dollars,13-Jun-01 ,0.5276
+Australia,Dollars,14-Jun-01 ,0.5261
+Australia,Dollars,15-Jun-01 ,0.5257
+Australia,Dollars,18-Jun-01 ,0.5238
+Australia,Dollars,19-Jun-01 ,0.5210
+Australia,Dollars,20-Jun-01 ,0.5182
+Australia,Dollars,21-Jun-01 ,0.5178
+Australia,Dollars,22-Jun-01 ,0.5168
+Australia,Dollars,25-Jun-01 ,0.5157
+Australia,Dollars,26-Jun-01 ,0.5198
+Australia,Dollars,27-Jun-01 ,0.5178
+Australia,Dollars,28-Jun-01 ,0.5110
+Australia,Dollars,29-Jun-01 ,0.5100
+Australia,Dollars, 2-Jul-01 ,0.5106
+Australia,Dollars, 3-Jul-01 ,0.5162
+Australia,Dollars, 4-Jul-01 ,ND
+Australia,Dollars, 5-Jul-01 ,0.5147
+Australia,Dollars, 6-Jul-01 ,0.5083
+Australia,Dollars, 9-Jul-01 ,0.5096
+Australia,Dollars,10-Jul-01 ,0.5106
+Australia,Dollars,11-Jul-01 ,0.5070
+Australia,Dollars,12-Jul-01 ,0.5048
+Australia,Dollars,13-Jul-01 ,0.5074
+Australia,Dollars,16-Jul-01 ,0.5080
+Australia,Dollars,17-Jul-01 ,0.5065
+Australia,Dollars,18-Jul-01 ,0.5142
+Australia,Dollars,19-Jul-01 ,0.5126
+Australia,Dollars,20-Jul-01 ,0.5055
+Australia,Dollars,23-Jul-01 ,0.5079
+Australia,Dollars,24-Jul-01 ,0.5080
+Australia,Dollars,25-Jul-01 ,0.5073
+Australia,Dollars,26-Jul-01 ,0.5072
+Australia,Dollars,27-Jul-01 ,0.5064
+Australia,Dollars,30-Jul-01 ,0.5057
+Australia,Dollars,31-Jul-01 ,0.5080
+Australia,Dollars, 1-Aug-01 ,0.5167
+Australia,Dollars, 2-Aug-01 ,0.5190
+Australia,Dollars, 3-Aug-01 ,0.5176
+Australia,Dollars, 6-Aug-01 ,0.5166
+Australia,Dollars, 7-Aug-01 ,0.5155
+Australia,Dollars, 8-Aug-01 ,0.5185
+Australia,Dollars, 9-Aug-01 ,0.5103
+Australia,Dollars,10-Aug-01 ,0.5130
+Australia,Dollars,13-Aug-01 ,0.5174
+Australia,Dollars,14-Aug-01 ,0.5196
+Australia,Dollars,15-Aug-01 ,0.5268
+Australia,Dollars,16-Aug-01 ,0.5274
+Australia,Dollars,17-Aug-01 ,0.5354
+Australia,Dollars,20-Aug-01 ,0.5323
+Australia,Dollars,21-Aug-01 ,0.5297
+Australia,Dollars,22-Aug-01 ,0.5362
+Australia,Dollars,23-Aug-01 ,0.5338
+Australia,Dollars,24-Aug-01 ,0.5311
+Australia,Dollars,27-Aug-01 ,0.5285
+Australia,Dollars,28-Aug-01 ,0.5292
+Australia,Dollars,29-Aug-01 ,0.5300
+Australia,Dollars,30-Aug-01 ,0.5330
+Australia,Dollars,31-Aug-01 ,0.5277
+Australia,Dollars, 3-Sep-01 ,ND
+Australia,Dollars, 4-Sep-01 ,0.5212
+Australia,Dollars, 5-Sep-01 ,0.5198
+Australia,Dollars, 6-Sep-01 ,0.5230
+Australia,Dollars, 7-Sep-01 ,0.5199
+Australia,Dollars,10-Sep-01 ,0.5135
+Australia,Dollars,11-Sep-01 ,ND
+Australia,Dollars,12-Sep-01 ,0.5161
+Australia,Dollars,13-Sep-01 ,0.5158
+Australia,Dollars,14-Sep-01 ,0.5156
+Australia,Dollars,17-Sep-01 ,0.5021
+Australia,Dollars,18-Sep-01 ,0.4954
+Australia,Dollars,19-Sep-01 ,0.4929
+Australia,Dollars,20-Sep-01 ,0.4920
+Australia,Dollars,21-Sep-01 ,0.4841
+Australia,Dollars,24-Sep-01 ,0.4900
+Australia,Dollars,25-Sep-01 ,0.4939
+Australia,Dollars,26-Sep-01 ,0.4891
+Australia,Dollars,27-Sep-01 ,0.4866
+Australia,Dollars,28-Sep-01 ,0.4946
+Australia,Dollars, 1-Oct-01 ,0.4923
+Australia,Dollars, 2-Oct-01 ,0.4953
+Australia,Dollars, 3-Oct-01 ,0.4971
+Australia,Dollars, 4-Oct-01 ,0.4975
+Australia,Dollars, 5-Oct-01 ,0.5060
+Australia,Dollars, 8-Oct-01 ,ND
+Australia,Dollars, 9-Oct-01 ,0.5009
+Australia,Dollars,10-Oct-01 ,0.5016
+Australia,Dollars,11-Oct-01 ,0.4985
+Australia,Dollars,12-Oct-01 ,0.5015
+Australia,Dollars,15-Oct-01 ,0.5135
+Australia,Dollars,16-Oct-01 ,0.5136
+Australia,Dollars,17-Oct-01 ,0.5139
+Australia,Dollars,18-Oct-01 ,0.5087
+Australia,Dollars,19-Oct-01 ,0.5080
+Australia,Dollars,22-Oct-01 ,0.5073
+Australia,Dollars,23-Oct-01 ,0.5087
+Australia,Dollars,24-Oct-01 ,0.5076
+Australia,Dollars,25-Oct-01 ,0.5047
+Australia,Dollars,26-Oct-01 ,0.5017
+Australia,Dollars,29-Oct-01 ,0.5056
+Australia,Dollars,30-Oct-01 ,0.5058
+Australia,Dollars,31-Oct-01 ,0.5030
+Australia,Dollars, 1-Nov-01 ,0.5086
+Australia,Dollars, 2-Nov-01 ,0.5077
+Australia,Dollars, 5-Nov-01 ,0.5076
+Australia,Dollars, 6-Nov-01 ,0.5131
+Australia,Dollars, 7-Nov-01 ,0.5152
+Australia,Dollars, 8-Nov-01 ,0.5147
+Australia,Dollars, 9-Nov-01 ,0.5145
+Australia,Dollars,12-Nov-01 ,ND
+Australia,Dollars,13-Nov-01 ,0.5199
+Australia,Dollars,14-Nov-01 ,0.5186
+Australia,Dollars,15-Nov-01 ,0.5180
+Australia,Dollars,16-Nov-01 ,0.5203
+Australia,Dollars,19-Nov-01 ,0.5205
+Australia,Dollars,20-Nov-01 ,0.5188
+Australia,Dollars,21-Nov-01 ,0.5162
+Australia,Dollars,22-Nov-01 ,ND
+Australia,Dollars,23-Nov-01 ,0.5170
+Australia,Dollars,26-Nov-01 ,0.5190
+Australia,Dollars,27-Nov-01 ,0.5217
+Australia,Dollars,28-Nov-01 ,0.5213
+Australia,Dollars,29-Nov-01 ,0.5176
+Australia,Dollars,30-Nov-01 ,0.5203
+Australia,Dollars, 3-Dec-01 ,0.5183
+Australia,Dollars, 4-Dec-01 ,0.5155
+Australia,Dollars, 5-Dec-01 ,0.5170
+Australia,Dollars, 6-Dec-01 ,0.5182
+Australia,Dollars, 7-Dec-01 ,0.5156
+Australia,Dollars,10-Dec-01 ,0.5150
+Australia,Dollars,11-Dec-01 ,0.5148
+Australia,Dollars,12-Dec-01 ,0.5201
+Australia,Dollars,13-Dec-01 ,0.5179
+Australia,Dollars,14-Dec-01 ,0.5186
+Australia,Dollars,17-Dec-01 ,0.5176
+Australia,Dollars,18-Dec-01 ,0.5157
+Australia,Dollars,19-Dec-01 ,0.5132
+Australia,Dollars,20-Dec-01 ,0.5047
+Australia,Dollars,21-Dec-01 ,0.5075
+Australia,Dollars,24-Dec-01 ,0.5086
+Australia,Dollars,25-Dec-01 ,ND
+Australia,Dollars,26-Dec-01 ,0.5080
+Australia,Dollars,27-Dec-01 ,0.5075
+Australia,Dollars,28-Dec-01 ,0.5112
+Australia,Dollars,31-Dec-01 ,0.5117
+Australia,Dollars, 1-Jan-02 ,ND
+Australia,Dollars, 2-Jan-02 ,0.5145
+Australia,Dollars, 3-Jan-02 ,0.5146
+Australia,Dollars, 4-Jan-02 ,0.5194
+Australia,Dollars, 7-Jan-02 ,0.5183
+Australia,Dollars, 8-Jan-02 ,0.5238
+Australia,Dollars, 9-Jan-02 ,0.5237
+Australia,Dollars,10-Jan-02 ,0.5229
+Australia,Dollars,11-Jan-02 ,0.5210
+Australia,Dollars,14-Jan-02 ,0.5180
+Australia,Dollars,15-Jan-02 ,0.5189
+Australia,Dollars,16-Jan-02 ,0.5155
+Australia,Dollars,17-Jan-02 ,0.5135
+Australia,Dollars,18-Jan-02 ,0.5150
+Australia,Dollars,21-Jan-02 ,ND
+Australia,Dollars,22-Jan-02 ,0.5186
+Australia,Dollars,23-Jan-02 ,0.5198
+Australia,Dollars,24-Jan-02 ,0.5195
+Australia,Dollars,25-Jan-02 ,0.5167
+Australia,Dollars,28-Jan-02 ,0.5166
+Australia,Dollars,29-Jan-02 ,0.5140
+Australia,Dollars,30-Jan-02 ,0.5060
+Australia,Dollars,31-Jan-02 ,0.5072
+Australia,Dollars, 1-Feb-02 ,0.5080
+Australia,Dollars, 4-Feb-02 ,0.5105
+Australia,Dollars, 5-Feb-02 ,0.5087
+Australia,Dollars, 6-Feb-02 ,0.5094
+Australia,Dollars, 7-Feb-02 ,0.5070
+Australia,Dollars, 8-Feb-02 ,0.5104
+Australia,Dollars,11-Feb-02 ,0.5125
+Australia,Dollars,12-Feb-02 ,0.5087
+Australia,Dollars,13-Feb-02 ,0.5087
+Australia,Dollars,14-Feb-02 ,0.5167
+Australia,Dollars,15-Feb-02 ,0.5167
+Australia,Dollars,18-Feb-02 ,ND
+Australia,Dollars,19-Feb-02 ,0.5177
+Australia,Dollars,20-Feb-02 ,0.5171
+Australia,Dollars,21-Feb-02 ,0.5169
+Australia,Dollars,22-Feb-02 ,0.5133
+Australia,Dollars,25-Feb-02 ,0.5132
+Australia,Dollars,26-Feb-02 ,0.5146
+Australia,Dollars,27-Feb-02 ,0.5158
+Australia,Dollars,28-Feb-02 ,0.5167
+Australia,Dollars, 1-Mar-02 ,0.5177
+Australia,Dollars, 4-Mar-02 ,0.5202
+Australia,Dollars, 5-Mar-02 ,0.5207
+Australia,Dollars, 6-Mar-02 ,0.5216
+Australia,Dollars, 7-Mar-02 ,0.5253
+Australia,Dollars, 8-Mar-02 ,0.5235
+Australia,Dollars,11-Mar-02 ,0.5212
+Australia,Dollars,12-Mar-02 ,0.5206
+Australia,Dollars,13-Mar-02 ,0.5200
+Australia,Dollars,14-Mar-02 ,0.5229
+Australia,Dollars,15-Mar-02 ,0.5257
+Australia,Dollars,18-Mar-02 ,0.5245
+Australia,Dollars,19-Mar-02 ,0.5235
+Australia,Dollars,20-Mar-02 ,0.5308
+Australia,Dollars,21-Mar-02 ,0.5322
+Australia,Dollars,22-Mar-02 ,0.5326
+Australia,Dollars,25-Mar-02 ,0.5305
+Australia,Dollars,26-Mar-02 ,0.5287
+Australia,Dollars,27-Mar-02 ,0.5275
+Australia,Dollars,28-Mar-02 ,0.5336
+Australia,Dollars,29-Mar-02 ,0.5333
+Australia,Dollars, 1-Apr-02 ,0.5347
+Australia,Dollars, 2-Apr-02 ,0.5347
+Australia,Dollars, 3-Apr-02 ,0.5314
+Australia,Dollars, 4-Apr-02 ,0.5305
+Australia,Dollars, 5-Apr-02 ,0.5306
+Australia,Dollars, 8-Apr-02 ,0.5270
+Australia,Dollars, 9-Apr-02 ,0.5274
+Australia,Dollars,10-Apr-02 ,0.5303
+Australia,Dollars,11-Apr-02 ,0.5342
+Australia,Dollars,12-Apr-02 ,0.5337
+Australia,Dollars,15-Apr-02 ,0.5313
+Australia,Dollars,16-Apr-02 ,0.5320
+Australia,Dollars,17-Apr-02 ,0.5370
+Australia,Dollars,18-Apr-02 ,0.5387
+Australia,Dollars,19-Apr-02 ,0.5390
+Australia,Dollars,22-Apr-02 ,0.5390
+Australia,Dollars,23-Apr-02 ,0.5392
+Australia,Dollars,24-Apr-02 ,0.5424
+Australia,Dollars,25-Apr-02 ,0.5442
+Australia,Dollars,26-Apr-02 ,0.5427
+Australia,Dollars,29-Apr-02 ,0.5380
+Australia,Dollars,30-Apr-02 ,0.5372
+Australia,Dollars, 1-May-02 ,0.5387
+Australia,Dollars, 2-May-02 ,0.5365
+Australia,Dollars, 3-May-02 ,0.5381
+Australia,Dollars, 6-May-02 ,0.5393
+Australia,Dollars, 7-May-02 ,0.5411
+Australia,Dollars, 8-May-02 ,0.5390
+Australia,Dollars, 9-May-02 ,0.5424
+Australia,Dollars,10-May-02 ,0.5445
+Australia,Dollars,13-May-02 ,0.5460
+Australia,Dollars,14-May-02 ,0.5462
+Australia,Dollars,15-May-02 ,0.5480
+Australia,Dollars,16-May-02 ,0.5492
+Australia,Dollars,17-May-02 ,0.5522
+Australia,Dollars,20-May-02 ,0.5524
+Australia,Dollars,21-May-02 ,0.5553
+Australia,Dollars,22-May-02 ,0.5584
+Australia,Dollars,23-May-02 ,0.5585
+Australia,Dollars,24-May-02 ,0.5558
+Australia,Dollars,27-May-02 ,ND
+Australia,Dollars,28-May-02 ,0.5615
+Australia,Dollars,29-May-02 ,0.5625
+Australia,Dollars,30-May-02 ,0.5645
+Australia,Dollars,31-May-02 ,0.5660
+Australia,Dollars, 3-Jun-02 ,0.5714
+Australia,Dollars, 4-Jun-02 ,0.5744
+Australia,Dollars, 5-Jun-02 ,0.5722
+Australia,Dollars, 6-Jun-02 ,0.5748
+Australia,Dollars, 7-Jun-02 ,0.5711
+Australia,Dollars,10-Jun-02 ,0.5693
+Australia,Dollars,11-Jun-02 ,0.5683
+Australia,Dollars,12-Jun-02 ,0.5715
+Australia,Dollars,13-Jun-02 ,0.5688
+Australia,Dollars,14-Jun-02 ,0.5603
+Australia,Dollars,17-Jun-02 ,0.5583
+Australia,Dollars,18-Jun-02 ,0.5618
+Australia,Dollars,19-Jun-02 ,0.5655
+Australia,Dollars,20-Jun-02 ,0.5709
+Australia,Dollars,21-Jun-02 ,0.5743
+Australia,Dollars,24-Jun-02 ,0.5737
+Australia,Dollars,25-Jun-02 ,0.5683
+Australia,Dollars,26-Jun-02 ,0.5614
+Australia,Dollars,27-Jun-02 ,0.5640
+Australia,Dollars,28-Jun-02 ,0.5628
+Australia,Dollars, 1-Jul-02 ,0.5615
+Australia,Dollars, 2-Jul-02 ,0.5623
+Australia,Dollars, 3-Jul-02 ,0.5603
+Australia,Dollars, 4-Jul-02 ,ND
+Australia,Dollars, 5-Jul-02 ,0.5568
+Australia,Dollars, 8-Jul-02 ,0.5644
+Australia,Dollars, 9-Jul-02 ,0.5688
+Australia,Dollars,10-Jul-02 ,0.5672
+Australia,Dollars,11-Jul-02 ,0.5593
+Australia,Dollars,12-Jul-02 ,0.5595
+Australia,Dollars,15-Jul-02 ,0.5599
+Australia,Dollars,16-Jul-02 ,0.5583
+Australia,Dollars,17-Jul-02 ,0.5516
+Australia,Dollars,18-Jul-02 ,0.5520
+Australia,Dollars,19-Jul-02 ,0.5555
+Australia,Dollars,22-Jul-02 ,0.5517
+Australia,Dollars,23-Jul-02 ,0.5454
+Australia,Dollars,24-Jul-02 ,0.5405
+Australia,Dollars,25-Jul-02 ,0.5416
+Australia,Dollars,26-Jul-02 ,0.5370
+Australia,Dollars,29-Jul-02 ,0.5410
+Australia,Dollars,30-Jul-02 ,0.5445
+Australia,Dollars,31-Jul-02 ,0.5445
+Australia,Dollars, 1-Aug-02 ,0.5387
+Australia,Dollars, 2-Aug-02 ,0.5396
+Australia,Dollars, 5-Aug-02 ,0.5292
+Australia,Dollars, 6-Aug-02 ,0.5280
+Australia,Dollars, 7-Aug-02 ,0.5363
+Australia,Dollars, 8-Aug-02 ,0.5331
+Australia,Dollars, 9-Aug-02 ,0.5354
+Australia,Dollars,12-Aug-02 ,0.5392
+Australia,Dollars,13-Aug-02 ,0.5381
+Australia,Dollars,14-Aug-02 ,0.5375
+Australia,Dollars,15-Aug-02 ,0.5443
+Australia,Dollars,16-Aug-02 ,0.5440
+Australia,Dollars,19-Aug-02 ,0.5422
+Australia,Dollars,20-Aug-02 ,0.5464
+Australia,Dollars,21-Aug-02 ,0.5444
+Australia,Dollars,22-Aug-02 ,0.5398
+Australia,Dollars,23-Aug-02 ,0.5433
+Australia,Dollars,26-Aug-02 ,0.5442
+Australia,Dollars,27-Aug-02 ,0.5534
+Australia,Dollars,28-Aug-02 ,0.5510
+Australia,Dollars,29-Aug-02 ,0.5517
+Australia,Dollars,30-Aug-02 ,0.5495
+Australia,Dollars, 2-Sep-02 ,ND
+Australia,Dollars, 3-Sep-02 ,0.5465
+Australia,Dollars, 4-Sep-02 ,0.5443
+Australia,Dollars, 5-Sep-02 ,0.5419
+Australia,Dollars, 6-Sep-02 ,0.5467
+Australia,Dollars, 9-Sep-02 ,0.5467
+Australia,Dollars,10-Sep-02 ,0.5468
+Australia,Dollars,11-Sep-02 ,0.5476
+Australia,Dollars,12-Sep-02 ,0.5518
+Australia,Dollars,13-Sep-02 ,0.5504
+Australia,Dollars,16-Sep-02 ,0.5487
+Australia,Dollars,17-Sep-02 ,0.5474
+Australia,Dollars,18-Sep-02 ,0.5485
+Australia,Dollars,19-Sep-02 ,0.5510
+Australia,Dollars,20-Sep-02 ,0.5464
+Australia,Dollars,23-Sep-02 ,0.5447
+Australia,Dollars,24-Sep-02 ,0.5445
+Australia,Dollars,25-Sep-02 ,0.5445
+Australia,Dollars,26-Sep-02 ,0.5443
+Australia,Dollars,27-Sep-02 ,0.5440
+Australia,Dollars,30-Sep-02 ,0.5429
+Australia,Dollars, 1-Oct-02 ,0.5422
+Australia,Dollars, 2-Oct-02 ,0.5442
+Australia,Dollars, 3-Oct-02 ,0.5465
+Australia,Dollars, 4-Oct-02 ,0.5461
+Australia,Dollars, 7-Oct-02 ,0.5497
+Australia,Dollars, 8-Oct-02 ,0.5470
+Australia,Dollars, 9-Oct-02 ,0.5485
+Australia,Dollars,10-Oct-02 ,0.5473
+Australia,Dollars,11-Oct-02 ,0.5485
+Australia,Dollars,14-Oct-02 ,ND
+Australia,Dollars,15-Oct-02 ,0.5467
+Australia,Dollars,16-Oct-02 ,0.5487
+Australia,Dollars,17-Oct-02 ,0.5500
+Australia,Dollars,18-Oct-02 ,0.5498
+Australia,Dollars,21-Oct-02 ,0.5530
+Australia,Dollars,22-Oct-02 ,0.5527
+Australia,Dollars,23-Oct-02 ,0.5526
+Australia,Dollars,24-Oct-02 ,0.5550
+Australia,Dollars,25-Oct-02 ,0.5545
+Australia,Dollars,28-Oct-02 ,0.5585
+Australia,Dollars,29-Oct-02 ,0.5561
+Australia,Dollars,30-Oct-02 ,0.5528
+Australia,Dollars,31-Oct-02 ,0.5548
+Australia,Dollars, 1-Nov-02 ,0.5595
+Australia,Dollars, 4-Nov-02 ,0.5610
+Australia,Dollars, 5-Nov-02 ,0.5615
+Australia,Dollars, 6-Nov-02 ,0.5615
+Australia,Dollars, 7-Nov-02 ,0.5660
+Australia,Dollars, 8-Nov-02 ,0.5658
+Australia,Dollars,11-Nov-02 ,ND
+Australia,Dollars,12-Nov-02 ,0.5610
+Australia,Dollars,13-Nov-02 ,0.5598
+Australia,Dollars,14-Nov-02 ,0.5626
+Australia,Dollars,15-Nov-02 ,0.5628
+Australia,Dollars,18-Nov-02 ,0.5635
+Australia,Dollars,19-Nov-02 ,0.5583
+Australia,Dollars,20-Nov-02 ,0.5595
+Australia,Dollars,21-Nov-02 ,0.5622
+Australia,Dollars,22-Nov-02 ,0.5638
+Australia,Dollars,25-Nov-02 ,0.5590
+Australia,Dollars,26-Nov-02 ,0.5597
+Australia,Dollars,27-Nov-02 ,0.5563
+Australia,Dollars,28-Nov-02 ,ND
+Australia,Dollars,29-Nov-02 ,0.5601
+Australia,Dollars, 2-Dec-02 ,0.5591
+Australia,Dollars, 3-Dec-02 ,0.5589
+Australia,Dollars, 4-Dec-02 ,0.5604
+Australia,Dollars, 5-Dec-02 ,0.5614
+Australia,Dollars, 6-Dec-02 ,0.5603
+Australia,Dollars, 9-Dec-02 ,0.5630
+Australia,Dollars,10-Dec-02 ,0.5595
+Australia,Dollars,11-Dec-02 ,0.5607
+Australia,Dollars,12-Dec-02 ,0.5651
+Australia,Dollars,13-Dec-02 ,0.5646
+Australia,Dollars,16-Dec-02 ,0.5660
+Australia,Dollars,17-Dec-02 ,0.5660
+Australia,Dollars,18-Dec-02 ,0.5650
+Australia,Dollars,19-Dec-02 ,0.5650
+Australia,Dollars,20-Dec-02 ,0.5618
+Australia,Dollars,23-Dec-02 ,0.5613
+Australia,Dollars,24-Dec-02 ,0.5630
+Australia,Dollars,25-Dec-02 ,ND
+Australia,Dollars,26-Dec-02 ,0.5627
+Australia,Dollars,27-Dec-02 ,0.5608
+Australia,Dollars,30-Dec-02 ,0.5636
+Australia,Dollars,31-Dec-02 ,0.5625
+Australia,Dollars, 1-Jan-03 ,ND
+Australia,Dollars, 2-Jan-03 ,0.5629
+Australia,Dollars, 3-Jan-03 ,0.5655
+Australia,Dollars, 6-Jan-03 ,0.5762
+Australia,Dollars, 7-Jan-03 ,0.5753
+Australia,Dollars, 8-Jan-03 ,0.5749
+Australia,Dollars, 9-Jan-03 ,0.5765
+Australia,Dollars,10-Jan-03 ,0.5820
+Australia,Dollars,13-Jan-03 ,0.5833
+Australia,Dollars,14-Jan-03 ,0.5832
+Australia,Dollars,15-Jan-03 ,0.5848
+Australia,Dollars,16-Jan-03 ,0.5870
+Australia,Dollars,17-Jan-03 ,0.5909
+Australia,Dollars,20-Jan-03 ,ND
+Australia,Dollars,21-Jan-03 ,0.5867
+Australia,Dollars,22-Jan-03 ,0.5862
+Australia,Dollars,23-Jan-03 ,0.5908
+Australia,Dollars,24-Jan-03 ,0.5922
+Australia,Dollars,27-Jan-03 ,0.5896
+Australia,Dollars,28-Jan-03 ,0.5887
+Australia,Dollars,29-Jan-03 ,0.5908
+Australia,Dollars,30-Jan-03 ,0.5872
+Australia,Dollars,31-Jan-03 ,0.5860
+Australia,Dollars, 3-Feb-03 ,0.5843
+Australia,Dollars, 4-Feb-03 ,0.5906
+Australia,Dollars, 5-Feb-03 ,0.5902
+Australia,Dollars, 6-Feb-03 ,0.5910
+Australia,Dollars, 7-Feb-03 ,0.5903
+Australia,Dollars,10-Feb-03 ,0.5894
+Australia,Dollars,11-Feb-03 ,0.5893
+Australia,Dollars,12-Feb-03 ,0.5900
+Australia,Dollars,13-Feb-03 ,0.5960
+Australia,Dollars,14-Feb-03 ,0.5921
+Australia,Dollars,17-Feb-03 ,ND
+Australia,Dollars,18-Feb-03 ,0.5912
+Australia,Dollars,19-Feb-03 ,0.5943
+Australia,Dollars,20-Feb-03 ,0.5985
+Australia,Dollars,21-Feb-03 ,0.5972
+Australia,Dollars,24-Feb-03 ,0.6057
+Australia,Dollars,25-Feb-03 ,0.6053
+Australia,Dollars,26-Feb-03 ,0.6075
+Australia,Dollars,27-Feb-03 ,0.6054
+Australia,Dollars,28-Feb-03 ,0.6075
+Australia,Dollars, 3-Mar-03 ,0.6136
+Australia,Dollars, 4-Mar-03 ,0.6137
+Australia,Dollars, 5-Mar-03 ,0.6161
+Australia,Dollars, 6-Mar-03 ,0.6142
+Australia,Dollars, 7-Mar-03 ,0.6137
+Australia,Dollars,10-Mar-03 ,0.6157
+Australia,Dollars,11-Mar-03 ,0.6040
+Australia,Dollars,12-Mar-03 ,0.5959
+Australia,Dollars,13-Mar-03 ,0.5941
+Australia,Dollars,14-Mar-03 ,0.5966
+Australia,Dollars,17-Mar-03 ,0.5922
+Australia,Dollars,18-Mar-03 ,0.5927
+Australia,Dollars,19-Mar-03 ,0.5913
+Australia,Dollars,20-Mar-03 ,0.5935
+Australia,Dollars,21-Mar-03 ,0.5905
+Australia,Dollars,24-Mar-03 ,0.5947
+Australia,Dollars,25-Mar-03 ,0.5968
+Australia,Dollars,26-Mar-03 ,0.5972
+Australia,Dollars,27-Mar-03 ,0.6000
+Australia,Dollars,28-Mar-03 ,0.6003
+Australia,Dollars,31-Mar-03 ,0.6045
+Australia,Dollars, 1-Apr-03 ,0.6045
+Australia,Dollars, 2-Apr-03 ,0.5997
+Australia,Dollars, 3-Apr-03 ,0.5996
+Australia,Dollars, 4-Apr-03 ,0.6010
+Australia,Dollars, 7-Apr-03 ,0.5970
+Australia,Dollars, 8-Apr-03 ,0.6004
+Australia,Dollars, 9-Apr-03 ,0.6032
+Australia,Dollars,10-Apr-03 ,0.6061
+Australia,Dollars,11-Apr-03 ,0.6047
+Australia,Dollars,14-Apr-03 ,0.6031
+Australia,Dollars,15-Apr-03 ,0.6056
+Australia,Dollars,16-Apr-03 ,0.6115
+Australia,Dollars,17-Apr-03 ,0.6147
+Australia,Dollars,18-Apr-03 ,0.6144
+Australia,Dollars,21-Apr-03 ,0.6140
+Australia,Dollars,22-Apr-03 ,0.6212
+Australia,Dollars,23-Apr-03 ,0.6173
+Australia,Dollars,24-Apr-03 ,0.6205
+Australia,Dollars,25-Apr-03 ,0.6152
+Australia,Dollars,28-Apr-03 ,0.6192
+Australia,Dollars,29-Apr-03 ,0.6200
+Australia,Dollars,30-Apr-03 ,0.6262
+Australia,Dollars, 1-May-03 ,0.6318
+Australia,Dollars, 2-May-03 ,0.6298
+Australia,Dollars, 5-May-03 ,0.6343
+Australia,Dollars, 6-May-03 ,0.6383
+Australia,Dollars, 7-May-03 ,0.6362
+Australia,Dollars, 8-May-03 ,0.6424
+Australia,Dollars, 9-May-03 ,0.6448
+Australia,Dollars,12-May-03 ,0.6482
+Australia,Dollars,13-May-03 ,0.6458
+Australia,Dollars,14-May-03 ,0.6474
+Australia,Dollars,15-May-03 ,0.6425
+Australia,Dollars,16-May-03 ,0.6502
+Australia,Dollars,19-May-03 ,0.6560
+Australia,Dollars,20-May-03 ,0.6572
+Australia,Dollars,21-May-03 ,0.6563
+Australia,Dollars,22-May-03 ,0.6585
+Australia,Dollars,23-May-03 ,0.6575
+Australia,Dollars,26-May-03 ,ND
+Australia,Dollars,27-May-03 ,0.6585
+Australia,Dollars,28-May-03 ,0.6479
+Australia,Dollars,29-May-03 ,0.6477
+Australia,Dollars,30-May-03 ,0.6513
+Australia,Dollars, 2-Jun-03 ,0.6564
+Australia,Dollars, 3-Jun-03 ,0.6599
+Australia,Dollars, 4-Jun-03 ,0.6657
+Australia,Dollars, 5-Jun-03 ,0.6674
+Australia,Dollars, 6-Jun-03 ,0.6591
+Australia,Dollars, 9-Jun-03 ,0.6583
+Australia,Dollars,10-Jun-03 ,0.6565
+Australia,Dollars,11-Jun-03 ,0.6642
+Australia,Dollars,12-Jun-03 ,0.6652
+Australia,Dollars,13-Jun-03 ,0.6671
+Australia,Dollars,16-Jun-03 ,0.6676
+Australia,Dollars,17-Jun-03 ,0.6717
+Australia,Dollars,18-Jun-03 ,0.6729
+Australia,Dollars,19-Jun-03 ,0.6696
+Australia,Dollars,20-Jun-03 ,0.6675
+Australia,Dollars,23-Jun-03 ,0.6643
+Australia,Dollars,24-Jun-03 ,0.6622
+Australia,Dollars,25-Jun-03 ,0.6723
+Australia,Dollars,26-Jun-03 ,0.6651
+Australia,Dollars,27-Jun-03 ,0.6655
+Australia,Dollars,30-Jun-03 ,0.6713
+Australia,Dollars, 1-Jul-03 ,0.6760
+Australia,Dollars, 2-Jul-03 ,0.6809
+Australia,Dollars, 3-Jul-03 ,0.6823
+Australia,Dollars, 4-Jul-03 ,ND
+Australia,Dollars, 7-Jul-03 ,0.6806
+Australia,Dollars, 8-Jul-03 ,0.6570
+Australia,Dollars, 9-Jul-03 ,0.6545
+Australia,Dollars,10-Jul-03 ,0.6587
+Australia,Dollars,11-Jul-03 ,0.6607
+Australia,Dollars,14-Jul-03 ,0.6600
+Australia,Dollars,15-Jul-03 ,0.6518
+Australia,Dollars,16-Jul-03 ,0.6565
+Australia,Dollars,17-Jul-03 ,0.6517
+Australia,Dollars,18-Jul-03 ,0.6454
+Australia,Dollars,21-Jul-03 ,0.6518
+Australia,Dollars,22-Jul-03 ,0.6505
+Australia,Dollars,23-Jul-03 ,0.6597
+Australia,Dollars,24-Jul-03 ,0.6648
+Australia,Dollars,25-Jul-03 ,0.6642
+Australia,Dollars,28-Jul-03 ,0.6639
+Australia,Dollars,29-Jul-03 ,0.6653
+Australia,Dollars,30-Jul-03 ,0.6525
+Australia,Dollars,31-Jul-03 ,0.6474
+Australia,Dollars, 1-Aug-03 ,0.6538
+Australia,Dollars, 4-Aug-03 ,0.6472
+Australia,Dollars, 5-Aug-03 ,0.6466
+Australia,Dollars, 6-Aug-03 ,0.6465
+Australia,Dollars, 7-Aug-03 ,0.6510
+Australia,Dollars, 8-Aug-03 ,0.6535
+Australia,Dollars,11-Aug-03 ,0.6586
+Australia,Dollars,12-Aug-03 ,0.6568
+Australia,Dollars,13-Aug-03 ,0.6572
+Australia,Dollars,14-Aug-03 ,0.6562
+Australia,Dollars,15-Aug-03 ,0.6583
+Australia,Dollars,18-Aug-03 ,0.6562
+Australia,Dollars,19-Aug-03 ,0.6563
+Australia,Dollars,20-Aug-03 ,0.6593
+Australia,Dollars,21-Aug-03 ,0.6535
+Australia,Dollars,22-Aug-03 ,0.6506
+Australia,Dollars,25-Aug-03 ,0.6513
+Australia,Dollars,26-Aug-03 ,0.6455
+Australia,Dollars,27-Aug-03 ,0.6406
+Australia,Dollars,28-Aug-03 ,0.6390
+Australia,Dollars,29-Aug-03 ,0.6490
+Australia,Dollars, 1-Sep-03 ,ND
+Australia,Dollars, 2-Sep-03 ,0.6402
+Australia,Dollars, 3-Sep-03 ,0.6405
+Australia,Dollars, 4-Sep-03 ,0.6395
+Australia,Dollars, 5-Sep-03 ,0.6468
+Australia,Dollars, 8-Sep-03 ,0.6502
+Australia,Dollars, 9-Sep-03 ,0.6580
+Australia,Dollars,10-Sep-03 ,0.6575
+Australia,Dollars,11-Sep-03 ,0.6595
+Australia,Dollars,12-Sep-03 ,0.6638
+Australia,Dollars,15-Sep-03 ,0.6665
+Australia,Dollars,16-Sep-03 ,0.6618
+Australia,Dollars,17-Sep-03 ,0.6642
+Australia,Dollars,18-Sep-03 ,0.6659
+Australia,Dollars,19-Sep-03 ,0.6727
+Australia,Dollars,22-Sep-03 ,0.6810
+Australia,Dollars,23-Sep-03 ,0.6789
+Australia,Dollars,24-Sep-03 ,0.6784
+Australia,Dollars,25-Sep-03 ,0.6796
+Australia,Dollars,26-Sep-03 ,0.6745
+Australia,Dollars,29-Sep-03 ,0.6745
+Australia,Dollars,30-Sep-03 ,0.6797
+Australia,Dollars, 1-Oct-03 ,0.6830
+Australia,Dollars, 2-Oct-03 ,0.6846
+Australia,Dollars, 3-Oct-03 ,0.6814
+Australia,Dollars, 6-Oct-03 ,0.6848
+Australia,Dollars, 7-Oct-03 ,0.6908
+Australia,Dollars, 8-Oct-03 ,0.6903
+Australia,Dollars, 9-Oct-03 ,0.6880
+Australia,Dollars,10-Oct-03 ,0.6916
+Australia,Dollars,13-Oct-03 ,ND
+Australia,Dollars,14-Oct-03 ,0.6889
+Australia,Dollars,15-Oct-03 ,0.6898
+Australia,Dollars,16-Oct-03 ,0.6912
+Australia,Dollars,17-Oct-03 ,0.6918
+Australia,Dollars,20-Oct-03 ,0.6935
+Australia,Dollars,21-Oct-03 ,0.6996
+Australia,Dollars,22-Oct-03 ,0.7067
+Australia,Dollars,23-Oct-03 ,0.6999
+Australia,Dollars,24-Oct-03 ,0.7009
+Australia,Dollars,27-Oct-03 ,0.7038
+Australia,Dollars,28-Oct-03 ,0.7051
+Australia,Dollars,29-Oct-03 ,0.7047
+Australia,Dollars,30-Oct-03 ,0.7075
+Australia,Dollars,31-Oct-03 ,0.7077
+Australia,Dollars, 3-Nov-03 ,0.6986
+Australia,Dollars, 4-Nov-03 ,0.7017
+Australia,Dollars, 5-Nov-03 ,0.7100
+Australia,Dollars, 6-Nov-03 ,0.7075
+Australia,Dollars, 7-Nov-03 ,0.7092
+Australia,Dollars,10-Nov-03 ,0.7167
+Australia,Dollars,11-Nov-03 ,ND
+Australia,Dollars,12-Nov-03 ,0.7180
+Australia,Dollars,13-Nov-03 ,0.7196
+Australia,Dollars,14-Nov-03 ,0.7179
+Australia,Dollars,17-Nov-03 ,0.7105
+Australia,Dollars,18-Nov-03 ,0.7212
+Australia,Dollars,19-Nov-03 ,0.7229
+Australia,Dollars,20-Nov-03 ,0.7238
+Australia,Dollars,21-Nov-03 ,0.7227
+Australia,Dollars,24-Nov-03 ,0.7176
+Australia,Dollars,25-Nov-03 ,0.7186
+Australia,Dollars,26-Nov-03 ,0.7237
+Australia,Dollars,27-Nov-03 ,ND
+Australia,Dollars,28-Nov-03 ,0.7236
+Australia,Dollars, 1-Dec-03 ,0.7265
+Australia,Dollars, 2-Dec-03 ,0.7318
+Australia,Dollars, 3-Dec-03 ,0.7358
+Australia,Dollars, 4-Dec-03 ,0.7336
+Australia,Dollars, 5-Dec-03 ,0.7358
+Australia,Dollars, 8-Dec-03 ,0.7402
+Australia,Dollars, 9-Dec-03 ,0.7398
+Australia,Dollars,10-Dec-03 ,0.7398
+Australia,Dollars,11-Dec-03 ,0.7355
+Australia,Dollars,12-Dec-03 ,0.7425
+Australia,Dollars,15-Dec-03 ,0.7429
+Australia,Dollars,16-Dec-03 ,0.7436
+Australia,Dollars,17-Dec-03 ,0.7408
+Australia,Dollars,18-Dec-03 ,0.7374
+Australia,Dollars,19-Dec-03 ,0.7365
+Australia,Dollars,22-Dec-03 ,0.7340
+Australia,Dollars,23-Dec-03 ,0.7361
+Australia,Dollars,24-Dec-03 ,0.7430
+Australia,Dollars,25-Dec-03 ,ND
+Australia,Dollars,26-Dec-03 ,0.7415
+Australia,Dollars,29-Dec-03 ,0.7422
+Australia,Dollars,30-Dec-03 ,0.7482
+Australia,Dollars,31-Dec-03 ,0.7520
+Australia,Dollars, 1-Jan-04 ,ND
+Australia,Dollars, 2-Jan-04 ,0.7576
+Australia,Dollars, 5-Jan-04 ,0.7682
+Australia,Dollars, 6-Jan-04 ,0.7702
+Australia,Dollars, 7-Jan-04 ,0.7685
+Australia,Dollars, 8-Jan-04 ,0.7755
+Australia,Dollars, 9-Jan-04 ,0.7777
+Australia,Dollars,12-Jan-04 ,0.7788
+Australia,Dollars,13-Jan-04 ,0.7772
+Australia,Dollars,14-Jan-04 ,0.7779
+Australia,Dollars,15-Jan-04 ,0.7702
+Australia,Dollars,16-Jan-04 ,0.7663
+Australia,Dollars,19-Jan-04 ,ND
+Australia,Dollars,20-Jan-04 ,0.7691
+Australia,Dollars,21-Jan-04 ,0.7733
+Australia,Dollars,22-Jan-04 ,0.7791
+Australia,Dollars,23-Jan-04 ,0.7714
+Australia,Dollars,26-Jan-04 ,0.7730
+Australia,Dollars,27-Jan-04 ,0.7805
+Australia,Dollars,28-Jan-04 ,0.7788
+Australia,Dollars,29-Jan-04 ,0.7585
+Australia,Dollars,30-Jan-04 ,0.7625
+Australia,Dollars, 2-Feb-04 ,0.7566
+Australia,Dollars, 3-Feb-04 ,0.7651
+Australia,Dollars, 4-Feb-04 ,0.7624
+Australia,Dollars, 5-Feb-04 ,0.7655
+Australia,Dollars, 6-Feb-04 ,0.7679
+Australia,Dollars, 9-Feb-04 ,0.7760
+Australia,Dollars,10-Feb-04 ,0.7814
+Australia,Dollars,11-Feb-04 ,0.7860
+Australia,Dollars,12-Feb-04 ,0.7887
+Australia,Dollars,13-Feb-04 ,0.7875
+Australia,Dollars,16-Feb-04 ,ND
+Australia,Dollars,17-Feb-04 ,0.7979
+Australia,Dollars,18-Feb-04 ,0.7930
+Australia,Dollars,19-Feb-04 ,0.7912
+Australia,Dollars,20-Feb-04 ,0.7740
+Australia,Dollars,23-Feb-04 ,0.7743
+Australia,Dollars,24-Feb-04 ,0.7808
+Australia,Dollars,25-Feb-04 ,0.7722
+Australia,Dollars,26-Feb-04 ,0.7703
+Australia,Dollars,27-Feb-04 ,0.7717
+Australia,Dollars, 1-Mar-04 ,0.7725
+Australia,Dollars, 2-Mar-04 ,0.7610
+Australia,Dollars, 3-Mar-04 ,0.7424
+Australia,Dollars, 4-Mar-04 ,0.7529
+Australia,Dollars, 5-Mar-04 ,0.7587
+Australia,Dollars, 8-Mar-04 ,0.7553
+Australia,Dollars, 9-Mar-04 ,0.7635
+Australia,Dollars,10-Mar-04 ,0.7486
+Australia,Dollars,11-Mar-04 ,0.7361
+Australia,Dollars,12-Mar-04 ,0.7325
+Australia,Dollars,15-Mar-04 ,0.7349
+Australia,Dollars,16-Mar-04 ,0.7411
+Australia,Dollars,17-Mar-04 ,0.7392
+Australia,Dollars,18-Mar-04 ,0.7522
+Australia,Dollars,19-Mar-04 ,0.7475
+Australia,Dollars,22-Mar-04 ,0.7548
+Australia,Dollars,23-Mar-04 ,0.7526
+Australia,Dollars,24-Mar-04 ,0.7488
+Australia,Dollars,25-Mar-04 ,0.7407
+Australia,Dollars,26-Mar-04 ,0.7428
+Australia,Dollars,29-Mar-04 ,0.7484
+Australia,Dollars,30-Mar-04 ,0.7531
+Australia,Dollars,31-Mar-04 ,0.7620
+Australia,Dollars, 1-Apr-04 ,0.7671
+Australia,Dollars, 2-Apr-04 ,0.7584
+Australia,Dollars, 5-Apr-04 ,0.7531
+Australia,Dollars, 6-Apr-04 ,0.7615
+Australia,Dollars, 7-Apr-04 ,0.7674
+Australia,Dollars, 8-Apr-04 ,0.7610
+Australia,Dollars, 9-Apr-04 ,0.7623
+Australia,Dollars,12-Apr-04 ,0.7677
+Australia,Dollars,13-Apr-04 ,0.7547
+Australia,Dollars,14-Apr-04 ,0.7339
+Australia,Dollars,15-Apr-04 ,0.7379
+Australia,Dollars,16-Apr-04 ,0.7456
+Australia,Dollars,19-Apr-04 ,0.7453
+Australia,Dollars,20-Apr-04 ,0.7371
+Australia,Dollars,21-Apr-04 ,0.7318
+Australia,Dollars,22-Apr-04 ,0.7303
+Australia,Dollars,23-Apr-04 ,0.7287
+Australia,Dollars,26-Apr-04 ,0.7335
+Australia,Dollars,27-Apr-04 ,0.7335
+Australia,Dollars,28-Apr-04 ,0.7232
+Australia,Dollars,29-Apr-04 ,0.7198
+Australia,Dollars,30-Apr-04 ,0.7210
+Australia,Dollars, 3-May-04 ,0.7198
+Australia,Dollars, 4-May-04 ,0.7284
+Australia,Dollars, 5-May-04 ,0.7337
+Australia,Dollars, 6-May-04 ,0.7238
+Australia,Dollars, 7-May-04 ,0.7031
+Australia,Dollars,10-May-04 ,0.6910
+Australia,Dollars,11-May-04 ,0.6953
+Australia,Dollars,12-May-04 ,0.6962
+Australia,Dollars,13-May-04 ,0.6882
+Australia,Dollars,14-May-04 ,0.6895
+Australia,Dollars,17-May-04 ,0.6887
+Australia,Dollars,18-May-04 ,0.6866
+Australia,Dollars,19-May-04 ,0.6978
+Australia,Dollars,20-May-04 ,0.6930
+Australia,Dollars,21-May-04 ,0.7008
+Australia,Dollars,24-May-04 ,0.6982
+Australia,Dollars,25-May-04 ,0.7060
+Australia,Dollars,26-May-04 ,0.7059
+Australia,Dollars,27-May-04 ,0.7179
+Australia,Dollars,28-May-04 ,0.7138
+Australia,Dollars,31-May-04 ,ND
+Australia,Dollars, 1-Jun-04 ,0.7067
+Australia,Dollars, 2-Jun-04 ,0.6970
+Australia,Dollars, 3-Jun-04 ,0.6849
+Australia,Dollars, 4-Jun-04 ,0.6922
+Australia,Dollars, 7-Jun-04 ,0.7043
+Australia,Dollars, 8-Jun-04 ,0.7010
+Australia,Dollars, 9-Jun-04 ,0.6920
+Australia,Dollars,10-Jun-04 ,0.6983
+Australia,Dollars,11-Jun-04 ,0.6912
+Australia,Dollars,14-Jun-04 ,0.6883
+Australia,Dollars,15-Jun-04 ,0.6960
+Australia,Dollars,16-Jun-04 ,0.6870
+Australia,Dollars,17-Jun-04 ,0.6840
+Australia,Dollars,18-Jun-04 ,0.6905
+Australia,Dollars,21-Jun-04 ,0.6905
+Australia,Dollars,22-Jun-04 ,0.6855
+Australia,Dollars,23-Jun-04 ,0.6865
+Australia,Dollars,24-Jun-04 ,0.6996
+Australia,Dollars,25-Jun-04 ,0.6990
+Australia,Dollars,28-Jun-04 ,0.6998
+Australia,Dollars,29-Jun-04 ,0.6908
+Australia,Dollars,30-Jun-04 ,0.6952
+Australia,Dollars, 1-Jul-04 ,0.7036
+Australia,Dollars, 2-Jul-04 ,0.7125
+Australia,Dollars, 5-Jul-04 ,ND
+Australia,Dollars, 6-Jul-04 ,0.7148
+Australia,Dollars, 7-Jul-04 ,0.7232
+Australia,Dollars, 8-Jul-04 ,0.7221
+Australia,Dollars, 9-Jul-04 ,0.7226
+Australia,Dollars,12-Jul-04 ,0.7280
+Australia,Dollars,13-Jul-04 ,0.7216
+Australia,Dollars,14-Jul-04 ,0.7225
+Australia,Dollars,15-Jul-04 ,0.7235
+Australia,Dollars,16-Jul-04 ,0.7310
+Australia,Dollars,19-Jul-04 ,0.7334
+Australia,Dollars,20-Jul-04 ,0.7313
+Australia,Dollars,21-Jul-04 ,0.7131
+Australia,Dollars,22-Jul-04 ,0.7152
+Australia,Dollars,23-Jul-04 ,0.7102
+Australia,Dollars,26-Jul-04 ,0.7090
+Australia,Dollars,27-Jul-04 ,0.7006
+Australia,Dollars,28-Jul-04 ,0.6980
+Australia,Dollars,29-Jul-04 ,0.6994
+Australia,Dollars,30-Jul-04 ,0.7035
+Australia,Dollars, 2-Aug-04 ,0.7042
+Australia,Dollars, 3-Aug-04 ,0.7046
+Australia,Dollars, 4-Aug-04 ,0.7037
+Australia,Dollars, 5-Aug-04 ,0.7038
+Australia,Dollars, 6-Aug-04 ,0.7148
+Australia,Dollars, 9-Aug-04 ,0.7172
+Australia,Dollars,10-Aug-04 ,0.7155
+Australia,Dollars,11-Aug-04 ,0.7132
+Australia,Dollars,12-Aug-04 ,0.7127
+Australia,Dollars,13-Aug-04 ,0.7160
+Australia,Dollars,16-Aug-04 ,0.7169
+Australia,Dollars,17-Aug-04 ,0.7148
+Australia,Dollars,18-Aug-04 ,0.7145
+Australia,Dollars,19-Aug-04 ,0.7245
+Australia,Dollars,20-Aug-04 ,0.7238
+Australia,Dollars,23-Aug-04 ,0.7184
+Australia,Dollars,24-Aug-04 ,0.7064
+Australia,Dollars,25-Aug-04 ,0.7061
+Australia,Dollars,26-Aug-04 ,0.7010
+Australia,Dollars,27-Aug-04 ,0.7040
+Australia,Dollars,30-Aug-04 ,0.7001
+Australia,Dollars,31-Aug-04 ,0.7071
+Australia,Dollars, 1-Sep-04 ,0.7039
+Australia,Dollars, 2-Sep-04 ,0.6952
+Australia,Dollars, 3-Sep-04 ,0.6900
+Australia,Dollars, 6-Sep-04 ,ND
+Australia,Dollars, 7-Sep-04 ,0.6933
+Australia,Dollars, 8-Sep-04 ,0.6970
+Australia,Dollars, 9-Sep-04 ,0.6880
+Australia,Dollars,10-Sep-04 ,0.6968
+Australia,Dollars,13-Sep-04 ,0.6959
+Australia,Dollars,14-Sep-04 ,0.7030
+Australia,Dollars,15-Sep-04 ,0.6945
+Australia,Dollars,16-Sep-04 ,0.6988
+Australia,Dollars,17-Sep-04 ,0.6971
+Australia,Dollars,20-Sep-04 ,0.7006
+Australia,Dollars,21-Sep-04 ,0.7011
+Australia,Dollars,22-Sep-04 ,0.7075
+Australia,Dollars,23-Sep-04 ,0.7139
+Australia,Dollars,24-Sep-04 ,0.7139
+Australia,Dollars,27-Sep-04 ,0.7133
+Australia,Dollars,28-Sep-04 ,0.7160
+Australia,Dollars,29-Sep-04 ,0.7148
+Australia,Dollars,30-Sep-04 ,0.7244
+Australia,Dollars, 1-Oct-04 ,0.7232
+Australia,Dollars, 4-Oct-04 ,0.7207
+Australia,Dollars, 5-Oct-04 ,0.7232
+Australia,Dollars, 6-Oct-04 ,0.7236
+Australia,Dollars, 7-Oct-04 ,0.7267
+Australia,Dollars, 8-Oct-04 ,0.7352
+Australia,Dollars,11-Oct-04 ,ND
+Australia,Dollars,12-Oct-04 ,0.7305
+Australia,Dollars,13-Oct-04 ,0.7235
+Australia,Dollars,14-Oct-04 ,0.7315
+Australia,Dollars,15-Oct-04 ,0.7317
+Australia,Dollars,18-Oct-04 ,0.7267
+Australia,Dollars,19-Oct-04 ,0.7285
+Australia,Dollars,20-Oct-04 ,0.7367
+Australia,Dollars,21-Oct-04 ,0.7390
+Australia,Dollars,22-Oct-04 ,0.7396
+Australia,Dollars,25-Oct-04 ,0.7476
+Australia,Dollars,26-Oct-04 ,0.7460
+Australia,Dollars,27-Oct-04 ,0.7460
+Australia,Dollars,28-Oct-04 ,0.7478
+Australia,Dollars,29-Oct-04 ,0.7468
+Australia,Dollars, 1-Nov-04 ,0.7460
+Australia,Dollars, 2-Nov-04 ,0.7447
+Australia,Dollars, 3-Nov-04 ,0.7539
+Australia,Dollars, 4-Nov-04 ,0.7585
+Australia,Dollars, 5-Nov-04 ,0.7620
+Australia,Dollars, 8-Nov-04 ,0.7578
+Australia,Dollars, 9-Nov-04 ,0.7618
+Australia,Dollars,10-Nov-04 ,0.7592
+Australia,Dollars,11-Nov-04 ,ND
+Australia,Dollars,12-Nov-04 ,0.7685
+Australia,Dollars,15-Nov-04 ,0.7719
+Australia,Dollars,16-Nov-04 ,0.7728
+Australia,Dollars,17-Nov-04 ,0.7833
+Australia,Dollars,18-Nov-04 ,0.7786
+Australia,Dollars,19-Nov-04 ,0.7852
+Australia,Dollars,22-Nov-04 ,0.7839
+Australia,Dollars,23-Nov-04 ,0.7860
+Australia,Dollars,24-Nov-04 ,0.7863
+Australia,Dollars,25-Nov-04 ,ND
+Australia,Dollars,26-Nov-04 ,0.7903
+Australia,Dollars,29-Nov-04 ,0.7852
+Australia,Dollars,30-Nov-04 ,0.7723
+Australia,Dollars, 1-Dec-04 ,0.7754
+Australia,Dollars, 2-Dec-04 ,0.7769
+Australia,Dollars, 3-Dec-04 ,0.7778
+Australia,Dollars, 6-Dec-04 ,0.7748
+Australia,Dollars, 7-Dec-04 ,0.7754
+Australia,Dollars, 8-Dec-04 ,0.7545
+Australia,Dollars, 9-Dec-04 ,0.7532
+Australia,Dollars,10-Dec-04 ,0.7495
+Australia,Dollars,13-Dec-04 ,0.7592
+Australia,Dollars,14-Dec-04 ,0.7566
+Australia,Dollars,15-Dec-04 ,0.7652
+Australia,Dollars,16-Dec-04 ,0.7563
+Australia,Dollars,17-Dec-04 ,0.7607
+Australia,Dollars,20-Dec-04 ,0.7644
+Australia,Dollars,21-Dec-04 ,0.7660
+Australia,Dollars,22-Dec-04 ,0.7656
+Australia,Dollars,23-Dec-04 ,0.7654
+Australia,Dollars,24-Dec-04 ,0.7689
+Australia,Dollars,27-Dec-04 ,0.7777
+Australia,Dollars,28-Dec-04 ,0.7787
+Australia,Dollars,29-Dec-04 ,0.7709
+Australia,Dollars,30-Dec-04 ,0.7785
+Australia,Dollars,31-Dec-04 ,0.7805
+Australia,Dollars, 3-Jan-05 ,0.7790
+Australia,Dollars, 4-Jan-05 ,0.7668
+Australia,Dollars, 5-Jan-05 ,0.7678
+Australia,Dollars, 6-Jan-05 ,0.7612
+Australia,Dollars, 7-Jan-05 ,0.7580
+Australia,Dollars,10-Jan-05 ,0.7596
+Australia,Dollars,11-Jan-05 ,0.7642
+Australia,Dollars,12-Jan-05 ,0.7680
+Australia,Dollars,13-Jan-05 ,0.7670
+Australia,Dollars,14-Jan-05 ,0.7586
+Australia,Dollars,17-Jan-05 ,ND
+Australia,Dollars,18-Jan-05 ,0.7578
+Australia,Dollars,19-Jan-05 ,0.7606
+Australia,Dollars,20-Jan-05 ,0.7612
+Australia,Dollars,21-Jan-05 ,0.7712
+Australia,Dollars,24-Jan-05 ,0.7690
+Australia,Dollars,25-Jan-05 ,0.7650
+Australia,Dollars,26-Jan-05 ,0.7751
+Australia,Dollars,27-Jan-05 ,0.7756
+Australia,Dollars,28-Jan-05 ,0.7751
+Australia,Dollars,31-Jan-05 ,0.7759
+Australia,Dollars, 1-Feb-05 ,0.7723
+Australia,Dollars, 2-Feb-05 ,0.7737
+Australia,Dollars, 3-Feb-05 ,0.7703
+Australia,Dollars, 4-Feb-05 ,0.7725
+Australia,Dollars, 7-Feb-05 ,0.7713
+Australia,Dollars, 8-Feb-05 ,0.7669
+Australia,Dollars, 9-Feb-05 ,0.7684
+Australia,Dollars,10-Feb-05 ,0.7826
+Australia,Dollars,11-Feb-05 ,0.7853
+Australia,Dollars,14-Feb-05 ,0.7892
+Australia,Dollars,15-Feb-05 ,0.7863
+Australia,Dollars,16-Feb-05 ,0.7819
+Australia,Dollars,17-Feb-05 ,0.7883
+Australia,Dollars,18-Feb-05 ,0.7878
+Australia,Dollars,21-Feb-05 ,ND
+Australia,Dollars,22-Feb-05 ,0.7940
+Australia,Dollars,23-Feb-05 ,0.7860
+Australia,Dollars,24-Feb-05 ,0.7871
+Australia,Dollars,25-Feb-05 ,0.7853
+Australia,Dollars,28-Feb-05 ,0.7940
+Australia,Dollars, 1-Mar-05 ,0.7847
+Australia,Dollars, 2-Mar-05 ,0.7834
+Australia,Dollars, 3-Mar-05 ,0.7842
+Australia,Dollars, 4-Mar-05 ,0.7919
+Australia,Dollars, 7-Mar-05 ,0.7925
+Australia,Dollars, 8-Mar-05 ,0.7974
+Australia,Dollars, 9-Mar-05 ,0.7930
+Australia,Dollars,10-Mar-05 ,0.7901
+Australia,Dollars,11-Mar-05 ,0.7936
+Australia,Dollars,14-Mar-05 ,0.7866
+Australia,Dollars,15-Mar-05 ,0.7894
+Australia,Dollars,16-Mar-05 ,0.7946
+Australia,Dollars,17-Mar-05 ,0.7935
+Australia,Dollars,18-Mar-05 ,0.7937
+Australia,Dollars,21-Mar-05 ,0.7866
+Australia,Dollars,22-Mar-05 ,0.7918
+Australia,Dollars,23-Mar-05 ,0.7747
+Australia,Dollars,24-Mar-05 ,0.7711
+Australia,Dollars,25-Mar-05 ,0.7719
+Australia,Dollars,28-Mar-05 ,0.7685
+Australia,Dollars,29-Mar-05 ,0.7715
+Australia,Dollars,30-Mar-05 ,0.7717
+Australia,Dollars,31-Mar-05 ,0.7729
+Australia,Dollars, 1-Apr-05 ,0.7697
+Australia,Dollars, 4-Apr-05 ,0.7670
+Australia,Dollars, 5-Apr-05 ,0.7674
+Australia,Dollars, 6-Apr-05 ,0.7658
+Australia,Dollars, 7-Apr-05 ,0.7684
+Australia,Dollars, 8-Apr-05 ,0.7726
+Australia,Dollars,11-Apr-05 ,0.7755
+Australia,Dollars,12-Apr-05 ,0.7734
+Australia,Dollars,13-Apr-05 ,0.7797
+Australia,Dollars,14-Apr-05 ,0.7715
+Australia,Dollars,15-Apr-05 ,0.7703
+Australia,Dollars,18-Apr-05 ,0.7664
+Australia,Dollars,19-Apr-05 ,0.7704
+Australia,Dollars,20-Apr-05 ,0.7755
+Australia,Dollars,21-Apr-05 ,0.7768
+Australia,Dollars,22-Apr-05 ,0.7819
+Australia,Dollars,25-Apr-05 ,0.7799
+Australia,Dollars,26-Apr-05 ,0.7792
+Australia,Dollars,27-Apr-05 ,0.7764
+Australia,Dollars,28-Apr-05 ,0.7795
+Australia,Dollars,29-Apr-05 ,0.7834
+Australia,Dollars, 2-May-05 ,0.7796
+Australia,Dollars, 3-May-05 ,0.7737
+Australia,Dollars, 4-May-05 ,0.7777
+Australia,Dollars, 5-May-05 ,0.7810
+Australia,Dollars, 6-May-05 ,0.7763
+Australia,Dollars, 9-May-05 ,0.7731
+Australia,Dollars,10-May-05 ,0.7757
+Australia,Dollars,11-May-05 ,0.7745
+Australia,Dollars,12-May-05 ,0.7679
+Australia,Dollars,13-May-05 ,0.7611
+Australia,Dollars,16-May-05 ,0.7565
+Australia,Dollars,17-May-05 ,0.7575
+Australia,Dollars,18-May-05 ,0.7598
+Australia,Dollars,19-May-05 ,0.7585
+Australia,Dollars,20-May-05 ,0.7550
+Australia,Dollars,23-May-05 ,0.7583
+Australia,Dollars,24-May-05 ,0.7623
+Australia,Dollars,25-May-05 ,0.7626
+Australia,Dollars,26-May-05 ,0.7604
+Australia,Dollars,27-May-05 ,0.7623
+Australia,Dollars,30-May-05 ,ND
+Australia,Dollars,31-May-05 ,0.7591
+Australia,Dollars, 1-Jun-05 ,0.7498
+Australia,Dollars, 2-Jun-05 ,0.7536
+Australia,Dollars, 3-Jun-05 ,0.7548
+Australia,Dollars, 6-Jun-05 ,0.7649
+Australia,Dollars, 7-Jun-05 ,0.7695
+Australia,Dollars, 8-Jun-05 ,0.7688
+Australia,Dollars, 9-Jun-05 ,0.7675
+Australia,Dollars,10-Jun-05 ,0.7625
+Australia,Dollars,13-Jun-05 ,0.7592
+Australia,Dollars,14-Jun-05 ,0.7655
+Australia,Dollars,15-Jun-05 ,0.7680
+Australia,Dollars,16-Jun-05 ,0.7721
+Australia,Dollars,17-Jun-05 ,0.7776
+Australia,Dollars,20-Jun-05 ,0.7767
+Australia,Dollars,21-Jun-05 ,0.7783
+Australia,Dollars,22-Jun-05 ,0.7792
+Australia,Dollars,23-Jun-05 ,0.7734
+Australia,Dollars,24-Jun-05 ,0.7684
+Australia,Dollars,27-Jun-05 ,0.7686
+Australia,Dollars,28-Jun-05 ,0.7644
+Australia,Dollars,29-Jun-05 ,0.7625
+Australia,Dollars,30-Jun-05 ,0.7618
+Australia,Dollars, 1-Jul-05 ,0.7516
+Australia,Dollars, 4-Jul-05 ,ND
+Australia,Dollars, 5-Jul-05 ,0.7418
+Australia,Dollars, 6-Jul-05 ,0.7411
+Australia,Dollars, 7-Jul-05 ,0.7403
+Australia,Dollars, 8-Jul-05 ,0.7410
+Australia,Dollars,11-Jul-05 ,0.7478
+Australia,Dollars,12-Jul-05 ,0.7559
+Australia,Dollars,13-Jul-05 ,0.7478
+Australia,Dollars,14-Jul-05 ,0.7518
+Australia,Dollars,15-Jul-05 ,0.7488
+Australia,Dollars,18-Jul-05 ,0.7541
+Australia,Dollars,19-Jul-05 ,0.7492
+Australia,Dollars,20-Jul-05 ,0.7540
+Australia,Dollars,21-Jul-05 ,0.7630
+Australia,Dollars,22-Jul-05 ,0.7661
+Australia,Dollars,25-Jul-05 ,0.7633
+Australia,Dollars,26-Jul-05 ,0.7585
+Australia,Dollars,27-Jul-05 ,0.7556
+Australia,Dollars,28-Jul-05 ,0.7571
+Australia,Dollars,29-Jul-05 ,0.7594
+Australia,Dollars, 1-Aug-05 ,0.7618
+Australia,Dollars, 2-Aug-05 ,0.7649
+Australia,Dollars, 3-Aug-05 ,0.7718
+Australia,Dollars, 4-Aug-05 ,0.7739
+Australia,Dollars, 5-Aug-05 ,0.7671
+Australia,Dollars, 8-Aug-05 ,0.7652
+Australia,Dollars, 9-Aug-05 ,0.7601
+Australia,Dollars,10-Aug-05 ,0.7640
+Australia,Dollars,11-Aug-05 ,0.7737
+Australia,Dollars,12-Aug-05 ,0.7723
+Australia,Dollars,15-Aug-05 ,0.7683
+Australia,Dollars,16-Aug-05 ,0.7688
+Australia,Dollars,17-Aug-05 ,0.7623
+Australia,Dollars,18-Aug-05 ,0.7537
+Australia,Dollars,19-Aug-05 ,0.7505
+Australia,Dollars,22-Aug-05 ,0.7548
+Australia,Dollars,23-Aug-05 ,0.7551
+Australia,Dollars,24-Aug-05 ,0.7552
+Australia,Dollars,25-Aug-05 ,0.7600
+Australia,Dollars,26-Aug-05 ,0.7584
+Australia,Dollars,29-Aug-05 ,0.7522
+Australia,Dollars,30-Aug-05 ,0.7469
+Australia,Dollars,31-Aug-05 ,0.7514
+Australia,Dollars, 1-Sep-05 ,0.7609
+Australia,Dollars, 2-Sep-05 ,0.7649
+Australia,Dollars, 5-Sep-05 ,ND
+Australia,Dollars, 6-Sep-05 ,0.7668
+Australia,Dollars, 7-Sep-05 ,0.7684
+Australia,Dollars, 8-Sep-05 ,0.7712
+Australia,Dollars, 9-Sep-05 ,0.7731
+Australia,Dollars,12-Sep-05 ,0.7719
+Australia,Dollars,13-Sep-05 ,0.7677
+Australia,Dollars,14-Sep-05 ,0.7710
+Australia,Dollars,15-Sep-05 ,0.7662
+Australia,Dollars,16-Sep-05 ,0.7666
+Australia,Dollars,19-Sep-05 ,0.7671
+Australia,Dollars,20-Sep-05 ,0.7693
+Australia,Dollars,21-Sep-05 ,0.7706
+Australia,Dollars,22-Sep-05 ,0.7633
+Australia,Dollars,23-Sep-05 ,0.7574
+Australia,Dollars,26-Sep-05 ,0.7567
+Australia,Dollars,27-Sep-05 ,0.7537
+Australia,Dollars,28-Sep-05 ,0.7572
+Australia,Dollars,29-Sep-05 ,0.7593
+Australia,Dollars,30-Sep-05 ,0.7643
+Australia,Dollars, 3-Oct-05 ,0.7628
+Australia,Dollars, 4-Oct-05 ,0.7630
+Australia,Dollars, 5-Oct-05 ,0.7567
+Australia,Dollars, 6-Oct-05 ,0.7572
+Australia,Dollars, 7-Oct-05 ,0.7568
+Australia,Dollars,10-Oct-05 ,ND
+Australia,Dollars,11-Oct-05 ,0.7534
+Australia,Dollars,12-Oct-05 ,0.7546
+Australia,Dollars,13-Oct-05 ,0.7468
+Australia,Dollars,14-Oct-05 ,0.7536
+Australia,Dollars,17-Oct-05 ,0.7503
+Australia,Dollars,18-Oct-05 ,0.7474
+Australia,Dollars,19-Oct-05 ,0.7484
+Australia,Dollars,20-Oct-05 ,0.7538
+Australia,Dollars,21-Oct-05 ,0.7473
+Australia,Dollars,24-Oct-05 ,0.7508
+Australia,Dollars,25-Oct-05 ,0.7558
+Australia,Dollars,26-Oct-05 ,0.7543
+Australia,Dollars,27-Oct-05 ,0.7580
+Australia,Dollars,28-Oct-05 ,0.7501
+Australia,Dollars,31-Oct-05 ,0.7480
+Australia,Dollars, 1-Nov-05 ,0.7451
+Australia,Dollars, 2-Nov-05 ,0.7414
+Australia,Dollars, 3-Nov-05 ,0.7400
+Australia,Dollars, 4-Nov-05 ,0.7318
+Australia,Dollars, 7-Nov-05 ,0.7322
+Australia,Dollars, 8-Nov-05 ,0.7358
+Australia,Dollars, 9-Nov-05 ,0.7332
+Australia,Dollars,10-Nov-05 ,0.7309
+Australia,Dollars,11-Nov-05 ,ND
+Australia,Dollars,14-Nov-05 ,0.7267
+Australia,Dollars,15-Nov-05 ,0.7324
+Australia,Dollars,16-Nov-05 ,0.7307
+Australia,Dollars,17-Nov-05 ,0.7338
+Australia,Dollars,18-Nov-05 ,0.7308
+Australia,Dollars,21-Nov-05 ,0.7366
+Australia,Dollars,22-Nov-05 ,0.7354
+Australia,Dollars,23-Nov-05 ,0.7383
+Australia,Dollars,24-Nov-05 ,ND
+Australia,Dollars,25-Nov-05 ,0.7351
+Australia,Dollars,28-Nov-05 ,0.7378
+Australia,Dollars,29-Nov-05 ,0.7390
+Australia,Dollars,30-Nov-05 ,0.7394
+Australia,Dollars, 1-Dec-05 ,0.7410
+Australia,Dollars, 2-Dec-05 ,0.7468
+Australia,Dollars, 5-Dec-05 ,0.7515
+Australia,Dollars, 6-Dec-05 ,0.7541
+Australia,Dollars, 7-Dec-05 ,0.7468
+Australia,Dollars, 8-Dec-05 ,0.7507
+Australia,Dollars, 9-Dec-05 ,0.7521
+Australia,Dollars,12-Dec-05 ,0.7554
+Australia,Dollars,13-Dec-05 ,0.7545
+Australia,Dollars,14-Dec-05 ,0.7567
+Australia,Dollars,15-Dec-05 ,0.7470
+Australia,Dollars,16-Dec-05 ,0.7430
+Australia,Dollars,19-Dec-05 ,0.7424
+Australia,Dollars,20-Dec-05 ,0.7328
+Australia,Dollars,21-Dec-05 ,0.7321
+Australia,Dollars,22-Dec-05 ,0.7314
+Australia,Dollars,23-Dec-05 ,0.7279
+Australia,Dollars,26-Dec-05 ,ND
+Australia,Dollars,27-Dec-05 ,0.7261
+Australia,Dollars,28-Dec-05 ,0.7301
+Australia,Dollars,29-Dec-05 ,0.7320
+Australia,Dollars,30-Dec-05 ,0.7342
+Australia,Dollars, 2-Jan-06 ,ND
+Australia,Dollars, 3-Jan-06 ,0.7379
+Australia,Dollars, 4-Jan-06 ,0.7465
+Australia,Dollars, 5-Jan-06 ,0.7482
+Australia,Dollars, 6-Jan-06 ,0.7528
+Australia,Dollars, 9-Jan-06 ,0.7517
+Australia,Dollars,10-Jan-06 ,0.7490
+Australia,Dollars,11-Jan-06 ,0.7558
+Australia,Dollars,12-Jan-06 ,0.7512
+Australia,Dollars,13-Jan-06 ,0.7535
+Australia,Dollars,16-Jan-06 ,ND
+Australia,Dollars,17-Jan-06 ,0.7517
+Australia,Dollars,18-Jan-06 ,0.7488
+Australia,Dollars,19-Jan-06 ,0.7469
+Australia,Dollars,20-Jan-06 ,0.7470
+Australia,Dollars,23-Jan-06 ,0.7523
+Australia,Dollars,24-Jan-06 ,0.7516
+Australia,Dollars,25-Jan-06 ,0.7535
+Australia,Dollars,26-Jan-06 ,0.7532
+Australia,Dollars,27-Jan-06 ,0.7518
+Australia,Dollars,30-Jan-06 ,0.7497
+Australia,Dollars,31-Jan-06 ,0.7572
+Australia,Dollars, 1-Feb-06 ,0.7542
+Australia,Dollars, 2-Feb-06 ,0.7548
+Australia,Dollars, 3-Feb-06 ,0.7491
+Australia,Dollars, 6-Feb-06 ,0.7426
+Australia,Dollars, 7-Feb-06 ,0.7436
+Australia,Dollars, 8-Feb-06 ,0.7393
+Australia,Dollars, 9-Feb-06 ,0.7396
+Australia,Dollars,10-Feb-06 ,0.7379
+Australia,Dollars,13-Feb-06 ,0.7396
+Australia,Dollars,14-Feb-06 ,0.7389
+Australia,Dollars,15-Feb-06 ,0.7403
+Australia,Dollars,16-Feb-06 ,0.7380
+Australia,Dollars,17-Feb-06 ,0.7385
+Australia,Dollars,20-Feb-06 ,ND
+Australia,Dollars,21-Feb-06 ,0.7394
+Australia,Dollars,22-Feb-06 ,0.7363
+Australia,Dollars,23-Feb-06 ,0.7397
+Australia,Dollars,24-Feb-06 ,0.7399
+Australia,Dollars,27-Feb-06 ,0.7387
+Australia,Dollars,28-Feb-06 ,0.7430
+Australia,Dollars, 1-Mar-06 ,0.7429
+Australia,Dollars, 2-Mar-06 ,0.7458
+Australia,Dollars, 3-Mar-06 ,0.7440
+Australia,Dollars, 6-Mar-06 ,0.7409
+Australia,Dollars, 7-Mar-06 ,0.7336
+Australia,Dollars, 8-Mar-06 ,0.7319
+Australia,Dollars, 9-Mar-06 ,0.7354
+Australia,Dollars,10-Mar-06 ,0.7310
+Australia,Dollars,13-Mar-06 ,0.7326
+Australia,Dollars,14-Mar-06 ,0.7362
+Australia,Dollars,15-Mar-06 ,0.7380
+Australia,Dollars,16-Mar-06 ,0.7350
+Australia,Dollars,17-Mar-06 ,0.7291
+Australia,Dollars,20-Mar-06 ,0.7223
+Australia,Dollars,21-Mar-06 ,0.7160
+Australia,Dollars,22-Mar-06 ,0.7204
+Australia,Dollars,23-Mar-06 ,0.7145
+Australia,Dollars,24-Mar-06 ,0.7107
+Australia,Dollars,27-Mar-06 ,0.7056
+Australia,Dollars,28-Mar-06 ,0.7086
+Australia,Dollars,29-Mar-06 ,0.7058
+Australia,Dollars,30-Mar-06 ,0.7140
+Australia,Dollars,31-Mar-06 ,0.7165
+Australia,Dollars, 3-Apr-06 ,0.7177
+Australia,Dollars, 4-Apr-06 ,0.7203
+Australia,Dollars, 5-Apr-06 ,0.7263
+Australia,Dollars, 6-Apr-06 ,0.7315
+Australia,Dollars, 7-Apr-06 ,0.7279
+Australia,Dollars,10-Apr-06 ,0.7282
+Australia,Dollars,11-Apr-06 ,0.7327
+Australia,Dollars,12-Apr-06 ,0.7315
+Australia,Dollars,13-Apr-06 ,0.7285
+Australia,Dollars,14-Apr-06 ,0.7289
+Australia,Dollars,17-Apr-06 ,0.7375
+Australia,Dollars,18-Apr-06 ,0.7385
+Australia,Dollars,19-Apr-06 ,0.7465
+Australia,Dollars,20-Apr-06 ,0.7376
+Australia,Dollars,21-Apr-06 ,0.7444
+Australia,Dollars,24-Apr-06 ,0.7444
+Australia,Dollars,25-Apr-06 ,0.7456
+Australia,Dollars,26-Apr-06 ,0.7535
+Australia,Dollars,27-Apr-06 ,0.7564
+Australia,Dollars,28-Apr-06 ,0.7593
+Australia,Dollars, 1-May-06 ,0.7607
+Australia,Dollars, 2-May-06 ,0.7631
+Australia,Dollars, 3-May-06 ,0.7711
+Australia,Dollars, 4-May-06 ,0.7726
+Australia,Dollars, 5-May-06 ,0.7707
+Australia,Dollars, 8-May-06 ,0.7697
+Australia,Dollars, 9-May-06 ,0.7724
+Australia,Dollars,10-May-06 ,0.7763
+Australia,Dollars,11-May-06 ,0.7781
+Australia,Dollars,12-May-06 ,0.7728
+Australia,Dollars,15-May-06 ,0.7627
+Australia,Dollars,16-May-06 ,0.7656
+Australia,Dollars,17-May-06 ,0.7594
+Australia,Dollars,18-May-06 ,0.7652
+Australia,Dollars,19-May-06 ,0.7569
+Australia,Dollars,22-May-06 ,0.7509
+Australia,Dollars,23-May-06 ,0.7546
+Australia,Dollars,24-May-06 ,0.7526
+Australia,Dollars,25-May-06 ,0.7585
+Australia,Dollars,26-May-06 ,0.7577
+Australia,Dollars,29-May-06 ,ND
+Australia,Dollars,30-May-06 ,0.7619
+Australia,Dollars,31-May-06 ,0.7519
+Australia,Dollars, 1-Jun-06 ,0.7480
+Australia,Dollars, 2-Jun-06 ,0.7510
+Australia,Dollars, 5-Jun-06 ,0.7527
+Australia,Dollars, 6-Jun-06 ,0.7422
+Australia,Dollars, 7-Jun-06 ,0.7422
+Australia,Dollars, 8-Jun-06 ,0.7430
+Australia,Dollars, 9-Jun-06 ,0.7499
+Australia,Dollars,12-Jun-06 ,0.7466
+Australia,Dollars,13-Jun-06 ,0.7408
+Australia,Dollars,14-Jun-06 ,0.7396
+Australia,Dollars,15-Jun-06 ,0.7377
+Australia,Dollars,16-Jun-06 ,0.7389
+Australia,Dollars,19-Jun-06 ,0.7375
+Australia,Dollars,20-Jun-06 ,0.7372
+Australia,Dollars,21-Jun-06 ,0.7371
+Australia,Dollars,22-Jun-06 ,0.7349
+Australia,Dollars,23-Jun-06 ,0.7315
+Australia,Dollars,26-Jun-06 ,0.7301
+Australia,Dollars,27-Jun-06 ,0.7340
+Australia,Dollars,28-Jun-06 ,0.7284
+Australia,Dollars,29-Jun-06 ,0.7316
+Australia,Dollars,30-Jun-06 ,0.7423
+Australia,Dollars, 3-Jul-06 ,0.7436
+Australia,Dollars, 4-Jul-06 ,ND
+Australia,Dollars, 5-Jul-06 ,0.7407
+Australia,Dollars, 6-Jul-06 ,0.7459
+Australia,Dollars, 7-Jul-06 ,0.7514
+Australia,Dollars,10-Jul-06 ,0.7484
+Australia,Dollars,11-Jul-06 ,0.7526
+Australia,Dollars,12-Jul-06 ,0.7536
+Australia,Dollars,13-Jul-06 ,0.7539
+Australia,Dollars,14-Jul-06 ,0.7541
+Australia,Dollars,17-Jul-06 ,0.7493
+Australia,Dollars,18-Jul-06 ,0.7464
+Australia,Dollars,19-Jul-06 ,0.7485
+Australia,Dollars,20-Jul-06 ,0.7516
+Australia,Dollars,21-Jul-06 ,0.7529
+Australia,Dollars,24-Jul-06 ,0.7536
+Australia,Dollars,25-Jul-06 ,0.7529
+Australia,Dollars,26-Jul-06 ,0.7594
+Australia,Dollars,27-Jul-06 ,0.7641
+Australia,Dollars,28-Jul-06 ,0.7663
+Australia,Dollars,31-Jul-06 ,0.7664
+Australia,Dollars, 1-Aug-06 ,0.7632
+Australia,Dollars, 2-Aug-06 ,0.7639
+Australia,Dollars, 3-Aug-06 ,0.7600
+Australia,Dollars, 4-Aug-06 ,0.7658
+Australia,Dollars, 7-Aug-06 ,0.7637
+Australia,Dollars, 8-Aug-06 ,0.7609
+Australia,Dollars, 9-Aug-06 ,0.7667
+Australia,Dollars,10-Aug-06 ,0.7671
+Australia,Dollars,11-Aug-06 ,0.7673
+Australia,Dollars,14-Aug-06 ,0.7599
+Australia,Dollars,15-Aug-06 ,0.7649
+Australia,Dollars,16-Aug-06 ,0.7699
+Australia,Dollars,17-Aug-06 ,0.7639
+Australia,Dollars,18-Aug-06 ,0.7579
+Australia,Dollars,21-Aug-06 ,0.7640
+Australia,Dollars,22-Aug-06 ,0.7625
+Australia,Dollars,23-Aug-06 ,0.7628
+Australia,Dollars,24-Aug-06 ,0.7632
+Australia,Dollars,25-Aug-06 ,0.7568
+Australia,Dollars,28-Aug-06 ,0.7586
+Australia,Dollars,29-Aug-06 ,0.7607
+Australia,Dollars,30-Aug-06 ,0.7645
+Australia,Dollars,31-Aug-06 ,0.7630
+Australia,Dollars, 1-Sep-06 ,0.7663
+Australia,Dollars, 4-Sep-06 ,ND
+Australia,Dollars, 5-Sep-06 ,0.7704
+Australia,Dollars, 6-Sep-06 ,0.7659
+Australia,Dollars, 7-Sep-06 ,0.7600
+Australia,Dollars, 8-Sep-06 ,0.7540
+Australia,Dollars,11-Sep-06 ,0.7510
+Australia,Dollars,12-Sep-06 ,0.7528
+Australia,Dollars,13-Sep-06 ,0.7537
+Australia,Dollars,14-Sep-06 ,0.7548
+Australia,Dollars,15-Sep-06 ,0.7517
+Australia,Dollars,18-Sep-06 ,0.7537
+Australia,Dollars,19-Sep-06 ,0.7539
+Australia,Dollars,20-Sep-06 ,0.7544
+Australia,Dollars,21-Sep-06 ,0.7560
+Australia,Dollars,22-Sep-06 ,0.7513
+Australia,Dollars,25-Sep-06 ,0.7517
+Australia,Dollars,26-Sep-06 ,0.7513
+Australia,Dollars,27-Sep-06 ,0.7495
+Australia,Dollars,28-Sep-06 ,0.7487
+Australia,Dollars,29-Sep-06 ,0.7461
+Australia,Dollars, 2-Oct-06 ,0.7484
+Australia,Dollars, 3-Oct-06 ,0.7442
+Australia,Dollars, 4-Oct-06 ,0.7437
+Australia,Dollars, 5-Oct-06 ,0.7449
+Australia,Dollars, 6-Oct-06 ,0.7434
+Australia,Dollars, 9-Oct-06 ,ND
+Australia,Dollars,10-Oct-06 ,0.7442
+Australia,Dollars,11-Oct-06 ,0.7444
+Australia,Dollars,12-Oct-06 ,0.7507
+Australia,Dollars,13-Oct-06 ,0.7506
+Australia,Dollars,16-Oct-06 ,0.7537
+Australia,Dollars,17-Oct-06 ,0.7540
+Australia,Dollars,18-Oct-06 ,0.7538
+Australia,Dollars,19-Oct-06 ,0.7586
+Australia,Dollars,20-Oct-06 ,0.7580
+Australia,Dollars,23-Oct-06 ,0.7576
+Australia,Dollars,24-Oct-06 ,0.7584
+Australia,Dollars,25-Oct-06 ,0.7603
+Australia,Dollars,26-Oct-06 ,0.7621
+Australia,Dollars,27-Oct-06 ,0.7685
+Australia,Dollars,30-Oct-06 ,0.7692
+Australia,Dollars,31-Oct-06 ,0.7743
+Australia,Dollars, 1-Nov-06 ,0.7752
+Australia,Dollars, 2-Nov-06 ,0.7741
+Australia,Dollars, 3-Nov-06 ,0.7699
+Australia,Dollars, 6-Nov-06 ,0.7707
+Australia,Dollars, 7-Nov-06 ,0.7760
+Australia,Dollars, 8-Nov-06 ,0.7707
+Australia,Dollars, 9-Nov-06 ,0.7688
+Australia,Dollars,10-Nov-06 ,0.7673
+Australia,Dollars,13-Nov-06 ,0.7629
+Australia,Dollars,14-Nov-06 ,0.7656
+Australia,Dollars,15-Nov-06 ,0.7643
+Australia,Dollars,16-Nov-06 ,0.7683
+Australia,Dollars,17-Nov-06 ,0.7686
+Australia,Dollars,20-Nov-06 ,0.7682
+Australia,Dollars,21-Nov-06 ,0.7693
+Australia,Dollars,22-Nov-06 ,0.7758
+Australia,Dollars,23-Nov-06 ,ND
+Australia,Dollars,24-Nov-06 ,0.7782
+Australia,Dollars,27-Nov-06 ,0.7785
+Australia,Dollars,28-Nov-06 ,0.7825
+Australia,Dollars,29-Nov-06 ,0.7836
+Australia,Dollars,30-Nov-06 ,0.7896
+Australia,Dollars, 1-Dec-06 ,0.7914
+Australia,Dollars, 4-Dec-06 ,0.7894
+Australia,Dollars, 5-Dec-06 ,0.7863
+Australia,Dollars, 6-Dec-06 ,0.7876
+Australia,Dollars, 7-Dec-06 ,0.7909
+Australia,Dollars, 8-Dec-06 ,0.7861
+Australia,Dollars,11-Dec-06 ,0.7841
+Australia,Dollars,12-Dec-06 ,0.7846
+Australia,Dollars,13-Dec-06 ,0.7867
+Australia,Dollars,14-Dec-06 ,0.7840
+Australia,Dollars,15-Dec-06 ,0.7826
+Australia,Dollars,18-Dec-06 ,0.7795
+Australia,Dollars,19-Dec-06 ,0.7843
+Australia,Dollars,20-Dec-06 ,0.7859
+Australia,Dollars,21-Dec-06 ,0.7852
+Australia,Dollars,22-Dec-06 ,0.7830
+Australia,Dollars,25-Dec-06 ,ND
+Australia,Dollars,26-Dec-06 ,0.7829
+Australia,Dollars,27-Dec-06 ,0.7841
+Australia,Dollars,28-Dec-06 ,0.7881
+Australia,Dollars,29-Dec-06 ,0.7884
+Australia,Dollars, 1-Jan-07 ,ND
+Australia,Dollars, 2-Jan-07 ,0.7960
+Australia,Dollars, 3-Jan-07 ,0.7914
+Australia,Dollars, 4-Jan-07 ,0.7859
+Australia,Dollars, 5-Jan-07 ,0.7797
+Australia,Dollars, 8-Jan-07 ,0.7813
+Australia,Dollars, 9-Jan-07 ,0.7795
+Australia,Dollars,10-Jan-07 ,0.7766
+Australia,Dollars,11-Jan-07 ,0.7823
+Australia,Dollars,12-Jan-07 ,0.7826
+Australia,Dollars,15-Jan-07 ,ND
+Australia,Dollars,16-Jan-07 ,0.7826
+Australia,Dollars,17-Jan-07 ,0.7865
+Australia,Dollars,18-Jan-07 ,0.7886
+Australia,Dollars,19-Jan-07 ,0.7892
+Australia,Dollars,22-Jan-07 ,0.7893
+Australia,Dollars,23-Jan-07 ,0.7921
+Australia,Dollars,24-Jan-07 ,0.7818
+Australia,Dollars,25-Jan-07 ,0.7774
+Australia,Dollars,26-Jan-07 ,0.7724
+Australia,Dollars,29-Jan-07 ,0.7726
+Australia,Dollars,30-Jan-07 ,0.7724
+Australia,Dollars,31-Jan-07 ,0.7740
+Australia,Dollars, 1-Feb-07 ,0.7746
+Australia,Dollars, 2-Feb-07 ,0.7747
+Australia,Dollars, 5-Feb-07 ,0.7769
+Australia,Dollars, 6-Feb-07 ,0.7769
+Australia,Dollars, 7-Feb-07 ,0.7786
+Australia,Dollars, 8-Feb-07 ,0.7812
+Australia,Dollars, 9-Feb-07 ,0.7765
+Australia,Dollars,12-Feb-07 ,0.7726
+Australia,Dollars,13-Feb-07 ,0.7774
+Australia,Dollars,14-Feb-07 ,0.7833
+Australia,Dollars,15-Feb-07 ,0.7847
+Australia,Dollars,16-Feb-07 ,0.7868
+Australia,Dollars,19-Feb-07 ,ND
+Australia,Dollars,20-Feb-07 ,0.7852
+Australia,Dollars,21-Feb-07 ,0.7899
+Australia,Dollars,22-Feb-07 ,0.7895
+Australia,Dollars,23-Feb-07 ,0.7920
+Australia,Dollars,26-Feb-07 ,0.7931
+Australia,Dollars,27-Feb-07 ,0.7933
+Australia,Dollars,28-Feb-07 ,0.7892
+Australia,Dollars, 1-Mar-07 ,0.7863
+Australia,Dollars, 2-Mar-07 ,0.7834
+Australia,Dollars, 5-Mar-07 ,0.7728
+Australia,Dollars, 6-Mar-07 ,0.7737
+Australia,Dollars, 7-Mar-07 ,0.7765
+Australia,Dollars, 8-Mar-07 ,0.7758
+Australia,Dollars, 9-Mar-07 ,0.7806
+Australia,Dollars,12-Mar-07 ,0.7839
+Australia,Dollars,13-Mar-07 ,0.7871
+Australia,Dollars,14-Mar-07 ,0.7860
+Australia,Dollars,15-Mar-07 ,0.7884
+Australia,Dollars,16-Mar-07 ,0.7948
+Australia,Dollars,19-Mar-07 ,0.7996
+Australia,Dollars,20-Mar-07 ,0.8016
+Australia,Dollars,21-Mar-07 ,0.8015
+Australia,Dollars,22-Mar-07 ,0.8083
+Australia,Dollars,23-Mar-07 ,0.8062
+Australia,Dollars,26-Mar-07 ,0.8097
+Australia,Dollars,27-Mar-07 ,0.8089
+Australia,Dollars,28-Mar-07 ,0.8064
+Australia,Dollars,29-Mar-07 ,0.8078
+Australia,Dollars,30-Mar-07 ,0.8104
+Australia,Dollars, 2-Apr-07 ,0.8166
+Australia,Dollars, 3-Apr-07 ,0.8131
+Australia,Dollars, 4-Apr-07 ,0.8180
+Australia,Dollars, 5-Apr-07 ,0.8193
+Australia,Dollars, 6-Apr-07 ,0.8177
+Australia,Dollars, 9-Apr-07 ,0.8167
+Australia,Dollars,10-Apr-07 ,0.8250
+Australia,Dollars,11-Apr-07 ,0.8259
+Australia,Dollars,12-Apr-07 ,0.8276
+Australia,Dollars,13-Apr-07 ,0.8326
+Australia,Dollars,16-Apr-07 ,0.8327
+Australia,Dollars,17-Apr-07 ,0.8367
+Australia,Dollars,18-Apr-07 ,0.8353
+Australia,Dollars,19-Apr-07 ,0.8356
+Australia,Dollars,20-Apr-07 ,0.8363
+Australia,Dollars,23-Apr-07 ,0.8339
+Australia,Dollars,24-Apr-07 ,0.8284
+Australia,Dollars,25-Apr-07 ,0.8333
+Australia,Dollars,26-Apr-07 ,0.8254
+Australia,Dollars,27-Apr-07 ,0.8311
+Australia,Dollars,30-Apr-07 ,0.8326
+Australia,Dollars, 1-May-07 ,0.8287
+Australia,Dollars, 2-May-07 ,0.8247
+Australia,Dollars, 3-May-07 ,0.8241
+Australia,Dollars, 4-May-07 ,0.8207
+Australia,Dollars, 7-May-07 ,0.8254
+Australia,Dollars, 8-May-07 ,0.8277
+Australia,Dollars, 9-May-07 ,0.8285
+Australia,Dollars,10-May-07 ,0.8320
+Australia,Dollars,11-May-07 ,0.8326
+Australia,Dollars,14-May-07 ,0.8333
+Australia,Dollars,15-May-07 ,0.8348
+Australia,Dollars,16-May-07 ,0.8248
+Australia,Dollars,17-May-07 ,0.8219
+Australia,Dollars,18-May-07 ,0.8250
+Australia,Dollars,21-May-07 ,0.8200
+Australia,Dollars,22-May-07 ,0.8213
+Australia,Dollars,23-May-07 ,0.8246
+Australia,Dollars,24-May-07 ,0.8207
+Australia,Dollars,25-May-07 ,0.8190
+Australia,Dollars,28-May-07 ,ND
+Australia,Dollars,29-May-07 ,0.8202
+Australia,Dollars,30-May-07 ,0.8220
+Australia,Dollars,31-May-07 ,0.8272
+Australia,Dollars, 1-Jun-07 ,0.8313
+Australia,Dollars, 4-Jun-07 ,0.8341
+Australia,Dollars, 5-Jun-07 ,0.8371
+Australia,Dollars, 6-Jun-07 ,0.8408
+Australia,Dollars, 7-Jun-07 ,0.8447
+Australia,Dollars, 8-Jun-07 ,0.8427
+Australia,Dollars,11-Jun-07 ,0.8426
+Australia,Dollars,12-Jun-07 ,0.8439
+Australia,Dollars,13-Jun-07 ,0.8402
+Australia,Dollars,14-Jun-07 ,0.8349
+Australia,Dollars,15-Jun-07 ,0.8400
+Australia,Dollars,18-Jun-07 ,0.8421
+Australia,Dollars,19-Jun-07 ,0.8460
+Australia,Dollars,20-Jun-07 ,0.8458
+Australia,Dollars,21-Jun-07 ,0.8468
+Australia,Dollars,22-Jun-07 ,0.8482
+Australia,Dollars,25-Jun-07 ,0.8480
+Australia,Dollars,26-Jun-07 ,0.8474
+Australia,Dollars,27-Jun-07 ,0.8375
+Australia,Dollars,28-Jun-07 ,0.8461
+Australia,Dollars,29-Jun-07 ,0.8491
+Australia,Dollars, 2-Jul-07 ,0.8596
+Australia,Dollars, 3-Jul-07 ,0.8543
+Australia,Dollars, 4-Jul-07 ,ND
+Australia,Dollars, 5-Jul-07 ,0.8561
+Australia,Dollars, 6-Jul-07 ,0.8569
+Australia,Dollars, 9-Jul-07 ,0.8605
+Australia,Dollars,10-Jul-07 ,0.8622
+Australia,Dollars,11-Jul-07 ,0.8614
+Australia,Dollars,12-Jul-07 ,0.8638
+Australia,Dollars,13-Jul-07 ,0.8688
+Australia,Dollars,16-Jul-07 ,0.8722
+Australia,Dollars,17-Jul-07 ,0.8732
+Australia,Dollars,18-Jul-07 ,0.8778
+Australia,Dollars,19-Jul-07 ,0.8796
+Australia,Dollars,20-Jul-07 ,0.8796
+Australia,Dollars,23-Jul-07 ,0.8835
+Australia,Dollars,24-Jul-07 ,0.8841
+Australia,Dollars,25-Jul-07 ,0.8828
+Australia,Dollars,26-Jul-07 ,0.8780
+Australia,Dollars,27-Jul-07 ,0.8560
+Australia,Dollars,30-Jul-07 ,0.8509
+Australia,Dollars,31-Jul-07 ,0.8594
+Australia,Dollars, 1-Aug-07 ,0.8537
+Australia,Dollars, 2-Aug-07 ,0.8595
+Australia,Dollars, 3-Aug-07 ,0.8573
+Australia,Dollars, 6-Aug-07 ,0.8572
+Australia,Dollars, 7-Aug-07 ,0.8543
+Australia,Dollars, 8-Aug-07 ,0.8618
+Australia,Dollars, 9-Aug-07 ,0.8542
+Australia,Dollars,10-Aug-07 ,0.8455
+Australia,Dollars,13-Aug-07 ,0.8430
+Australia,Dollars,14-Aug-07 ,0.8384
+Australia,Dollars,15-Aug-07 ,0.8243
+Australia,Dollars,16-Aug-07 ,0.7860
+Australia,Dollars,17-Aug-07 ,0.7887
+Australia,Dollars,20-Aug-07 ,0.8005
+Australia,Dollars,21-Aug-07 ,0.8000
+Australia,Dollars,22-Aug-07 ,0.8043
+Australia,Dollars,23-Aug-07 ,0.8134
+Australia,Dollars,24-Aug-07 ,0.8242
+Australia,Dollars,27-Aug-07 ,0.8288
+Australia,Dollars,28-Aug-07 ,0.8207
+Australia,Dollars,29-Aug-07 ,0.8190
+Australia,Dollars,30-Aug-07 ,0.8183
+Australia,Dollars,31-Aug-07 ,0.8157
+Australia,Dollars, 3-Sep-07 ,0.8157
+Australia,Dollars, 4-Sep-07 ,0.8245
+Australia,Dollars, 5-Sep-07 ,0.8245
+Australia,Dollars, 6-Sep-07 ,0.8275
+Australia,Dollars, 7-Sep-07 ,0.8259
+Australia,Dollars,10-Sep-07 ,0.8238
+Australia,Dollars,11-Sep-07 ,0.8310
+Australia,Dollars,12-Sep-07 ,0.8401
+Australia,Dollars,13-Sep-07 ,0.8395
+Australia,Dollars,14-Sep-07 ,0.8415
+Australia,Dollars,17-Sep-07 ,0.8328
+Australia,Dollars,18-Sep-07 ,0.8363
+Australia,Dollars,19-Sep-07 ,0.8555
+Australia,Dollars,20-Sep-07 ,0.8641
+Australia,Dollars,21-Sep-07 ,0.8650
+Australia,Dollars,24-Sep-07 ,0.8669
+Australia,Dollars,25-Sep-07 ,0.8691
+Australia,Dollars,26-Sep-07 ,0.8749
+Australia,Dollars,27-Sep-07 ,0.8776
+Australia,Dollars,28-Sep-07 ,0.8855
+Australia,Dollars, 1-Oct-07 ,0.8931
+Australia,Dollars, 2-Oct-07 ,0.8846
+Australia,Dollars, 3-Oct-07 ,0.8882
+Australia,Dollars, 4-Oct-07 ,0.8883
+Australia,Dollars, 5-Oct-07 ,0.8998
+Australia,Dollars, 8-Oct-07 ,0.8998
+Australia,Dollars, 9-Oct-07 ,0.8975
+Australia,Dollars,10-Oct-07 ,0.8992
+Australia,Dollars,11-Oct-07 ,0.9043
+Australia,Dollars,12-Oct-07 ,0.9042
+Australia,Dollars,15-Oct-07 ,0.9012
+Australia,Dollars,16-Oct-07 ,0.8860
+Australia,Dollars,17-Oct-07 ,0.8942
+Australia,Dollars,18-Oct-07 ,0.8947
+Australia,Dollars,19-Oct-07 ,0.8935
+Australia,Dollars,22-Oct-07 ,0.8785
+Australia,Dollars,23-Oct-07 ,0.8943
+Australia,Dollars,24-Oct-07 ,0.8997
+Australia,Dollars,25-Oct-07 ,0.9059
+Australia,Dollars,26-Oct-07 ,0.9163
+Australia,Dollars,29-Oct-07 ,0.9211
+Australia,Dollars,30-Oct-07 ,0.9185
+Australia,Dollars,31-Oct-07 ,0.9271
+Australia,Dollars, 1-Nov-07 ,0.9186
+Australia,Dollars, 2-Nov-07 ,0.9180
+Australia,Dollars, 5-Nov-07 ,0.9196
+Australia,Dollars, 6-Nov-07 ,0.9253
+Australia,Dollars, 7-Nov-07 ,0.9369
+Australia,Dollars, 8-Nov-07 ,0.9266
+Australia,Dollars, 9-Nov-07 ,0.9145
+Australia,Dollars,12-Nov-07 ,ND
+Australia,Dollars,13-Nov-07 ,0.8893
+Australia,Dollars,14-Nov-07 ,0.9002
+Australia,Dollars,15-Nov-07 ,0.8921
+Australia,Dollars,16-Nov-07 ,0.8909
+Australia,Dollars,19-Nov-07 ,0.8835
+Australia,Dollars,20-Nov-07 ,0.8874
+Australia,Dollars,21-Nov-07 ,0.8698
+Australia,Dollars,22-Nov-07 ,0.8698
+Australia,Dollars,23-Nov-07 ,0.8744
+Australia,Dollars,26-Nov-07 ,0.8778
+Australia,Dollars,27-Nov-07 ,0.8744
+Australia,Dollars,28-Nov-07 ,0.8817
+Australia,Dollars,29-Nov-07 ,0.8830
+Australia,Dollars,30-Nov-07 ,0.8848
+Australia,Dollars, 3-Dec-07 ,0.8828
+Australia,Dollars, 4-Dec-07 ,0.8726
+Australia,Dollars, 5-Dec-07 ,0.8709
+Australia,Dollars, 6-Dec-07 ,0.8731
+Australia,Dollars, 7-Dec-07 ,0.8807
+Australia,Dollars,10-Dec-07 ,0.8829
+Australia,Dollars,11-Dec-07 ,0.8867
+Australia,Dollars,12-Dec-07 ,0.8857
+Australia,Dollars,13-Dec-07 ,0.8745
+Australia,Dollars,14-Dec-07 ,0.8620
+Australia,Dollars,17-Dec-07 ,0.8570
+Australia,Dollars,18-Dec-07 ,0.8557
+Australia,Dollars,19-Dec-07 ,0.8567
+Australia,Dollars,20-Dec-07 ,0.8577
+Australia,Dollars,21-Dec-07 ,0.8657
+Australia,Dollars,24-Dec-07 ,0.8705
+Australia,Dollars,25-Dec-07 ,ND
+Australia,Dollars,26-Dec-07 ,0.8734
+Australia,Dollars,27-Dec-07 ,0.8773
+Australia,Dollars,28-Dec-07 ,0.8740
+Australia,Dollars,31-Dec-07 ,0.8776
+Australia,Dollars, 1-Jan-08 ,ND
+Australia,Dollars, 2-Jan-08 ,0.8812
+Australia,Dollars, 3-Jan-08 ,0.8819
+Australia,Dollars, 4-Jan-08 ,0.8762
+Australia,Dollars, 7-Jan-08 ,0.8712
+Australia,Dollars, 8-Jan-08 ,0.8812
+Australia,Dollars, 9-Jan-08 ,0.8801
+Australia,Dollars,10-Jan-08 ,0.8891
+Australia,Dollars,11-Jan-08 ,0.8927
+Australia,Dollars,14-Jan-08 ,0.8981
+Australia,Dollars,15-Jan-08 ,0.8875
+Australia,Dollars,16-Jan-08 ,0.8780
+Australia,Dollars,17-Jan-08 ,0.8827
+Australia,Dollars,18-Jan-08 ,0.8759
+Australia,Dollars,21-Jan-08 ,ND
+Australia,Dollars,22-Jan-08 ,0.8684
+Australia,Dollars,23-Jan-08 ,0.8654
+Australia,Dollars,24-Jan-08 ,0.8790
+Australia,Dollars,25-Jan-08 ,0.8817
+Australia,Dollars,28-Jan-08 ,0.8833
+Australia,Dollars,29-Jan-08 ,0.8895
+Australia,Dollars,30-Jan-08 ,0.8893
+Australia,Dollars,31-Jan-08 ,0.8968
+Australia,Dollars, 1-Feb-08 ,0.9035
+Australia,Dollars, 4-Feb-08 ,0.9091
+Australia,Dollars, 5-Feb-08 ,0.8997
+Australia,Dollars, 6-Feb-08 ,0.8983
+Australia,Dollars, 7-Feb-08 ,0.8942
+Australia,Dollars, 8-Feb-08 ,0.8945
+Australia,Dollars,11-Feb-08 ,0.9027
+Australia,Dollars,12-Feb-08 ,0.9058
+Australia,Dollars,13-Feb-08 ,0.8934
+Australia,Dollars,14-Feb-08 ,0.9034
+Australia,Dollars,15-Feb-08 ,0.9069
+Australia,Dollars,18-Feb-08 ,ND
+Australia,Dollars,19-Feb-08 ,0.9203
+Australia,Dollars,20-Feb-08 ,0.9148
+Australia,Dollars,21-Feb-08 ,0.9206
+Australia,Dollars,22-Feb-08 ,0.9205
+Australia,Dollars,25-Feb-08 ,0.9232
+Australia,Dollars,26-Feb-08 ,0.9292
+Australia,Dollars,27-Feb-08 ,0.9417
+Australia,Dollars,28-Feb-08 ,0.9463
+Australia,Dollars,29-Feb-08 ,0.9370
+Australia,Dollars, 3-Mar-08 ,0.9409
+Australia,Dollars, 4-Mar-08 ,0.9227
+Australia,Dollars, 5-Mar-08 ,0.9319
+Australia,Dollars, 6-Mar-08 ,0.9317
+Australia,Dollars, 7-Mar-08 ,0.9283
+Australia,Dollars,10-Mar-08 ,0.9177
+Australia,Dollars,11-Mar-08 ,0.9249
+Australia,Dollars,12-Mar-08 ,0.9322
+Australia,Dollars,13-Mar-08 ,0.9411
+Australia,Dollars,14-Mar-08 ,0.9371
+Australia,Dollars,17-Mar-08 ,0.9184
+Australia,Dollars,18-Mar-08 ,0.9271
+Australia,Dollars,19-Mar-08 ,0.9214
+Australia,Dollars,20-Mar-08 ,0.8958
+Australia,Dollars,21-Mar-08 ,0.9016
+Australia,Dollars,24-Mar-08 ,0.9062
+Australia,Dollars,25-Mar-08 ,0.9136
+Australia,Dollars,26-Mar-08 ,0.9196
+Australia,Dollars,27-Mar-08 ,0.9202
+Australia,Dollars,28-Mar-08 ,0.9188
+Australia,Dollars,31-Mar-08 ,0.9132
+Australia,Dollars, 1-Apr-08 ,0.9067
+Australia,Dollars, 2-Apr-08 ,0.9134
+Australia,Dollars, 3-Apr-08 ,0.9152
+Australia,Dollars, 4-Apr-08 ,0.9214
+Australia,Dollars, 7-Apr-08 ,0.9274
+Australia,Dollars, 8-Apr-08 ,0.9278
+Australia,Dollars, 9-Apr-08 ,0.9283
+Australia,Dollars,10-Apr-08 ,0.9324
+Australia,Dollars,11-Apr-08 ,0.9290
+Australia,Dollars,14-Apr-08 ,0.9229
+Australia,Dollars,15-Apr-08 ,0.9245
+Australia,Dollars,16-Apr-08 ,0.9396
+Australia,Dollars,17-Apr-08 ,0.9370
+Australia,Dollars,18-Apr-08 ,0.9294
+Australia,Dollars,21-Apr-08 ,0.9418
+Australia,Dollars,22-Apr-08 ,0.9458
+Australia,Dollars,23-Apr-08 ,0.9488
+Australia,Dollars,24-Apr-08 ,0.9395
+Australia,Dollars,25-Apr-08 ,0.9330
+Australia,Dollars,28-Apr-08 ,0.9395
+Australia,Dollars,29-Apr-08 ,0.9347
+Australia,Dollars,30-Apr-08 ,0.9419
+Australia,Dollars, 1-May-08 ,0.9338
+Australia,Dollars, 2-May-08 ,0.9366
+Australia,Dollars, 5-May-08 ,0.9454
+Australia,Dollars, 6-May-08 ,0.9481
+Australia,Dollars, 7-May-08 ,0.9426
+Australia,Dollars, 8-May-08 ,0.9430
+Australia,Dollars, 9-May-08 ,0.9417
+Australia,Dollars,12-May-08 ,0.9467
+Australia,Dollars,13-May-08 ,0.9420
+Australia,Dollars,14-May-08 ,0.9348
+Australia,Dollars,15-May-08 ,0.9415
+Australia,Dollars,16-May-08 ,0.9540
+Australia,Dollars,19-May-08 ,0.9532
+Australia,Dollars,20-May-08 ,0.9599
+Australia,Dollars,21-May-08 ,0.9644
+Australia,Dollars,22-May-08 ,0.9552
+Australia,Dollars,23-May-08 ,0.9608
+Australia,Dollars,26-May-08 ,ND
+Australia,Dollars,27-May-08 ,0.9588
+Australia,Dollars,28-May-08 ,0.9616
+Australia,Dollars,29-May-08 ,0.9545
+Australia,Dollars,30-May-08 ,0.9551
+Australia,Dollars, 2-Jun-08 ,0.9548
+Australia,Dollars, 3-Jun-08 ,0.9545
+Australia,Dollars, 4-Jun-08 ,0.9605
+Australia,Dollars, 5-Jun-08 ,0.9567
+Australia,Dollars, 6-Jun-08 ,0.9603
+Australia,Dollars, 9-Jun-08 ,0.9523
+Australia,Dollars,10-Jun-08 ,0.9448
+Australia,Dollars,11-Jun-08 ,0.9487
+Australia,Dollars,12-Jun-08 ,0.9342
+Australia,Dollars,13-Jun-08 ,0.9390
+Australia,Dollars,16-Jun-08 ,0.9404
+Australia,Dollars,17-Jun-08 ,0.9428
+Australia,Dollars,18-Jun-08 ,0.9441
+Australia,Dollars,19-Jun-08 ,0.9499
+Australia,Dollars,20-Jun-08 ,0.9540
+Australia,Dollars,23-Jun-08 ,0.9507
+Australia,Dollars,24-Jun-08 ,0.9573
+Australia,Dollars,25-Jun-08 ,0.9540
+Australia,Dollars,26-Jun-08 ,0.9573
+Australia,Dollars,27-Jun-08 ,0.9610
+Australia,Dollars,30-Jun-08 ,0.9562
+Australia,Dollars, 1-Jul-08 ,0.9535
+Australia,Dollars, 2-Jul-08 ,0.9634
+Australia,Dollars, 3-Jul-08 ,0.9604
+Australia,Dollars, 4-Jul-08 ,ND
+Australia,Dollars, 7-Jul-08 ,0.9531
+Australia,Dollars, 8-Jul-08 ,0.9533
+Australia,Dollars, 9-Jul-08 ,0.9585
+Australia,Dollars,10-Jul-08 ,0.9621
+Australia,Dollars,11-Jul-08 ,0.9674
+Australia,Dollars,14-Jul-08 ,0.9721
+Australia,Dollars,15-Jul-08 ,0.9797
+Australia,Dollars,16-Jul-08 ,0.9761
+Australia,Dollars,17-Jul-08 ,0.9750
+Australia,Dollars,18-Jul-08 ,0.9728
+Australia,Dollars,21-Jul-08 ,0.9749
+Australia,Dollars,22-Jul-08 ,0.9715
+Australia,Dollars,23-Jul-08 ,0.9636
+Australia,Dollars,24-Jul-08 ,0.9570
+Australia,Dollars,25-Jul-08 ,0.9562
+Australia,Dollars,28-Jul-08 ,0.9571
+Australia,Dollars,29-Jul-08 ,0.9508
+Australia,Dollars,30-Jul-08 ,0.9434
+Australia,Dollars,31-Jul-08 ,0.9415
+Australia,Dollars, 1-Aug-08 ,0.9317
+Australia,Dollars, 4-Aug-08 ,0.9299
+Australia,Dollars, 5-Aug-08 ,0.9157
+Australia,Dollars, 6-Aug-08 ,0.9078
+Australia,Dollars, 7-Aug-08 ,0.9079
+Australia,Dollars, 8-Aug-08 ,0.8915
+Australia,Dollars,11-Aug-08 ,0.8869
+Australia,Dollars,12-Aug-08 ,0.8757
+Australia,Dollars,13-Aug-08 ,0.8675
+Australia,Dollars,14-Aug-08 ,0.8709
+Australia,Dollars,15-Aug-08 ,0.8676
+Australia,Dollars,18-Aug-08 ,0.8712
+Australia,Dollars,19-Aug-08 ,0.8710
+Australia,Dollars,20-Aug-08 ,0.8712
+Australia,Dollars,21-Aug-08 ,0.8785
+Australia,Dollars,22-Aug-08 ,0.8689
+Australia,Dollars,25-Aug-08 ,0.8676
+Australia,Dollars,26-Aug-08 ,0.8561
+Australia,Dollars,27-Aug-08 ,0.8553
+Australia,Dollars,28-Aug-08 ,0.8618
+Australia,Dollars,29-Aug-08 ,0.8563
+Australia,Dollars, 1-Sep-08 ,ND
+Australia,Dollars, 2-Sep-08 ,0.8360
+Australia,Dollars, 3-Sep-08 ,0.8352
+Australia,Dollars, 4-Sep-08 ,0.8298
+Australia,Dollars, 5-Sep-08 ,0.8107
+Australia,Dollars, 8-Sep-08 ,0.8151
+Australia,Dollars, 9-Sep-08 ,0.8081
+Australia,Dollars,10-Sep-08 ,0.8036
+Australia,Dollars,11-Sep-08 ,0.7978
+Australia,Dollars,12-Sep-08 ,0.8170
+Australia,Dollars,15-Sep-08 ,0.8080
+Australia,Dollars,16-Sep-08 ,0.7939
+Australia,Dollars,17-Sep-08 ,0.7831
+Australia,Dollars,18-Sep-08 ,0.7989
+Australia,Dollars,19-Sep-08 ,0.8288
+Australia,Dollars,22-Sep-08 ,0.8441
+Australia,Dollars,23-Sep-08 ,0.8385
+Australia,Dollars,24-Sep-08 ,0.8366
+Australia,Dollars,25-Sep-08 ,0.8360
+Australia,Dollars,26-Sep-08 ,0.8292
+Australia,Dollars,29-Sep-08 ,0.8125
+Australia,Dollars,30-Sep-08 ,0.7904
+Australia,Dollars, 1-Oct-08 ,0.7937
+Australia,Dollars, 2-Oct-08 ,0.7770
+Australia,Dollars, 3-Oct-08 ,0.7750
+Australia,Dollars, 6-Oct-08 ,0.7139
+Australia,Dollars, 7-Oct-08 ,0.7216
+Australia,Dollars, 8-Oct-08 ,0.6690
+Australia,Dollars, 9-Oct-08 ,0.7015
+Australia,Dollars,10-Oct-08 ,0.6531
+Australia,Dollars,13-Oct-08 ,ND
+Australia,Dollars,14-Oct-08 ,0.7054
+Australia,Dollars,15-Oct-08 ,0.6833
+Australia,Dollars,16-Oct-08 ,0.6708
+Australia,Dollars,17-Oct-08 ,0.6907
+Australia,Dollars,20-Oct-08 ,0.6969
+Australia,Dollars,21-Oct-08 ,0.6813
+Australia,Dollars,22-Oct-08 ,0.6698
+Australia,Dollars,23-Oct-08 ,0.6657
+Australia,Dollars,24-Oct-08 ,0.6165
+Australia,Dollars,27-Oct-08 ,0.6073
+Australia,Dollars,28-Oct-08 ,0.6252
+Australia,Dollars,29-Oct-08 ,0.6683
+Australia,Dollars,30-Oct-08 ,0.6695
+Australia,Dollars,31-Oct-08 ,0.6574
+Australia,Dollars, 3-Nov-08 ,0.6823
+Australia,Dollars, 4-Nov-08 ,0.7005
+Australia,Dollars, 5-Nov-08 ,0.6972
+Australia,Dollars, 6-Nov-08 ,0.6790
+Australia,Dollars, 7-Nov-08 ,0.6726
+Australia,Dollars,10-Nov-08 ,0.6755
+Australia,Dollars,11-Nov-08 ,ND
+Australia,Dollars,12-Nov-08 ,0.6449
+Australia,Dollars,13-Nov-08 ,0.6402
+Australia,Dollars,14-Nov-08 ,0.6627
+Australia,Dollars,17-Nov-08 ,0.6562
+Australia,Dollars,18-Nov-08 ,0.6575
+Australia,Dollars,19-Nov-08 ,0.6501
+Australia,Dollars,20-Nov-08 ,0.6191
+Australia,Dollars,21-Nov-08 ,0.6254
+Australia,Dollars,24-Nov-08 ,0.6501
+Australia,Dollars,25-Nov-08 ,0.6488
+Australia,Dollars,26-Nov-08 ,0.6470
+Australia,Dollars,27-Nov-08 ,ND
+Australia,Dollars,28-Nov-08 ,0.6546
+Australia,Dollars, 1-Dec-08 ,0.6447
+Australia,Dollars, 2-Dec-08 ,0.6443
+Australia,Dollars, 3-Dec-08 ,0.6482
+Australia,Dollars, 4-Dec-08 ,0.6527
+Australia,Dollars, 5-Dec-08 ,0.6343
+Australia,Dollars, 8-Dec-08 ,0.6644
+Australia,Dollars, 9-Dec-08 ,0.6600
+Australia,Dollars,10-Dec-08 ,0.6615
+Australia,Dollars,11-Dec-08 ,0.6779
+Australia,Dollars,12-Dec-08 ,0.6580
+Australia,Dollars,15-Dec-08 ,0.6713
+Australia,Dollars,16-Dec-08 ,0.6775
+Australia,Dollars,17-Dec-08 ,0.6967
+Australia,Dollars,18-Dec-08 ,0.6985
+Australia,Dollars,19-Dec-08 ,0.6806
+Australia,Dollars,22-Dec-08 ,0.6832
+Australia,Dollars,23-Dec-08 ,0.6804
+Australia,Dollars,24-Dec-08 ,0.6826
+Australia,Dollars,25-Dec-08 ,ND
+Australia,Dollars,26-Dec-08 ,0.6814
+Australia,Dollars,29-Dec-08 ,0.6950
+Australia,Dollars,30-Dec-08 ,0.6906
+Australia,Dollars,31-Dec-08 ,0.6983
+Australia,Dollars, 1-Jan-09 ,ND
+Australia,Dollars, 2-Jan-09 ,0.7083
+Australia,Dollars, 5-Jan-09 ,0.7146
+Australia,Dollars, 6-Jan-09 ,0.7187
+Australia,Dollars, 7-Jan-09 ,0.7212
+Australia,Dollars, 8-Jan-09 ,0.7071
+Australia,Dollars, 9-Jan-09 ,0.7063
+Australia,Dollars,12-Jan-09 ,0.6814
+Australia,Dollars,13-Jan-09 ,0.6675
+Australia,Dollars,14-Jan-09 ,0.6640
+Australia,Dollars,15-Jan-09 ,0.6558
+Australia,Dollars,16-Jan-09 ,0.6660
+Australia,Dollars,19-Jan-09 ,ND
+Australia,Dollars,20-Jan-09 ,0.6574
+Australia,Dollars,21-Jan-09 ,0.6495
+Australia,Dollars,22-Jan-09 ,0.6544
+Australia,Dollars,23-Jan-09 ,0.6522
+Australia,Dollars,26-Jan-09 ,0.6610
+Australia,Dollars,27-Jan-09 ,0.6602
+Australia,Dollars,28-Jan-09 ,0.6699
+Australia,Dollars,29-Jan-09 ,0.6550
+Australia,Dollars,30-Jan-09 ,0.6380
+Australia,Dollars, 2-Feb-09 ,0.6320
+Australia,Dollars, 3-Feb-09 ,0.6476
+Australia,Dollars, 4-Feb-09 ,0.6499
+Australia,Dollars, 5-Feb-09 ,0.6539
+Australia,Dollars, 6-Feb-09 ,0.6715
+Australia,Dollars, 9-Feb-09 ,0.6834
+Australia,Dollars,10-Feb-09 ,0.6589
+Australia,Dollars,11-Feb-09 ,0.6549
+Australia,Dollars,12-Feb-09 ,0.6507
+Australia,Dollars,13-Feb-09 ,0.6595
+Australia,Dollars,16-Feb-09 ,ND
+Australia,Dollars,17-Feb-09 ,0.6386
+Australia,Dollars,18-Feb-09 ,0.6385
+Australia,Dollars,19-Feb-09 ,0.6450
+Australia,Dollars,20-Feb-09 ,0.6419
+Australia,Dollars,23-Feb-09 ,0.6456
+Australia,Dollars,24-Feb-09 ,0.6429
+Australia,Dollars,25-Feb-09 ,0.6476
+Australia,Dollars,26-Feb-09 ,0.6536
+Australia,Dollars,27-Feb-09 ,0.6419
+Australia,Dollars, 2-Mar-09 ,0.6301
+Australia,Dollars, 3-Mar-09 ,0.6388
+Australia,Dollars, 4-Mar-09 ,0.6499
+Australia,Dollars, 5-Mar-09 ,0.6408
+Australia,Dollars, 6-Mar-09 ,0.6408
+Australia,Dollars, 9-Mar-09 ,0.6311
+Australia,Dollars,10-Mar-09 ,0.6473
+Australia,Dollars,11-Mar-09 ,0.6497
+Australia,Dollars,12-Mar-09 ,0.6473
+Australia,Dollars,13-Mar-09 ,0.6576
+Australia,Dollars,16-Mar-09 ,0.6611
+Australia,Dollars,17-Mar-09 ,0.6591
+Australia,Dollars,18-Mar-09 ,0.6589
+Australia,Dollars,19-Mar-09 ,0.6927
+Australia,Dollars,20-Mar-09 ,0.6892
+Australia,Dollars,23-Mar-09 ,0.6994
+Australia,Dollars,24-Mar-09 ,0.7017
+Australia,Dollars,25-Mar-09 ,0.7009
+Australia,Dollars,26-Mar-09 ,0.7022
+Australia,Dollars,27-Mar-09 ,0.6946
+Australia,Dollars,30-Mar-09 ,0.6788
+Australia,Dollars,31-Mar-09 ,0.6925
+Australia,Dollars, 1-Apr-09 ,0.6941
+Australia,Dollars, 2-Apr-09 ,0.7169
+Australia,Dollars, 3-Apr-09 ,0.7103
+Australia,Dollars, 6-Apr-09 ,0.7101
+Australia,Dollars, 7-Apr-09 ,0.7160
+Australia,Dollars, 8-Apr-09 ,0.7110
+Australia,Dollars, 9-Apr-09 ,0.7168
+Australia,Dollars,10-Apr-09 ,0.7189
+Australia,Dollars,13-Apr-09 ,0.7288
+Australia,Dollars,14-Apr-09 ,0.7286
+Australia,Dollars,15-Apr-09 ,0.7228
+Australia,Dollars,16-Apr-09 ,0.7201
+Australia,Dollars,17-Apr-09 ,0.7204
+Australia,Dollars,20-Apr-09 ,0.7020
+Australia,Dollars,21-Apr-09 ,0.7095
+Australia,Dollars,22-Apr-09 ,0.7109
+Australia,Dollars,23-Apr-09 ,0.7105
+Australia,Dollars,24-Apr-09 ,0.7220
+Australia,Dollars,27-Apr-09 ,0.7157
+Australia,Dollars,28-Apr-09 ,0.7043
+Australia,Dollars,29-Apr-09 ,0.7268
+Australia,Dollars,30-Apr-09 ,0.7317
+Australia,Dollars, 1-May-09 ,0.7290
+Australia,Dollars, 4-May-09 ,0.7388
+Australia,Dollars, 5-May-09 ,0.7436
+Australia,Dollars, 6-May-09 ,0.7467
+Australia,Dollars, 7-May-09 ,0.7579
+Australia,Dollars, 8-May-09 ,0.7609
+Australia,Dollars,11-May-09 ,0.7614
+Australia,Dollars,12-May-09 ,0.7635
+Australia,Dollars,13-May-09 ,0.7570
+Australia,Dollars,14-May-09 ,0.7573
+Australia,Dollars,15-May-09 ,0.7526
+Australia,Dollars,18-May-09 ,0.7596
+Australia,Dollars,19-May-09 ,0.7741
+Australia,Dollars,20-May-09 ,0.7770
+Australia,Dollars,21-May-09 ,0.7743
+Australia,Dollars,22-May-09 ,0.7853
+Australia,Dollars,25-May-09 ,ND
+Australia,Dollars,26-May-09 ,0.7842
+Australia,Dollars,27-May-09 ,0.7874
+Australia,Dollars,28-May-09 ,0.7861
+Australia,Dollars,29-May-09 ,0.7993
+Australia,Dollars, 1-Jun-09 ,0.8101
+Australia,Dollars, 2-Jun-09 ,0.8194
+Australia,Dollars, 3-Jun-09 ,0.8103
+Australia,Dollars, 4-Jun-09 ,0.7990
+Australia,Dollars, 5-Jun-09 ,0.8012
+Australia,Dollars, 8-Jun-09 ,0.7851
+Australia,Dollars, 9-Jun-09 ,0.7980
+Australia,Dollars,10-Jun-09 ,0.8043
+Australia,Dollars,11-Jun-09 ,0.8195
+Australia,Dollars,12-Jun-09 ,0.8132
+Australia,Dollars,15-Jun-09 ,0.7920
+Australia,Dollars,16-Jun-09 ,0.8000
+Australia,Dollars,17-Jun-09 ,0.7887
+Australia,Dollars,18-Jun-09 ,0.8038
+Australia,Dollars,19-Jun-09 ,0.8111
+Australia,Dollars,22-Jun-09 ,0.7896
+Australia,Dollars,23-Jun-09 ,0.7901
+Australia,Dollars,24-Jun-09 ,0.8028
+Australia,Dollars,25-Jun-09 ,0.7990
+Australia,Dollars,26-Jun-09 ,0.8053
+Australia,Dollars,29-Jun-09 ,0.8066
+Australia,Dollars,30-Jun-09 ,0.8055
+Australia,Dollars, 1-Jul-09 ,0.8105
+Australia,Dollars, 2-Jul-09 ,0.7948
+Australia,Dollars, 3-Jul-09 ,0.7986
+Australia,Dollars, 6-Jul-09 ,0.7922
+Australia,Dollars, 7-Jul-09 ,0.7963
+Australia,Dollars, 8-Jul-09 ,0.7780
+Australia,Dollars, 9-Jul-09 ,0.7834
+Australia,Dollars,10-Jul-09 ,0.7751
+Australia,Dollars,13-Jul-09 ,0.7807
+Australia,Dollars,14-Jul-09 ,0.7895
+Australia,Dollars,15-Jul-09 ,0.8041
+Australia,Dollars,16-Jul-09 ,0.8019
+Australia,Dollars,17-Jul-09 ,0.8013
+Australia,Dollars,20-Jul-09 ,0.8131
+Australia,Dollars,21-Jul-09 ,0.8123
+Australia,Dollars,22-Jul-09 ,0.8161
+Australia,Dollars,23-Jul-09 ,0.8206
+Australia,Dollars,24-Jul-09 ,0.8162
+Australia,Dollars,27-Jul-09 ,0.8212
+Australia,Dollars,28-Jul-09 ,0.8287
+Australia,Dollars,29-Jul-09 ,0.8164
+Australia,Dollars,30-Jul-09 ,0.8272
+Australia,Dollars,31-Jul-09 ,0.8339
+Australia,Dollars, 3-Aug-09 ,0.8428
+Australia,Dollars, 4-Aug-09 ,0.8422
+Australia,Dollars, 5-Aug-09 ,0.8384
+Australia,Dollars, 6-Aug-09 ,0.8397
+Australia,Dollars, 7-Aug-09 ,0.8371
+Australia,Dollars,10-Aug-09 ,0.8377
+Australia,Dollars,11-Aug-09 ,0.8296
+Australia,Dollars,12-Aug-09 ,0.8333
+Australia,Dollars,13-Aug-09 ,0.8396
+Australia,Dollars,14-Aug-09 ,0.8323
+Australia,Dollars,17-Aug-09 ,0.8234
+Australia,Dollars,18-Aug-09 ,0.8201
+Australia,Dollars,19-Aug-09 ,0.8293
+Australia,Dollars,20-Aug-09 ,0.8308
+Australia,Dollars,21-Aug-09 ,0.8349
+Australia,Dollars,24-Aug-09 ,0.8407
+Australia,Dollars,25-Aug-09 ,0.8412
+Australia,Dollars,26-Aug-09 ,0.8273
+Australia,Dollars,27-Aug-09 ,0.8355
+Australia,Dollars,28-Aug-09 ,0.8425
+Australia,Dollars,31-Aug-09 ,0.8439
+Australia,Dollars, 1-Sep-09 ,0.8306
+Australia,Dollars, 2-Sep-09 ,0.8323
+Australia,Dollars, 3-Sep-09 ,0.8406
+Australia,Dollars, 4-Sep-09 ,0.8485
+Australia,Dollars, 7-Sep-09 ,ND
+Australia,Dollars, 8-Sep-09 ,0.8636
+Australia,Dollars, 9-Sep-09 ,0.8639
+Australia,Dollars,10-Sep-09 ,0.8596
+Australia,Dollars,11-Sep-09 ,0.8649
+Australia,Dollars,14-Sep-09 ,0.8604
+Australia,Dollars,15-Sep-09 ,0.8603
+Australia,Dollars,16-Sep-09 ,0.8724
+Australia,Dollars,17-Sep-09 ,0.8731
+Australia,Dollars,18-Sep-09 ,0.8668
+Australia,Dollars,21-Sep-09 ,0.8636
+Australia,Dollars,22-Sep-09 ,0.8736
+Australia,Dollars,23-Sep-09 ,0.8722
+Australia,Dollars,24-Sep-09 ,0.8686
+Australia,Dollars,25-Sep-09 ,0.8655
+Australia,Dollars,28-Sep-09 ,0.8734
+Australia,Dollars,29-Sep-09 ,0.8701
+Australia,Dollars,30-Sep-09 ,0.8824
+Australia,Dollars, 1-Oct-09 ,0.8730
+Australia,Dollars, 2-Oct-09 ,0.8656
+Australia,Dollars, 5-Oct-09 ,0.8772
+Australia,Dollars, 6-Oct-09 ,0.8912
+Australia,Dollars, 7-Oct-09 ,0.8878
+Australia,Dollars, 8-Oct-09 ,0.9072
+Australia,Dollars, 9-Oct-09 ,0.9034
+Australia,Dollars,12-Oct-09 ,ND
+Australia,Dollars,13-Oct-09 ,0.9074
+Australia,Dollars,14-Oct-09 ,0.9133
+Australia,Dollars,15-Oct-09 ,0.9204
+Australia,Dollars,16-Oct-09 ,0.9158
+Australia,Dollars,19-Oct-09 ,0.9266
+Australia,Dollars,20-Oct-09 ,0.9209
+Australia,Dollars,21-Oct-09 ,0.9275
+Australia,Dollars,22-Oct-09 ,0.9223
+Australia,Dollars,23-Oct-09 ,0.9255
+Australia,Dollars,26-Oct-09 ,0.9200
+Australia,Dollars,27-Oct-09 ,0.9163
+Australia,Dollars,28-Oct-09 ,0.9013
+Australia,Dollars,29-Oct-09 ,0.9143
+Australia,Dollars,30-Oct-09 ,0.9038
+Australia,Dollars, 2-Nov-09 ,0.9083
+Australia,Dollars, 3-Nov-09 ,0.8985
+Australia,Dollars, 4-Nov-09 ,0.9087
+Australia,Dollars, 5-Nov-09 ,0.9083
+Australia,Dollars, 6-Nov-09 ,0.9164
+Australia,Dollars, 9-Nov-09 ,0.9293
+Australia,Dollars,10-Nov-09 ,0.9278
+Australia,Dollars,11-Nov-09 ,ND
+Australia,Dollars,12-Nov-09 ,0.9248
+Australia,Dollars,13-Nov-09 ,0.9311
+Australia,Dollars,16-Nov-09 ,0.9369
+Australia,Dollars,17-Nov-09 ,0.9264
+Australia,Dollars,18-Nov-09 ,0.9302
+Australia,Dollars,19-Nov-09 ,0.9186
+Australia,Dollars,20-Nov-09 ,0.9155
+Australia,Dollars,23-Nov-09 ,0.9247
+Australia,Dollars,24-Nov-09 ,0.9169
+Australia,Dollars,25-Nov-09 ,0.9282
+Australia,Dollars,26-Nov-09 ,ND
+Australia,Dollars,27-Nov-09 ,0.9089
+Australia,Dollars,30-Nov-09 ,0.9143
+Australia,Dollars, 1-Dec-09 ,0.9249
+Australia,Dollars, 2-Dec-09 ,0.9262
+Australia,Dollars, 3-Dec-09 ,0.9265
+Australia,Dollars, 4-Dec-09 ,0.9149
+Australia,Dollars, 7-Dec-09 ,0.9130
+Australia,Dollars, 8-Dec-09 ,0.9083
+Australia,Dollars, 9-Dec-09 ,0.9077
+Australia,Dollars,10-Dec-09 ,0.9163
+Australia,Dollars,11-Dec-09 ,0.9112
+Australia,Dollars,14-Dec-09 ,0.9156
+Australia,Dollars,15-Dec-09 ,0.9066
+Australia,Dollars,16-Dec-09 ,0.9014
+Australia,Dollars,17-Dec-09 ,0.8855
+Australia,Dollars,18-Dec-09 ,0.8866
+Australia,Dollars,21-Dec-09 ,0.8833
+Australia,Dollars,22-Dec-09 ,0.8777
+Australia,Dollars,23-Dec-09 ,0.8811
+Australia,Dollars,24-Dec-09 ,0.8828
+Australia,Dollars,25-Dec-09 ,ND
+Australia,Dollars,28-Dec-09 ,0.8875
+Australia,Dollars,29-Dec-09 ,0.8969
+Australia,Dollars,30-Dec-09 ,0.8945
+Australia,Dollars,31-Dec-09 ,0.8979
+Australia,Dollars, 1-Jan-10 ,ND
+Australia,Dollars, 4-Jan-10 ,0.9133
+Australia,Dollars, 5-Jan-10 ,0.9143
+Australia,Dollars, 6-Jan-10 ,0.9189
+Australia,Dollars, 7-Jan-10 ,0.9168
+Australia,Dollars, 8-Jan-10 ,0.9218
+Australia,Dollars,11-Jan-10 ,0.9295
+Australia,Dollars,12-Jan-10 ,0.9242
+Australia,Dollars,13-Jan-10 ,0.9225
+Australia,Dollars,14-Jan-10 ,0.9306
+Australia,Dollars,15-Jan-10 ,0.9234
+Australia,Dollars,18-Jan-10 ,ND
+Australia,Dollars,19-Jan-10 ,0.9232
+Australia,Dollars,20-Jan-10 ,0.9085
+Australia,Dollars,21-Jan-10 ,0.9053
+Australia,Dollars,22-Jan-10 ,0.9050
+Australia,Dollars,25-Jan-10 ,0.9030
+Australia,Dollars,26-Jan-10 ,0.8949
+Australia,Dollars,27-Jan-10 ,0.8967
+Australia,Dollars,28-Jan-10 ,0.9024
+Australia,Dollars,29-Jan-10 ,0.8873
+Australia,Dollars, 1-Feb-10 ,0.8877
+Australia,Dollars, 2-Feb-10 ,0.8843
+Australia,Dollars, 3-Feb-10 ,0.8818
+Australia,Dollars, 4-Feb-10 ,0.8646
+Australia,Dollars, 5-Feb-10 ,0.8617
+Australia,Dollars, 8-Feb-10 ,0.8693
+Australia,Dollars, 9-Feb-10 ,0.8772
+Australia,Dollars,10-Feb-10 ,0.8740
+Australia,Dollars,11-Feb-10 ,0.8886
+Australia,Dollars,12-Feb-10 ,0.8839
+Australia,Dollars,15-Feb-10 ,ND
+Australia,Dollars,16-Feb-10 ,0.8994
+Australia,Dollars,17-Feb-10 ,0.8994
+Australia,Dollars,18-Feb-10 ,0.8971
+Australia,Dollars,19-Feb-10 ,0.8954
+Australia,Dollars,22-Feb-10 ,0.8994
+Australia,Dollars,23-Feb-10 ,0.8935
+Australia,Dollars,24-Feb-10 ,0.8941
+Australia,Dollars,25-Feb-10 ,0.8811
+Australia,Dollars,26-Feb-10 ,0.8961
+Australia,Dollars, 1-Mar-10 ,0.9001
+Australia,Dollars, 2-Mar-10 ,0.9043
+Australia,Dollars, 3-Mar-10 ,0.9077
+Australia,Dollars, 4-Mar-10 ,0.8997
+Australia,Dollars, 5-Mar-10 ,0.9065
+Australia,Dollars, 8-Mar-10 ,0.9084
+Australia,Dollars, 9-Mar-10 ,0.9138
+Australia,Dollars,10-Mar-10 ,0.9170
+Australia,Dollars,11-Mar-10 ,0.9150
+Australia,Dollars,12-Mar-10 ,0.9152
+Australia,Dollars,15-Mar-10 ,0.9117
+Australia,Dollars,16-Mar-10 ,0.9148
+Australia,Dollars,17-Mar-10 ,0.9225
+Australia,Dollars,18-Mar-10 ,0.9201
+Australia,Dollars,19-Mar-10 ,0.9164
+Australia,Dollars,22-Mar-10 ,0.9154
+Australia,Dollars,23-Mar-10 ,0.9186
+Australia,Dollars,24-Mar-10 ,0.9090
+Australia,Dollars,25-Mar-10 ,0.9119
+Australia,Dollars,26-Mar-10 ,0.9042
+Australia,Dollars,29-Mar-10 ,0.9152
+Australia,Dollars,30-Mar-10 ,0.9183
+Australia,Dollars,31-Mar-10 ,0.9169
+Australia,Dollars, 1-Apr-10 ,0.9212
+Australia,Dollars, 2-Apr-10 ,0.9187
+Australia,Dollars, 5-Apr-10 ,0.9210
+Australia,Dollars, 6-Apr-10 ,0.9254
+Australia,Dollars, 7-Apr-10 ,0.9287
+Australia,Dollars, 8-Apr-10 ,0.9283
+Australia,Dollars, 9-Apr-10 ,0.9326
+Australia,Dollars,12-Apr-10 ,0.9297
+Australia,Dollars,13-Apr-10 ,0.9274
+Australia,Dollars,14-Apr-10 ,0.9359
+Australia,Dollars,15-Apr-10 ,0.9322
+Australia,Dollars,16-Apr-10 ,0.9252
+Australia,Dollars,19-Apr-10 ,0.9185
+Australia,Dollars,20-Apr-10 ,0.9312
+Australia,Dollars,21-Apr-10 ,0.9278
+Australia,Dollars,22-Apr-10 ,0.9246
+Australia,Dollars,23-Apr-10 ,0.9229
+Australia,Dollars,26-Apr-10 ,0.9273
+Australia,Dollars,27-Apr-10 ,0.9170
+Australia,Dollars,28-Apr-10 ,0.9220
+Australia,Dollars,29-Apr-10 ,0.9277
+Australia,Dollars,30-Apr-10 ,0.9306
+Australia,Dollars, 3-May-10 ,0.9255
+Australia,Dollars, 4-May-10 ,0.9125
+Australia,Dollars, 5-May-10 ,0.9095
+Australia,Dollars, 6-May-10 ,0.8939
+Australia,Dollars, 7-May-10 ,0.8890
+Australia,Dollars,10-May-10 ,0.9016
+Australia,Dollars,11-May-10 ,0.8990
+Australia,Dollars,12-May-10 ,0.8926
+Australia,Dollars,13-May-10 ,0.8998
+Australia,Dollars,14-May-10 ,0.8886
+Australia,Dollars,17-May-10 ,0.8735
+Australia,Dollars,18-May-10 ,0.8727
+Australia,Dollars,19-May-10 ,0.8380
+Australia,Dollars,20-May-10 ,0.8250
+Australia,Dollars,21-May-10 ,0.8302
+Australia,Dollars,24-May-10 ,0.8324
+Australia,Dollars,25-May-10 ,0.8172
+Australia,Dollars,26-May-10 ,0.8291
+Australia,Dollars,27-May-10 ,0.8467
+Australia,Dollars,28-May-10 ,0.8491
+Australia,Dollars,31-May-10 ,ND
+Australia,Dollars, 1-Jun-10 ,0.8396
+Australia,Dollars, 2-Jun-10 ,0.8355
+Australia,Dollars, 3-Jun-10 ,0.8420
+Australia,Dollars, 4-Jun-10 ,0.8279
+Australia,Dollars, 7-Jun-10 ,0.8192
+Australia,Dollars, 8-Jun-10 ,0.8232
+Australia,Dollars, 9-Jun-10 ,0.8337
+Australia,Dollars,10-Jun-10 ,0.8469
+Australia,Dollars,11-Jun-10 ,0.8493
+Australia,Dollars,14-Jun-10 ,0.8634
+Australia,Dollars,15-Jun-10 ,0.8616
+Australia,Dollars,16-Jun-10 ,0.8648
+Australia,Dollars,17-Jun-10 ,0.8648
+Australia,Dollars,18-Jun-10 ,0.8699
+Australia,Dollars,21-Jun-10 ,0.8818
+Australia,Dollars,22-Jun-10 ,0.8791
+Australia,Dollars,23-Jun-10 ,0.8739
+Australia,Dollars,24-Jun-10 ,0.8671
+Australia,Dollars,25-Jun-10 ,0.8682
+Australia,Dollars,28-Jun-10 ,0.8738
+Australia,Dollars,29-Jun-10 ,0.8525
+Australia,Dollars,30-Jun-10 ,0.8480
+Australia,Dollars, 1-Jul-10 ,0.8380
+Australia,Dollars, 2-Jul-10 ,0.8432
+Australia,Dollars, 5-Jul-10 ,ND
+Australia,Dollars, 6-Jul-10 ,0.8555
+Australia,Dollars, 7-Jul-10 ,0.8568
+Australia,Dollars, 8-Jul-10 ,0.8767
+Australia,Dollars, 9-Jul-10 ,0.8753
+Australia,Dollars,12-Jul-10 ,0.8733
+Australia,Dollars,13-Jul-10 ,0.8821
+Australia,Dollars,14-Jul-10 ,0.8854
+Australia,Dollars,15-Jul-10 ,0.8781
+Australia,Dollars,16-Jul-10 ,0.8707
+Australia,Dollars,19-Jul-10 ,0.8692
+Australia,Dollars,20-Jul-10 ,0.8788
+Australia,Dollars,21-Jul-10 ,0.8824
+Australia,Dollars,22-Jul-10 ,0.8920
+Australia,Dollars,23-Jul-10 ,0.8946
+Australia,Dollars,26-Jul-10 ,0.8998
+Australia,Dollars,27-Jul-10 ,0.9017
+Australia,Dollars,28-Jul-10 ,0.8929
+Australia,Dollars,29-Jul-10 ,0.8981
+Australia,Dollars,30-Jul-10 ,0.9051
+Australia,Dollars, 2-Aug-10 ,0.9135
+Australia,Dollars, 3-Aug-10 ,0.9150
+Australia,Dollars, 4-Aug-10 ,0.9160
+Australia,Dollars, 5-Aug-10 ,0.9131
+Australia,Dollars, 6-Aug-10 ,0.9165
+Australia,Dollars, 9-Aug-10 ,0.9170
+Australia,Dollars,10-Aug-10 ,0.9086
+Australia,Dollars,11-Aug-10 ,0.9006
+Australia,Dollars,12-Aug-10 ,0.8964
+Australia,Dollars,13-Aug-10 ,0.8955
+Australia,Dollars,16-Aug-10 ,0.8976
+Australia,Dollars,17-Aug-10 ,0.9067
+Australia,Dollars,18-Aug-10 ,0.8995
+Australia,Dollars,19-Aug-10 ,0.8928
+Australia,Dollars,20-Aug-10 ,0.8881
+Australia,Dollars,23-Aug-10 ,0.8930
+Australia,Dollars,24-Aug-10 ,0.8862
+Australia,Dollars,25-Aug-10 ,0.8807
+Australia,Dollars,26-Aug-10 ,0.8881
+Australia,Dollars,27-Aug-10 ,0.8979
+Australia,Dollars,30-Aug-10 ,0.8940
+Australia,Dollars,31-Aug-10 ,0.8910
+Australia,Dollars, 1-Sep-10 ,0.9093
+Australia,Dollars, 2-Sep-10 ,0.9104
+Australia,Dollars, 3-Sep-10 ,0.9155
+Australia,Dollars, 6-Sep-10 ,ND
+Australia,Dollars, 7-Sep-10 ,0.9143
+Australia,Dollars, 8-Sep-10 ,0.9185
+Australia,Dollars, 9-Sep-10 ,0.9248
+Australia,Dollars,10-Sep-10 ,0.9258
+Australia,Dollars,13-Sep-10 ,0.9359
+Australia,Dollars,14-Sep-10 ,0.9436
+Australia,Dollars,15-Sep-10 ,0.9397
+Australia,Dollars,16-Sep-10 ,0.9351
+Australia,Dollars,17-Sep-10 ,0.9378
+Australia,Dollars,20-Sep-10 ,0.9479
+Australia,Dollars,21-Sep-10 ,0.9475
+Australia,Dollars,22-Sep-10 ,0.9536
+Australia,Dollars,23-Sep-10 ,0.9538
+Australia,Dollars,24-Sep-10 ,0.9584
+Australia,Dollars,27-Sep-10 ,0.9622
+Australia,Dollars,28-Sep-10 ,0.9673
+Australia,Dollars,29-Sep-10 ,0.9714
+Australia,Dollars,30-Sep-10 ,0.9640
+Australia,Dollars, 1-Oct-10 ,0.9710
+Australia,Dollars, 4-Oct-10 ,0.9666
+Australia,Dollars, 5-Oct-10 ,0.9699
+Australia,Dollars, 6-Oct-10 ,0.9781
+Australia,Dollars, 7-Oct-10 ,0.9815
+Australia,Dollars, 8-Oct-10 ,0.9866
+Australia,Dollars,11-Oct-10 ,ND
+Australia,Dollars,12-Oct-10 ,0.9848
+Australia,Dollars,13-Oct-10 ,0.9922
+Australia,Dollars,14-Oct-10 ,0.9943
+Australia,Dollars,15-Oct-10 ,0.9883
+Australia,Dollars,18-Oct-10 ,0.9917
+Australia,Dollars,19-Oct-10 ,0.9758
+Australia,Dollars,20-Oct-10 ,0.9848
+Australia,Dollars,21-Oct-10 ,0.9838
+Australia,Dollars,22-Oct-10 ,0.9784
+Australia,Dollars,25-Oct-10 ,0.9933
+Australia,Dollars,26-Oct-10 ,0.9863
+Australia,Dollars,27-Oct-10 ,0.9699
+Australia,Dollars,28-Oct-10 ,0.9787
+Australia,Dollars,29-Oct-10 ,0.9798
+Australia,Dollars, 1-Nov-10 ,0.9878
+Australia,Dollars, 2-Nov-10 ,0.9990
+Australia,Dollars, 3-Nov-10 ,0.9967
+Australia,Dollars, 4-Nov-10 ,1.0143
+Australia,Dollars, 5-Nov-10 ,1.0138
+Australia,Dollars, 8-Nov-10 ,1.0134
+Australia,Dollars, 9-Nov-10 ,1.0120
+Australia,Dollars,10-Nov-10 ,1.0025
+Australia,Dollars,11-Nov-10 ,ND
+Australia,Dollars,12-Nov-10 ,0.9906
+Australia,Dollars,15-Nov-10 ,0.9904
+Australia,Dollars,16-Nov-10 ,0.9755
+Australia,Dollars,17-Nov-10 ,0.9821
+Australia,Dollars,18-Nov-10 ,0.9890
+Australia,Dollars,19-Nov-10 ,0.9846
+Australia,Dollars,22-Nov-10 ,0.9867
+Australia,Dollars,23-Nov-10 ,0.9730
+Australia,Dollars,24-Nov-10 ,0.9822
+Australia,Dollars,25-Nov-10 ,ND
+Australia,Dollars,26-Nov-10 ,0.9640
+Australia,Dollars,29-Nov-10 ,0.9594
+Australia,Dollars,30-Nov-10 ,0.9607
+Australia,Dollars, 1-Dec-10 ,0.9675
+Australia,Dollars, 2-Dec-10 ,0.9774
+Australia,Dollars, 3-Dec-10 ,0.9877
+Australia,Dollars, 6-Dec-10 ,0.9883
+Australia,Dollars, 7-Dec-10 ,0.9894
+Australia,Dollars, 8-Dec-10 ,0.9780
+Australia,Dollars, 9-Dec-10 ,0.9823
+Australia,Dollars,10-Dec-10 ,0.9856
+Australia,Dollars,13-Dec-10 ,0.9942
+Australia,Dollars,14-Dec-10 ,0.9998
+Australia,Dollars,15-Dec-10 ,0.9917
+Australia,Dollars,16-Dec-10 ,0.9866
+Australia,Dollars,17-Dec-10 ,0.9854
+Australia,Dollars,20-Dec-10 ,0.9933
+Australia,Dollars,21-Dec-10 ,0.9972
+Australia,Dollars,22-Dec-10 ,1.0003
+Australia,Dollars,23-Dec-10 ,1.0051
+Australia,Dollars,24-Dec-10 ,ND
+Australia,Dollars,27-Dec-10 ,1.0026
+Australia,Dollars,28-Dec-10 ,1.0112
+Australia,Dollars,29-Dec-10 ,1.0153
+Australia,Dollars,30-Dec-10 ,1.0122
+Australia,Dollars,31-Dec-10 ,ND
+Australia,Dollars, 3-Jan-11 ,1.0200
+Australia,Dollars, 4-Jan-11 ,1.0044
+Australia,Dollars, 5-Jan-11 ,1.0003
+Australia,Dollars, 6-Jan-11 ,0.9959
+Australia,Dollars, 7-Jan-11 ,0.9954
+Australia,Dollars,10-Jan-11 ,0.9936
+Australia,Dollars,11-Jan-11 ,0.9873
+Australia,Dollars,12-Jan-11 ,0.9934
+Australia,Dollars,13-Jan-11 ,1.0003
+Australia,Dollars,14-Jan-11 ,0.9886
+Australia,Dollars,17-Jan-11 ,ND
+Australia,Dollars,18-Jan-11 ,0.9980
+Australia,Dollars,19-Jan-11 ,1.0030
+Australia,Dollars,20-Jan-11 ,0.9868
+Australia,Dollars,21-Jan-11 ,0.9892
+Australia,Dollars,24-Jan-11 ,1.0001
+Australia,Dollars,25-Jan-11 ,0.9910
+Australia,Dollars,26-Jan-11 ,0.9948
+Australia,Dollars,27-Jan-11 ,0.9907
+Australia,Dollars,28-Jan-11 ,0.9926
+Australia,Dollars,31-Jan-11 ,0.9976
+Australia,Dollars, 1-Feb-11 ,1.0122
+Australia,Dollars, 2-Feb-11 ,1.0062
+Australia,Dollars, 3-Feb-11 ,1.0143
+Australia,Dollars, 4-Feb-11 ,1.0139
+Australia,Dollars, 7-Feb-11 ,1.0139
+Australia,Dollars, 8-Feb-11 ,1.0176
+Australia,Dollars, 9-Feb-11 ,1.0095
+Australia,Dollars,10-Feb-11 ,1.0061
+Australia,Dollars,11-Feb-11 ,1.0001
+Australia,Dollars,14-Feb-11 ,1.0024
+Australia,Dollars,15-Feb-11 ,0.9989
+Australia,Dollars,16-Feb-11 ,0.9984
+Australia,Dollars,17-Feb-11 ,1.0116
+Australia,Dollars,18-Feb-11 ,1.0144
+Australia,Dollars,21-Feb-11 ,ND
+Australia,Dollars,22-Feb-11 ,0.9992
+Australia,Dollars,23-Feb-11 ,1.0001
+Australia,Dollars,24-Feb-11 ,1.0088
+Australia,Dollars,25-Feb-11 ,1.0155
+Australia,Dollars,28-Feb-11 ,1.0174
+Australia,Dollars, 1-Mar-11 ,1.0159
+Australia,Dollars, 2-Mar-11 ,1.0157
+Australia,Dollars, 3-Mar-11 ,1.0131
+Australia,Dollars, 4-Mar-11 ,1.0111
+Australia,Dollars, 7-Mar-11 ,1.0110
+Australia,Dollars, 8-Mar-11 ,1.0113
+Australia,Dollars, 9-Mar-11 ,1.0111
+Australia,Dollars,10-Mar-11 ,1.0017
+Australia,Dollars,11-Mar-11 ,1.0110
+Australia,Dollars,14-Mar-11 ,1.0073
+Australia,Dollars,15-Mar-11 ,0.9900
+Australia,Dollars,16-Mar-11 ,0.9842
+Australia,Dollars,17-Mar-11 ,0.9823
+Australia,Dollars,18-Mar-11 ,0.9953
+Australia,Dollars,21-Mar-11 ,1.0044
+Australia,Dollars,22-Mar-11 ,1.0118
+Australia,Dollars,23-Mar-11 ,1.0105
+Australia,Dollars,24-Mar-11 ,1.0219
+Australia,Dollars,25-Mar-11 ,1.0282
+Australia,Dollars,28-Mar-11 ,1.0281
+Australia,Dollars,29-Mar-11 ,1.0264
+Australia,Dollars,30-Mar-11 ,1.0319
+Australia,Dollars,31-Mar-11 ,1.0358
+Australia,Dollars, 1-Apr-11 ,1.0387
+Australia,Dollars, 4-Apr-11 ,1.0352
+Australia,Dollars, 5-Apr-11 ,1.0346
+Australia,Dollars, 6-Apr-11 ,1.0425
+Australia,Dollars, 7-Apr-11 ,1.0456
+Australia,Dollars, 8-Apr-11 ,1.0531
+Australia,Dollars,11-Apr-11 ,1.0534
+Australia,Dollars,12-Apr-11 ,1.0470
+Australia,Dollars,13-Apr-11 ,1.0504
+Australia,Dollars,14-Apr-11 ,1.0523
+Australia,Dollars,15-Apr-11 ,1.0558
+Australia,Dollars,18-Apr-11 ,1.0490
+Australia,Dollars,19-Apr-11 ,1.0507
+Australia,Dollars,20-Apr-11 ,1.0677
+Australia,Dollars,21-Apr-11 ,1.0747
+Australia,Dollars,22-Apr-11 ,1.0735
+Australia,Dollars,25-Apr-11 ,1.0717
+Australia,Dollars,26-Apr-11 ,1.0772
+Australia,Dollars,27-Apr-11 ,1.0790
+Australia,Dollars,28-Apr-11 ,1.0893
+Australia,Dollars,29-Apr-11 ,1.0937
+Australia,Dollars, 2-May-11 ,1.0970
+Australia,Dollars, 3-May-11 ,1.0921
+Australia,Dollars, 4-May-11 ,1.0765
+Australia,Dollars, 5-May-11 ,1.0642
+Australia,Dollars, 6-May-11 ,1.0763
+Australia,Dollars, 9-May-11 ,1.0754
+Australia,Dollars,10-May-11 ,1.0803
+Australia,Dollars,11-May-11 ,1.0756
+Australia,Dollars,12-May-11 ,1.0652
+Australia,Dollars,13-May-11 ,1.0565
+Australia,Dollars,16-May-11 ,1.0620
+Australia,Dollars,17-May-11 ,1.0539
+Australia,Dollars,18-May-11 ,1.0617
+Australia,Dollars,19-May-11 ,1.0614
+Australia,Dollars,20-May-11 ,1.0644
+Australia,Dollars,23-May-11 ,1.0496
+Australia,Dollars,24-May-11 ,1.0555
+Australia,Dollars,25-May-11 ,1.0537
+Australia,Dollars,26-May-11 ,1.0590
+Australia,Dollars,27-May-11 ,1.0711
+Australia,Dollars,30-May-11 ,ND
+Australia,Dollars,31-May-11 ,1.0660
+Australia,Dollars, 1-Jun-11 ,1.0716
+Australia,Dollars, 2-Jun-11 ,1.0617
+Australia,Dollars, 3-Jun-11 ,1.0714
+Australia,Dollars, 6-Jun-11 ,1.0737
+Australia,Dollars, 7-Jun-11 ,1.0713
+Australia,Dollars, 8-Jun-11 ,1.0635
+Australia,Dollars, 9-Jun-11 ,1.0642
+Australia,Dollars,10-Jun-11 ,1.0567
+Australia,Dollars,13-Jun-11 ,1.0562
+Australia,Dollars,14-Jun-11 ,1.0691
+Australia,Dollars,15-Jun-11 ,1.0621
+Australia,Dollars,16-Jun-11 ,1.0541
+Australia,Dollars,17-Jun-11 ,1.0620
+Australia,Dollars,20-Jun-11 ,1.0587
+Australia,Dollars,21-Jun-11 ,1.0598
+Australia,Dollars,22-Jun-11 ,1.0633
+Australia,Dollars,23-Jun-11 ,1.0484
+Australia,Dollars,24-Jun-11 ,1.0523
+Australia,Dollars,27-Jun-11 ,1.0439
+Australia,Dollars,28-Jun-11 ,1.0521
+Australia,Dollars,29-Jun-11 ,1.0673
+Australia,Dollars,30-Jun-11 ,1.0732
+Australia,Dollars, 1-Jul-11 ,1.0754
+Australia,Dollars, 4-Jul-11 ,ND
+Australia,Dollars, 5-Jul-11 ,1.0698
+Australia,Dollars, 6-Jul-11 ,1.0696
+Australia,Dollars, 7-Jul-11 ,1.0764
+Australia,Dollars, 8-Jul-11 ,1.0727
+Australia,Dollars,11-Jul-11 ,1.0662
+Australia,Dollars,12-Jul-11 ,1.0626
+Australia,Dollars,13-Jul-11 ,1.0763
+Australia,Dollars,14-Jul-11 ,1.0741
+Australia,Dollars,15-Jul-11 ,1.0656
+Australia,Dollars,18-Jul-11 ,1.0565
+Australia,Dollars,19-Jul-11 ,1.0699
+Australia,Dollars,20-Jul-11 ,1.0727
+Australia,Dollars,21-Jul-11 ,1.0837
+Australia,Dollars,22-Jul-11 ,1.0851
+Australia,Dollars,25-Jul-11 ,1.0853
+Australia,Dollars,26-Jul-11 ,1.0942
+Australia,Dollars,27-Jul-11 ,1.1026
+Australia,Dollars,28-Jul-11 ,1.1025
+Australia,Dollars,29-Jul-11 ,1.1001
+Australia,Dollars, 1-Aug-11 ,1.0930
+Australia,Dollars, 2-Aug-11 ,1.0840
+Australia,Dollars, 3-Aug-11 ,1.0721
+Australia,Dollars, 4-Aug-11 ,1.0516
+Australia,Dollars, 5-Aug-11 ,1.0380
+Australia,Dollars, 8-Aug-11 ,1.0351
+Australia,Dollars, 9-Aug-11 ,1.0192
+Australia,Dollars,10-Aug-11 ,1.0210
+Australia,Dollars,11-Aug-11 ,1.0269
+Australia,Dollars,12-Aug-11 ,1.0352
+Australia,Dollars,15-Aug-11 ,1.0478
+Australia,Dollars,16-Aug-11 ,1.0491
+Australia,Dollars,17-Aug-11 ,1.0543
+Australia,Dollars,18-Aug-11 ,1.0393
+Australia,Dollars,19-Aug-11 ,1.0444
+Australia,Dollars,22-Aug-11 ,1.0417
+Australia,Dollars,23-Aug-11 ,1.0510
+Australia,Dollars,24-Aug-11 ,1.0471
+Australia,Dollars,25-Aug-11 ,1.0457
+Australia,Dollars,26-Aug-11 ,1.0573
+Australia,Dollars,29-Aug-11 ,1.0619
+Australia,Dollars,30-Aug-11 ,1.0676
+Australia,Dollars,31-Aug-11 ,1.0702
+Australia,Dollars, 1-Sep-11 ,1.0750
+Australia,Dollars, 2-Sep-11 ,1.0677
+Australia,Dollars, 5-Sep-11 ,ND
+Australia,Dollars, 6-Sep-11 ,1.0510
+Australia,Dollars, 7-Sep-11 ,1.0614
+Australia,Dollars, 8-Sep-11 ,1.0630
+Australia,Dollars, 9-Sep-11 ,1.0446
+Australia,Dollars,12-Sep-11 ,1.0312
+Australia,Dollars,13-Sep-11 ,1.0320
+Australia,Dollars,14-Sep-11 ,1.0234
+Australia,Dollars,15-Sep-11 ,1.0313
+Australia,Dollars,16-Sep-11 ,1.0380
+Australia,Dollars,19-Sep-11 ,1.0217
+Australia,Dollars,20-Sep-11 ,1.0293
+Australia,Dollars,21-Sep-11 ,1.0209
+Australia,Dollars,22-Sep-11 ,0.9764
+Australia,Dollars,23-Sep-11 ,0.9784
+Australia,Dollars,26-Sep-11 ,0.9751
+Australia,Dollars,27-Sep-11 ,0.9962
+Australia,Dollars,28-Sep-11 ,0.9895
+Australia,Dollars,29-Sep-11 ,0.9818
+Australia,Dollars,30-Sep-11 ,0.9744
+Australia,Dollars, 3-Oct-11 ,0.9647
+Australia,Dollars, 4-Oct-11 ,0.9453
+Australia,Dollars, 5-Oct-11 ,0.9624
+Australia,Dollars, 6-Oct-11 ,0.9699
+Australia,Dollars, 7-Oct-11 ,0.9843
+Australia,Dollars,10-Oct-11 ,ND
+Australia,Dollars,11-Oct-11 ,0.9978
+Australia,Dollars,12-Oct-11 ,1.0166
+Australia,Dollars,13-Oct-11 ,1.0147
+Australia,Dollars,14-Oct-11 ,1.0296
+Australia,Dollars,17-Oct-11 ,1.0241
+Australia,Dollars,18-Oct-11 ,1.0220
+Australia,Dollars,19-Oct-11 ,1.0272
+Australia,Dollars,20-Oct-11 ,1.0187
+Australia,Dollars,21-Oct-11 ,1.0330
+Australia,Dollars,24-Oct-11 ,1.0454
+Australia,Dollars,25-Oct-11 ,1.0447
+Australia,Dollars,26-Oct-11 ,1.0348
+Australia,Dollars,27-Oct-11 ,1.0686
+Australia,Dollars,28-Oct-11 ,1.0707
+Australia,Dollars,31-Oct-11 ,1.0610
+Australia,Dollars, 1-Nov-11 ,1.0302
+Australia,Dollars, 2-Nov-11 ,1.0366
+Australia,Dollars, 3-Nov-11 ,1.0352
+Australia,Dollars, 4-Nov-11 ,1.0358
+Australia,Dollars, 7-Nov-11 ,1.0339
+Australia,Dollars, 8-Nov-11 ,1.0332
+Australia,Dollars, 9-Nov-11 ,1.0199
+Australia,Dollars,10-Nov-11 ,1.0137
+Australia,Dollars,11-Nov-11 ,ND
+Australia,Dollars,14-Nov-11 ,1.0193
+Australia,Dollars,15-Nov-11 ,1.0144
+Australia,Dollars,16-Nov-11 ,1.0137
+Australia,Dollars,17-Nov-11 ,1.0056
+Australia,Dollars,18-Nov-11 ,1.0036
+Australia,Dollars,21-Nov-11 ,0.9842
+Australia,Dollars,22-Nov-11 ,0.9831
+Australia,Dollars,23-Nov-11 ,0.9686
+Australia,Dollars,24-Nov-11 ,ND
+Australia,Dollars,25-Nov-11 ,0.9737
+Australia,Dollars,28-Nov-11 ,0.9924
+Australia,Dollars,29-Nov-11 ,1.0018
+Australia,Dollars,30-Nov-11 ,1.0244
+Australia,Dollars, 1-Dec-11 ,1.0227
+Australia,Dollars, 2-Dec-11 ,1.0221
+Australia,Dollars, 5-Dec-11 ,1.0298
+Australia,Dollars, 6-Dec-11 ,1.0227
+Australia,Dollars, 7-Dec-11 ,1.0268
+Australia,Dollars, 8-Dec-11 ,1.0187
+Australia,Dollars, 9-Dec-11 ,1.0190
+Australia,Dollars,12-Dec-11 ,1.0059
+Australia,Dollars,13-Dec-11 ,1.0097
+Australia,Dollars,14-Dec-11 ,0.9904
+Australia,Dollars,15-Dec-11 ,0.9936
+Australia,Dollars,16-Dec-11 ,0.9962
+Australia,Dollars,19-Dec-11 ,0.9915
+Australia,Dollars,20-Dec-11 ,1.0069
+Australia,Dollars,21-Dec-11 ,1.0070
+Australia,Dollars,22-Dec-11 ,1.0140
+Australia,Dollars,23-Dec-11 ,1.0148
+Australia,Dollars,26-Dec-11 ,ND
+Australia,Dollars,27-Dec-11 ,1.0160
+Australia,Dollars,28-Dec-11 ,1.0092
+Australia,Dollars,29-Dec-11 ,1.0134
+Australia,Dollars,30-Dec-11 ,1.0251
+Australia,Dollars, 2-Jan-12 ,ND
+Australia,Dollars, 3-Jan-12 ,1.0380
+Australia,Dollars, 4-Jan-12 ,1.0348
+Australia,Dollars, 5-Jan-12 ,1.0253
+Australia,Dollars, 6-Jan-12 ,1.0235
+Australia,Dollars, 9-Jan-12 ,1.0215
+Australia,Dollars,10-Jan-12 ,1.0323
+Australia,Dollars,11-Jan-12 ,1.0295
+Australia,Dollars,12-Jan-12 ,1.0311
+Australia,Dollars,13-Jan-12 ,1.0292
+Australia,Dollars,16-Jan-12 ,ND
+Australia,Dollars,17-Jan-12 ,1.0395
+Australia,Dollars,18-Jan-12 ,1.0395
+Australia,Dollars,19-Jan-12 ,1.0417
+Australia,Dollars,20-Jan-12 ,1.0471
+Australia,Dollars,23-Jan-12 ,1.0534
+Australia,Dollars,24-Jan-12 ,1.0470
+Australia,Dollars,25-Jan-12 ,1.0481
+Australia,Dollars,26-Jan-12 ,1.0651
+Australia,Dollars,27-Jan-12 ,1.0645
+Australia,Dollars,30-Jan-12 ,1.0590
+Australia,Dollars,31-Jan-12 ,1.0598
+Australia,Dollars, 1-Feb-12 ,1.0700
+Australia,Dollars, 2-Feb-12 ,1.0718
+Australia,Dollars, 3-Feb-12 ,1.0762
+Australia,Dollars, 6-Feb-12 ,1.0743
+Australia,Dollars, 7-Feb-12 ,1.0798
+Australia,Dollars, 8-Feb-12 ,1.0785
+Australia,Dollars, 9-Feb-12 ,1.0806
+Australia,Dollars,10-Feb-12 ,1.0676
+Australia,Dollars,13-Feb-12 ,1.0741
+Australia,Dollars,14-Feb-12 ,1.0691
+Australia,Dollars,15-Feb-12 ,1.0742
+Australia,Dollars,16-Feb-12 ,1.0759
+Australia,Dollars,17-Feb-12 ,1.0695
+Australia,Dollars,20-Feb-12 ,ND
+Australia,Dollars,21-Feb-12 ,1.0692
+Australia,Dollars,22-Feb-12 ,1.0629
+Australia,Dollars,23-Feb-12 ,1.0688
+Australia,Dollars,24-Feb-12 ,1.0707
+Australia,Dollars,27-Feb-12 ,1.0764
+Australia,Dollars,28-Feb-12 ,1.0765
+Australia,Dollars,29-Feb-12 ,1.0777
+Australia,Dollars, 1-Mar-12 ,1.0803
+Australia,Dollars, 2-Mar-12 ,1.0747
+Australia,Dollars, 5-Mar-12 ,1.0668
+Australia,Dollars, 6-Mar-12 ,1.0551
+Australia,Dollars, 7-Mar-12 ,1.0583
+Australia,Dollars, 8-Mar-12 ,1.0618
+Australia,Dollars, 9-Mar-12 ,1.0590
+Australia,Dollars,12-Mar-12 ,1.0490
+Australia,Dollars,13-Mar-12 ,1.0540
+Australia,Dollars,14-Mar-12 ,1.0446
+Australia,Dollars,15-Mar-12 ,1.0528
+Australia,Dollars,16-Mar-12 ,1.0584
+Australia,Dollars,19-Mar-12 ,1.0608
+Australia,Dollars,20-Mar-12 ,1.0485
+Australia,Dollars,21-Mar-12 ,1.0439
+Australia,Dollars,22-Mar-12 ,1.0370
+Australia,Dollars,23-Mar-12 ,1.0456
+Australia,Dollars,26-Mar-12 ,1.0511
+Australia,Dollars,27-Mar-12 ,1.0490
+Australia,Dollars,28-Mar-12 ,1.0369
+Australia,Dollars,29-Mar-12 ,1.0326
+Australia,Dollars,30-Mar-12 ,1.0367
+Australia,Dollars, 2-Apr-12 ,1.0426
+Australia,Dollars, 3-Apr-12 ,1.0372
+Australia,Dollars, 4-Apr-12 ,1.0255
+Australia,Dollars, 5-Apr-12 ,1.0303
+Australia,Dollars, 6-Apr-12 ,1.0311
+Australia,Dollars, 9-Apr-12 ,1.0319
+Australia,Dollars,10-Apr-12 ,1.0262
+Australia,Dollars,11-Apr-12 ,1.0295
+Australia,Dollars,12-Apr-12 ,1.0441
+Australia,Dollars,13-Apr-12 ,1.0372
+Australia,Dollars,16-Apr-12 ,1.0340
+Australia,Dollars,17-Apr-12 ,1.0405
+Australia,Dollars,18-Apr-12 ,1.0367
+Australia,Dollars,19-Apr-12 ,1.0337
+Australia,Dollars,20-Apr-12 ,1.0375
+Australia,Dollars,23-Apr-12 ,1.0299
+Australia,Dollars,24-Apr-12 ,1.0299
+Australia,Dollars,25-Apr-12 ,1.0333
+Australia,Dollars,26-Apr-12 ,1.0383
+Australia,Dollars,27-Apr-12 ,1.0447
+Australia,Dollars,30-Apr-12 ,1.0410
+Australia,Dollars, 1-May-12 ,1.0345
+Australia,Dollars, 2-May-12 ,1.0304
+Australia,Dollars, 3-May-12 ,1.0260
+Australia,Dollars, 4-May-12 ,1.0190
+Australia,Dollars, 7-May-12 ,1.0201
+Australia,Dollars, 8-May-12 ,1.0117
+Australia,Dollars, 9-May-12 ,1.0066
+Australia,Dollars,10-May-12 ,1.0113
+Australia,Dollars,11-May-12 ,1.0065
+Australia,Dollars,14-May-12 ,0.9998
+Australia,Dollars,15-May-12 ,0.9977
+Australia,Dollars,16-May-12 ,0.9933
+Australia,Dollars,17-May-12 ,0.9925
+Australia,Dollars,18-May-12 ,0.9819
+Australia,Dollars,21-May-12 ,0.9853
+Australia,Dollars,22-May-12 ,0.9874
+Australia,Dollars,23-May-12 ,0.9709
+Australia,Dollars,24-May-12 ,0.9774
+Australia,Dollars,25-May-12 ,0.9778
+Australia,Dollars,28-May-12 ,ND
+Australia,Dollars,29-May-12 ,0.9825
+Australia,Dollars,30-May-12 ,0.9733
+Australia,Dollars,31-May-12 ,0.9711
+Australia,Dollars, 1-Jun-12 ,0.9688
+Australia,Dollars, 4-Jun-12 ,0.9719
+Australia,Dollars, 5-Jun-12 ,0.9722
+Australia,Dollars, 6-Jun-12 ,0.9905
+Australia,Dollars, 7-Jun-12 ,0.9936
+Australia,Dollars, 8-Jun-12 ,0.9869
+Australia,Dollars,11-Jun-12 ,0.9925
+Australia,Dollars,12-Jun-12 ,0.9925
+Australia,Dollars,13-Jun-12 ,0.9973
+Australia,Dollars,14-Jun-12 ,0.9989
+Australia,Dollars,15-Jun-12 ,1.0057
+Australia,Dollars,18-Jun-12 ,1.0088
+Australia,Dollars,19-Jun-12 ,1.0196
+Australia,Dollars,20-Jun-12 ,1.0194
+Australia,Dollars,21-Jun-12 ,1.0095
+Australia,Dollars,22-Jun-12 ,1.0059
+Australia,Dollars,25-Jun-12 ,0.9981
+Australia,Dollars,26-Jun-12 ,1.0046
+Australia,Dollars,27-Jun-12 ,1.0071
+Australia,Dollars,28-Jun-12 ,1.0025
+Australia,Dollars,29-Jun-12 ,1.0236
+Australia,Dollars, 2-Jul-12 ,1.0239
+Australia,Dollars, 3-Jul-12 ,1.0294
+Australia,Dollars, 4-Jul-12 ,ND
+Australia,Dollars, 5-Jul-12 ,1.0291
+Australia,Dollars, 6-Jul-12 ,1.0187
+Australia,Dollars, 9-Jul-12 ,1.0176
+Australia,Dollars,10-Jul-12 ,1.0218
+Australia,Dollars,11-Jul-12 ,1.0252
+Australia,Dollars,12-Jul-12 ,1.0131
+Australia,Dollars,13-Jul-12 ,1.0212
+Australia,Dollars,16-Jul-12 ,1.0236
+Australia,Dollars,17-Jul-12 ,1.0281
+Australia,Dollars,18-Jul-12 ,1.0347
+Australia,Dollars,19-Jul-12 ,1.0423
+Australia,Dollars,20-Jul-12 ,1.0383
+Australia,Dollars,23-Jul-12 ,1.0270
+Australia,Dollars,24-Jul-12 ,1.0253
+Australia,Dollars,25-Jul-12 ,1.0275
+Australia,Dollars,26-Jul-12 ,1.0390
+Australia,Dollars,27-Jul-12 ,1.0441
+Australia,Dollars,30-Jul-12 ,1.0489
+Australia,Dollars,31-Jul-12 ,1.0522
+Australia,Dollars, 1-Aug-12 ,1.0518
+Australia,Dollars, 2-Aug-12 ,1.0451
+Australia,Dollars, 3-Aug-12 ,1.0566
+Australia,Dollars, 6-Aug-12 ,1.0591
+Australia,Dollars, 7-Aug-12 ,1.0571
+Australia,Dollars, 8-Aug-12 ,1.0573
+Australia,Dollars, 9-Aug-12 ,1.0567
+Australia,Dollars,10-Aug-12 ,1.0569
+Australia,Dollars,13-Aug-12 ,1.0507
+Australia,Dollars,14-Aug-12 ,1.0506
+Australia,Dollars,15-Aug-12 ,1.0509
+Australia,Dollars,16-Aug-12 ,1.0505
+Australia,Dollars,17-Aug-12 ,1.0427
+Australia,Dollars,20-Aug-12 ,1.0457
+Australia,Dollars,21-Aug-12 ,1.0493
+Australia,Dollars,22-Aug-12 ,1.0446
+Australia,Dollars,23-Aug-12 ,1.0479
+Australia,Dollars,24-Aug-12 ,1.0411
+Australia,Dollars,27-Aug-12 ,1.0387
+Australia,Dollars,28-Aug-12 ,1.0383
+Australia,Dollars,29-Aug-12 ,1.0366
+Australia,Dollars,30-Aug-12 ,1.0301
+Australia,Dollars,31-Aug-12 ,1.0334
+Australia,Dollars, 3-Sep-12 ,ND
+Australia,Dollars, 4-Sep-12 ,1.0230
+Australia,Dollars, 5-Sep-12 ,1.0195
+Australia,Dollars, 6-Sep-12 ,1.0288
+Australia,Dollars, 7-Sep-12 ,1.0390
+Australia,Dollars,10-Sep-12 ,1.0363
+Australia,Dollars,11-Sep-12 ,1.0442
+Australia,Dollars,12-Sep-12 ,1.0453
+Australia,Dollars,13-Sep-12 ,1.0449
+Australia,Dollars,14-Sep-12 ,1.0561
+Australia,Dollars,17-Sep-12 ,1.0490
+Australia,Dollars,18-Sep-12 ,1.0446
+Australia,Dollars,19-Sep-12 ,1.0480
+Australia,Dollars,20-Sep-12 ,1.0410
+Australia,Dollars,21-Sep-12 ,1.0469
+Australia,Dollars,24-Sep-12 ,1.0417
+Australia,Dollars,25-Sep-12 ,1.0445
+Australia,Dollars,26-Sep-12 ,1.0357
+Australia,Dollars,27-Sep-12 ,1.0440
+Australia,Dollars,28-Sep-12 ,1.0388
+Australia,Dollars, 1-Oct-12 ,1.0374
+Australia,Dollars, 2-Oct-12 ,1.0292
+Australia,Dollars, 3-Oct-12 ,1.0218
+Australia,Dollars, 4-Oct-12 ,1.0229
+Australia,Dollars, 5-Oct-12 ,1.0218
+Australia,Dollars, 8-Oct-12 ,ND
+Australia,Dollars, 9-Oct-12 ,1.0188
+Australia,Dollars,10-Oct-12 ,1.0242
+Australia,Dollars,11-Oct-12 ,1.0261
+Australia,Dollars,12-Oct-12 ,1.0228
+Australia,Dollars,15-Oct-12 ,1.0245
+Australia,Dollars,16-Oct-12 ,1.0270
+Australia,Dollars,17-Oct-12 ,1.0380
+Australia,Dollars,18-Oct-12 ,1.0397
+Australia,Dollars,19-Oct-12 ,1.0328
+Australia,Dollars,22-Oct-12 ,1.0318
+Australia,Dollars,23-Oct-12 ,1.0249
+Australia,Dollars,24-Oct-12 ,1.0335
+Australia,Dollars,25-Oct-12 ,1.0349
+Australia,Dollars,26-Oct-12 ,1.0358
+Australia,Dollars,29-Oct-12 ,1.0329
+Australia,Dollars,30-Oct-12 ,1.0370
+Australia,Dollars,31-Oct-12 ,1.0370
+Australia,Dollars, 1-Nov-12 ,1.0402
+Australia,Dollars, 2-Nov-12 ,1.0367
+Australia,Dollars, 5-Nov-12 ,1.0370
+Australia,Dollars, 6-Nov-12 ,1.0438
+Australia,Dollars, 7-Nov-12 ,1.0408
+Australia,Dollars, 8-Nov-12 ,1.0429
+Australia,Dollars, 9-Nov-12 ,1.0395
+Australia,Dollars,12-Nov-12 ,ND
+Australia,Dollars,13-Nov-12 ,1.0434
+Australia,Dollars,14-Nov-12 ,1.0397
+Australia,Dollars,15-Nov-12 ,1.0315
+Australia,Dollars,16-Nov-12 ,1.0318
+Australia,Dollars,19-Nov-12 ,1.0406
+Australia,Dollars,20-Nov-12 ,1.0383
+Australia,Dollars,21-Nov-12 ,1.0344
+Australia,Dollars,22-Nov-12 ,ND
+Australia,Dollars,23-Nov-12 ,1.0451
+Australia,Dollars,26-Nov-12 ,1.0450
+Australia,Dollars,27-Nov-12 ,1.0461
+Australia,Dollars,28-Nov-12 ,1.0470
+Australia,Dollars,29-Nov-12 ,1.0423
+Australia,Dollars,30-Nov-12 ,1.0429
+Australia,Dollars, 3-Dec-12 ,1.0433
+Australia,Dollars, 4-Dec-12 ,1.0477
+Australia,Dollars, 5-Dec-12 ,1.0460
+Australia,Dollars, 6-Dec-12 ,1.0491
+Australia,Dollars, 7-Dec-12 ,1.0486
+Australia,Dollars,10-Dec-12 ,1.0492
+Australia,Dollars,11-Dec-12 ,1.0518
+Australia,Dollars,12-Dec-12 ,1.0539
+Australia,Dollars,13-Dec-12 ,1.0529
+Australia,Dollars,14-Dec-12 ,1.0555
+Australia,Dollars,17-Dec-12 ,1.0548
+Australia,Dollars,18-Dec-12 ,1.0527
+Australia,Dollars,19-Dec-12 ,1.0497
+Australia,Dollars,20-Dec-12 ,1.0478
+Australia,Dollars,21-Dec-12 ,1.0420
+Australia,Dollars,24-Dec-12 ,1.0370
+Australia,Dollars,25-Dec-12 ,ND
+Australia,Dollars,26-Dec-12 ,1.0350
+Australia,Dollars,27-Dec-12 ,1.0360
+Australia,Dollars,28-Dec-12 ,1.0384
+Australia,Dollars,31-Dec-12 ,1.0393
+Australia,Dollars, 1-Jan-13 ,ND
+Australia,Dollars, 2-Jan-13 ,1.0492
+Australia,Dollars, 3-Jan-13 ,1.0515
+Australia,Dollars, 4-Jan-13 ,1.0454
+Australia,Dollars, 7-Jan-13 ,1.0479
+Australia,Dollars, 8-Jan-13 ,1.0486
+Australia,Dollars, 9-Jan-13 ,1.0518
+Australia,Dollars,10-Jan-13 ,1.0579
+Australia,Dollars,11-Jan-13 ,1.0538
+Australia,Dollars,14-Jan-13 ,1.0561
+Australia,Dollars,15-Jan-13 ,1.0559
+Australia,Dollars,16-Jan-13 ,1.0563
+Australia,Dollars,17-Jan-13 ,1.0540
+Australia,Dollars,18-Jan-13 ,1.0495
+Australia,Dollars,21-Jan-13 ,ND
+Australia,Dollars,22-Jan-13 ,1.0557
+Australia,Dollars,23-Jan-13 ,1.0555
+Australia,Dollars,24-Jan-13 ,1.0467
+Australia,Dollars,25-Jan-13 ,1.0421
+Australia,Dollars,28-Jan-13 ,1.0401
+Australia,Dollars,29-Jan-13 ,1.0466
+Australia,Dollars,30-Jan-13 ,1.0422
+Australia,Dollars,31-Jan-13 ,1.0433
+Australia,Dollars, 1-Feb-13 ,1.0412
+Australia,Dollars, 4-Feb-13 ,1.0422
+Australia,Dollars, 5-Feb-13 ,1.0389
+Australia,Dollars, 6-Feb-13 ,1.0322
+Australia,Dollars, 7-Feb-13 ,1.0285
+Australia,Dollars, 8-Feb-13 ,1.0319
+Australia,Dollars,11-Feb-13 ,1.0286
+Australia,Dollars,12-Feb-13 ,1.0308
+Australia,Dollars,13-Feb-13 ,1.0345
+Australia,Dollars,14-Feb-13 ,1.0349
+Australia,Dollars,15-Feb-13 ,1.0304
+Australia,Dollars,18-Feb-13 ,ND
+Australia,Dollars,19-Feb-13 ,1.0350
+Australia,Dollars,20-Feb-13 ,1.0286
+Australia,Dollars,21-Feb-13 ,1.0251
+Australia,Dollars,22-Feb-13 ,1.0318
+Australia,Dollars,25-Feb-13 ,1.0284
+Australia,Dollars,26-Feb-13 ,1.0208
+Australia,Dollars,27-Feb-13 ,1.0202
+Australia,Dollars,28-Feb-13 ,1.0241
+Australia,Dollars, 1-Mar-13 ,1.0210
+Australia,Dollars, 4-Mar-13 ,1.0164
+Australia,Dollars, 5-Mar-13 ,1.0237
+Australia,Dollars, 6-Mar-13 ,1.0248
+Australia,Dollars, 7-Mar-13 ,1.0263
+Australia,Dollars, 8-Mar-13 ,1.0227
+Australia,Dollars,11-Mar-13 ,1.0264
+Australia,Dollars,12-Mar-13 ,1.0317
+Australia,Dollars,13-Mar-13 ,1.0294
+Australia,Dollars,14-Mar-13 ,1.0387
+Australia,Dollars,15-Mar-13 ,1.0398
+Australia,Dollars,18-Mar-13 ,1.0393
+Australia,Dollars,19-Mar-13 ,1.0363
+Australia,Dollars,20-Mar-13 ,1.0389
+Australia,Dollars,21-Mar-13 ,1.0439
+Australia,Dollars,22-Mar-13 ,1.0447
+Australia,Dollars,25-Mar-13 ,1.0452
+Australia,Dollars,26-Mar-13 ,1.0484
+Australia,Dollars,27-Mar-13 ,1.0435
+Australia,Dollars,28-Mar-13 ,1.0427
+Australia,Dollars,29-Mar-13 ,1.0409
+Australia,Dollars, 1-Apr-13 ,1.0421
+Australia,Dollars, 2-Apr-13 ,1.0457
+Australia,Dollars, 3-Apr-13 ,1.0481
+Australia,Dollars, 4-Apr-13 ,1.0397
+Australia,Dollars, 5-Apr-13 ,1.0385
+Australia,Dollars, 8-Apr-13 ,1.0389
+Australia,Dollars, 9-Apr-13 ,1.0490
+Australia,Dollars,10-Apr-13 ,1.0539
+Australia,Dollars,11-Apr-13 ,1.0564
+Australia,Dollars,12-Apr-13 ,1.0503
+Australia,Dollars,15-Apr-13 ,1.0393
+Australia,Dollars,16-Apr-13 ,1.0366
+Australia,Dollars,17-Apr-13 ,1.0306
+Australia,Dollars,18-Apr-13 ,1.0301
+Australia,Dollars,19-Apr-13 ,1.0297
+Australia,Dollars,22-Apr-13 ,1.0255
+Australia,Dollars,23-Apr-13 ,1.0262
+Australia,Dollars,24-Apr-13 ,1.0256
+Australia,Dollars,25-Apr-13 ,1.0308
+Australia,Dollars,26-Apr-13 ,1.0275
+Australia,Dollars,29-Apr-13 ,1.0348
+Australia,Dollars,30-Apr-13 ,1.0372
+Australia,Dollars, 1-May-13 ,1.0285
+Australia,Dollars, 2-May-13 ,1.0260
+Australia,Dollars, 3-May-13 ,1.0313
+Australia,Dollars, 6-May-13 ,1.0248
+Australia,Dollars, 7-May-13 ,1.0162
+Australia,Dollars, 8-May-13 ,1.0183
+Australia,Dollars, 9-May-13 ,1.0192
+Australia,Dollars,10-May-13 ,0.9987
+Australia,Dollars,13-May-13 ,0.9965
+Australia,Dollars,14-May-13 ,0.9903
+Australia,Dollars,15-May-13 ,0.9884
+Australia,Dollars,16-May-13 ,0.9846
+Australia,Dollars,17-May-13 ,0.9737
+Australia,Dollars,20-May-13 ,0.9788
+Australia,Dollars,21-May-13 ,0.9800
+Australia,Dollars,22-May-13 ,0.9686
+Australia,Dollars,23-May-13 ,0.9759
+Australia,Dollars,24-May-13 ,0.9675
+Australia,Dollars,27-May-13 ,ND
+Australia,Dollars,28-May-13 ,0.9642
+Australia,Dollars,29-May-13 ,0.9632
+Australia,Dollars,30-May-13 ,0.9662
+Australia,Dollars,31-May-13 ,0.9608
+Australia,Dollars, 3-Jun-13 ,0.9770
+Australia,Dollars, 4-Jun-13 ,0.9640
+Australia,Dollars, 5-Jun-13 ,0.9533
+Australia,Dollars, 6-Jun-13 ,0.9592
+Australia,Dollars, 7-Jun-13 ,0.9494
+Australia,Dollars,10-Jun-13 ,0.9469
+Australia,Dollars,11-Jun-13 ,0.9421
+Australia,Dollars,12-Jun-13 ,0.9513
+Australia,Dollars,13-Jun-13 ,0.9601
+Australia,Dollars,14-Jun-13 ,0.9587
+Australia,Dollars,17-Jun-13 ,0.9541
+Australia,Dollars,18-Jun-13 ,0.9493
+Australia,Dollars,19-Jun-13 ,0.9536
+Australia,Dollars,20-Jun-13 ,0.9188
+Australia,Dollars,21-Jun-13 ,0.9191
+Australia,Dollars,24-Jun-13 ,0.9236
+Australia,Dollars,25-Jun-13 ,0.9248
+Australia,Dollars,26-Jun-13 ,0.9291
+Australia,Dollars,27-Jun-13 ,0.9282
+Australia,Dollars,28-Jun-13 ,0.9165
+Australia,Dollars, 1-Jul-13 ,0.9247
+Australia,Dollars, 2-Jul-13 ,0.9158
+Australia,Dollars, 3-Jul-13 ,0.9087
+Australia,Dollars, 4-Jul-13 ,ND
+Australia,Dollars, 5-Jul-13 ,0.9070
+Australia,Dollars, 8-Jul-13 ,0.9114
+Australia,Dollars, 9-Jul-13 ,0.9161
+Australia,Dollars,10-Jul-13 ,0.9145
+Australia,Dollars,11-Jul-13 ,0.9149
+Australia,Dollars,12-Jul-13 ,0.9049
+Australia,Dollars,15-Jul-13 ,0.9086
+Australia,Dollars,16-Jul-13 ,0.9226
+Australia,Dollars,17-Jul-13 ,0.9209
+Australia,Dollars,18-Jul-13 ,0.9152
+Australia,Dollars,19-Jul-13 ,0.9200
+Australia,Dollars,22-Jul-13 ,0.9252
+Australia,Dollars,23-Jul-13 ,0.9259
+Australia,Dollars,24-Jul-13 ,0.9186
+Australia,Dollars,25-Jul-13 ,0.9192
+Australia,Dollars,26-Jul-13 ,0.9242
+Australia,Dollars,29-Jul-13 ,0.9210
+Australia,Dollars,30-Jul-13 ,0.9060
+Australia,Dollars,31-Jul-13 ,0.8957
+Australia,Dollars, 1-Aug-13 ,0.8919
+Australia,Dollars, 2-Aug-13 ,0.8901
+Australia,Dollars, 5-Aug-13 ,0.8914
+Australia,Dollars, 6-Aug-13 ,0.8972
+Australia,Dollars, 7-Aug-13 ,0.9014
+Australia,Dollars, 8-Aug-13 ,0.9111
+Australia,Dollars, 9-Aug-13 ,0.9187
+Australia,Dollars,12-Aug-13 ,0.9177
+Australia,Dollars,13-Aug-13 ,0.9093
+Australia,Dollars,14-Aug-13 ,0.9140
+Australia,Dollars,15-Aug-13 ,0.9105
+Australia,Dollars,16-Aug-13 ,0.9193
+Australia,Dollars,19-Aug-13 ,0.9132
+Australia,Dollars,20-Aug-13 ,0.9094
+Australia,Dollars,21-Aug-13 ,0.9013
+Australia,Dollars,22-Aug-13 ,0.9026
+Australia,Dollars,23-Aug-13 ,0.9038
+Australia,Dollars,26-Aug-13 ,0.9039
+Australia,Dollars,27-Aug-13 ,0.8964
+Australia,Dollars,28-Aug-13 ,0.8949
+Australia,Dollars,29-Aug-13 ,0.8924
+Australia,Dollars,30-Aug-13 ,0.8901
+Australia,Dollars, 2-Sep-13 ,ND
+Australia,Dollars, 3-Sep-13 ,0.9055
+Australia,Dollars, 4-Sep-13 ,0.9187
+Australia,Dollars, 5-Sep-13 ,0.9132
+Australia,Dollars, 6-Sep-13 ,0.9205
+Australia,Dollars, 9-Sep-13 ,0.9233
+Australia,Dollars,10-Sep-13 ,0.9289
+Australia,Dollars,11-Sep-13 ,0.9312
+Australia,Dollars,12-Sep-13 ,0.9271
+Australia,Dollars,13-Sep-13 ,0.9243
+Australia,Dollars,16-Sep-13 ,0.9331
+Australia,Dollars,17-Sep-13 ,0.9364
+Australia,Dollars,18-Sep-13 ,0.9344
+Australia,Dollars,19-Sep-13 ,0.9444
+Australia,Dollars,20-Sep-13 ,0.9397
+Australia,Dollars,23-Sep-13 ,0.9444
+Australia,Dollars,24-Sep-13 ,0.9404
+Australia,Dollars,25-Sep-13 ,0.9386
+Australia,Dollars,26-Sep-13 ,0.9354
+Australia,Dollars,27-Sep-13 ,0.9324
+Australia,Dollars,30-Sep-13 ,0.9342
+Australia,Dollars, 1-Oct-13 ,0.9387
+Australia,Dollars, 2-Oct-13 ,0.9366
+Australia,Dollars, 3-Oct-13 ,0.9382
+Australia,Dollars, 4-Oct-13 ,0.9443
+Australia,Dollars, 7-Oct-13 ,0.9436
+Australia,Dollars, 8-Oct-13 ,0.9449
+Australia,Dollars, 9-Oct-13 ,0.9434
+Australia,Dollars,10-Oct-13 ,0.9466
+Australia,Dollars,11-Oct-13 ,0.9473
+Australia,Dollars,14-Oct-13 ,ND
+Australia,Dollars,15-Oct-13 ,0.9523
+Australia,Dollars,16-Oct-13 ,0.9529
+Australia,Dollars,17-Oct-13 ,0.9642
+Australia,Dollars,18-Oct-13 ,0.9671
+Australia,Dollars,21-Oct-13 ,0.9662
+Australia,Dollars,22-Oct-13 ,0.9705
+Australia,Dollars,23-Oct-13 ,0.9632
+Australia,Dollars,24-Oct-13 ,0.9601
+Australia,Dollars,25-Oct-13 ,0.9578
+Australia,Dollars,28-Oct-13 ,0.9569
+Australia,Dollars,29-Oct-13 ,0.9498
+Australia,Dollars,30-Oct-13 ,0.9491
+Australia,Dollars,31-Oct-13 ,0.9471
+Australia,Dollars, 1-Nov-13 ,0.9438
+Australia,Dollars, 4-Nov-13 ,0.9510
+Australia,Dollars, 5-Nov-13 ,0.9487
+Australia,Dollars, 6-Nov-13 ,0.9518
+Australia,Dollars, 7-Nov-13 ,0.9469
+Australia,Dollars, 8-Nov-13 ,0.9381
+Australia,Dollars,11-Nov-13 ,ND
+Australia,Dollars,12-Nov-13 ,0.9290
+Australia,Dollars,13-Nov-13 ,0.9324
+Australia,Dollars,14-Nov-13 ,0.9321
+Australia,Dollars,15-Nov-13 ,0.9365
+Australia,Dollars,18-Nov-13 ,0.9400
+Australia,Dollars,19-Nov-13 ,0.9412
+Australia,Dollars,20-Nov-13 ,0.9369
+Australia,Dollars,21-Nov-13 ,0.9249
+Australia,Dollars,22-Nov-13 ,0.9163
+Australia,Dollars,25-Nov-13 ,0.9148
+Australia,Dollars,26-Nov-13 ,0.9120
+Australia,Dollars,27-Nov-13 ,0.9072
+Australia,Dollars,28-Nov-13 ,ND
+Australia,Dollars,29-Nov-13 ,0.9125
+Australia,Dollars, 2-Dec-13 ,0.9098
+Australia,Dollars, 3-Dec-13 ,0.9123
+Australia,Dollars, 4-Dec-13 ,0.9009
+Australia,Dollars, 5-Dec-13 ,0.9069
+Australia,Dollars, 6-Dec-13 ,0.9091
+Australia,Dollars, 9-Dec-13 ,0.9084
+Australia,Dollars,10-Dec-13 ,0.9150
+Australia,Dollars,11-Dec-13 ,0.9066
+Australia,Dollars,12-Dec-13 ,0.8925
+Australia,Dollars,13-Dec-13 ,0.8961
+Australia,Dollars,16-Dec-13 ,0.8969
+Australia,Dollars,17-Dec-13 ,0.8903
+Australia,Dollars,18-Dec-13 ,0.8884
+Australia,Dollars,19-Dec-13 ,0.8858
+Australia,Dollars,20-Dec-13 ,0.8918
+Australia,Dollars,23-Dec-13 ,0.8940
+Australia,Dollars,24-Dec-13 ,0.8920
+Australia,Dollars,25-Dec-13 ,ND
+Australia,Dollars,26-Dec-13 ,0.8885
+Australia,Dollars,27-Dec-13 ,0.8886
+Australia,Dollars,30-Dec-13 ,0.8922
+Australia,Dollars,31-Dec-13 ,0.8929
+Australia,Dollars, 1-Jan-14 ,ND
+Australia,Dollars, 2-Jan-14 ,0.8924
+Australia,Dollars, 3-Jan-14 ,0.8976
+Australia,Dollars, 6-Jan-14 ,0.8961
+Australia,Dollars, 7-Jan-14 ,0.8923
+Australia,Dollars, 8-Jan-14 ,0.8909
+Australia,Dollars, 9-Jan-14 ,0.8886
+Australia,Dollars,10-Jan-14 ,0.8985
+Australia,Dollars,13-Jan-14 ,0.9053
+Australia,Dollars,14-Jan-14 ,0.8980
+Australia,Dollars,15-Jan-14 ,0.8925
+Australia,Dollars,16-Jan-14 ,0.8802
+Australia,Dollars,17-Jan-14 ,0.8778
+Australia,Dollars,20-Jan-14 ,ND
+Australia,Dollars,21-Jan-14 ,0.8801
+Australia,Dollars,22-Jan-14 ,0.8839
+Australia,Dollars,23-Jan-14 ,0.8774
+Australia,Dollars,24-Jan-14 ,0.8715
+Australia,Dollars,27-Jan-14 ,0.8735
+Australia,Dollars,28-Jan-14 ,0.8770
+Australia,Dollars,29-Jan-14 ,0.8763
+Australia,Dollars,30-Jan-14 ,0.8771
+Australia,Dollars,31-Jan-14 ,0.8743
+Australia,Dollars, 3-Feb-14 ,0.8777
+Australia,Dollars, 4-Feb-14 ,0.8935
+Australia,Dollars, 5-Feb-14 ,0.8911
+Australia,Dollars, 6-Feb-14 ,0.8967
+Australia,Dollars, 7-Feb-14 ,0.8959
+Australia,Dollars,10-Feb-14 ,0.8944
+Australia,Dollars,11-Feb-14 ,0.9045
+Australia,Dollars,12-Feb-14 ,0.9028
+Australia,Dollars,13-Feb-14 ,0.8979
+Australia,Dollars,14-Feb-14 ,0.9023
+Australia,Dollars,17-Feb-14 ,ND
+Australia,Dollars,18-Feb-14 ,0.9039
+Australia,Dollars,19-Feb-14 ,0.9027
+Australia,Dollars,20-Feb-14 ,0.8981
+Australia,Dollars,21-Feb-14 ,0.8961
+Australia,Dollars,24-Feb-14 ,0.9042
+Australia,Dollars,25-Feb-14 ,0.9025
+Australia,Dollars,26-Feb-14 ,0.8962
+Australia,Dollars,27-Feb-14 ,0.8960
+Australia,Dollars,28-Feb-14 ,0.8933
+Australia,Dollars, 3-Mar-14 ,0.8929
+Australia,Dollars, 4-Mar-14 ,0.8940
+Australia,Dollars, 5-Mar-14 ,0.8984
+Australia,Dollars, 6-Mar-14 ,0.9100
+Australia,Dollars, 7-Mar-14 ,0.9071
+Australia,Dollars,10-Mar-14 ,0.9021
+Australia,Dollars,11-Mar-14 ,0.9020
+Australia,Dollars,12-Mar-14 ,0.8972
+Australia,Dollars,13-Mar-14 ,0.9058
+Australia,Dollars,14-Mar-14 ,0.9040
+Australia,Dollars,17-Mar-14 ,0.9092
+Australia,Dollars,18-Mar-14 ,0.9134
+Australia,Dollars,19-Mar-14 ,0.9103
+Australia,Dollars,20-Mar-14 ,0.9042
+Australia,Dollars,21-Mar-14 ,0.9090
+Australia,Dollars,24-Mar-14 ,0.9126
+Australia,Dollars,25-Mar-14 ,0.9147
+Australia,Dollars,26-Mar-14 ,0.9225
+Australia,Dollars,27-Mar-14 ,0.9262
+Australia,Dollars,28-Mar-14 ,0.9239
+Australia,Dollars,31-Mar-14 ,0.9275
+Australia,Dollars, 1-Apr-14 ,0.9252
+Australia,Dollars, 2-Apr-14 ,0.9236
+Australia,Dollars, 3-Apr-14 ,0.9219
+Australia,Dollars, 4-Apr-14 ,0.9292
+Australia,Dollars, 7-Apr-14 ,0.9265
+Australia,Dollars, 8-Apr-14 ,0.9356
+Australia,Dollars, 9-Apr-14 ,0.9368
+Australia,Dollars,10-Apr-14 ,0.9424
+Australia,Dollars,11-Apr-14 ,0.9401
+Australia,Dollars,14-Apr-14 ,0.9409
+Australia,Dollars,15-Apr-14 ,0.9342
+Australia,Dollars,16-Apr-14 ,0.9380
+Australia,Dollars,17-Apr-14 ,0.9339
+Australia,Dollars,18-Apr-14 ,0.9330
+Australia,Dollars,21-Apr-14 ,0.9337
+Australia,Dollars,22-Apr-14 ,0.9365
+Australia,Dollars,23-Apr-14 ,0.9283
+Australia,Dollars,24-Apr-14 ,0.9257
+Australia,Dollars,25-Apr-14 ,0.9272
+Australia,Dollars,28-Apr-14 ,0.9254
+Australia,Dollars,29-Apr-14 ,0.9266
+Australia,Dollars,30-Apr-14 ,0.9282
+Australia,Dollars, 1-May-14 ,0.9275
+Australia,Dollars, 2-May-14 ,0.9257
+Australia,Dollars, 5-May-14 ,0.9276
+Australia,Dollars, 6-May-14 ,0.9360
+Australia,Dollars, 7-May-14 ,0.9336
+Australia,Dollars, 8-May-14 ,0.9382
+Australia,Dollars, 9-May-14 ,0.9358
+Australia,Dollars,12-May-14 ,0.9364
+Australia,Dollars,13-May-14 ,0.9369
+Australia,Dollars,14-May-14 ,0.9379
+Australia,Dollars,15-May-14 ,0.9346
+Australia,Dollars,16-May-14 ,0.9367
+Australia,Dollars,19-May-14 ,0.9343
+Australia,Dollars,20-May-14 ,0.9259
+Australia,Dollars,21-May-14 ,0.9215
+Australia,Dollars,22-May-14 ,0.9222
+Australia,Dollars,23-May-14 ,0.9235
+Australia,Dollars,26-May-14 ,ND
+Australia,Dollars,27-May-14 ,0.9240
+Australia,Dollars,28-May-14 ,0.9227
+Australia,Dollars,29-May-14 ,0.9289
+Australia,Dollars,30-May-14 ,0.9298
+Australia,Dollars, 2-Jun-14 ,0.9250
+Australia,Dollars, 3-Jun-14 ,0.9255
+Australia,Dollars, 4-Jun-14 ,0.9269
+Australia,Dollars, 5-Jun-14 ,0.9321
+Australia,Dollars, 6-Jun-14 ,0.9328
+Australia,Dollars, 9-Jun-14 ,0.9347
+Australia,Dollars,10-Jun-14 ,0.9365
+Australia,Dollars,11-Jun-14 ,0.9391
+Australia,Dollars,12-Jun-14 ,0.9430
+Australia,Dollars,13-Jun-14 ,0.9396
+Australia,Dollars,16-Jun-14 ,0.9400
+Australia,Dollars,17-Jun-14 ,0.9340
+Australia,Dollars,18-Jun-14 ,0.9340
+Australia,Dollars,19-Jun-14 ,0.9406
+Australia,Dollars,20-Jun-14 ,0.9387
+Australia,Dollars,23-Jun-14 ,0.9417
+Australia,Dollars,24-Jun-14 ,0.9380
+Australia,Dollars,25-Jun-14 ,0.9398
+Australia,Dollars,26-Jun-14 ,0.9405
+Australia,Dollars,27-Jun-14 ,0.9413
+Australia,Dollars,30-Jun-14 ,0.9427
+Australia,Dollars, 1-Jul-14 ,0.9488
+Australia,Dollars, 2-Jul-14 ,0.9444
+Australia,Dollars, 3-Jul-14 ,0.9358
+Australia,Dollars, 4-Jul-14 ,ND
+Australia,Dollars, 7-Jul-14 ,0.9371
+Australia,Dollars, 8-Jul-14 ,0.9400
+Australia,Dollars, 9-Jul-14 ,0.9396
+Australia,Dollars,10-Jul-14 ,0.9387
+Australia,Dollars,11-Jul-14 ,0.9383
+Australia,Dollars,14-Jul-14 ,0.9392
+Australia,Dollars,15-Jul-14 ,0.9366
+Australia,Dollars,16-Jul-14 ,0.9362
+Australia,Dollars,17-Jul-14 ,0.9372
+Australia,Dollars,18-Jul-14 ,0.9386
+Australia,Dollars,21-Jul-14 ,0.9377
+Australia,Dollars,22-Jul-14 ,0.9388
+Australia,Dollars,23-Jul-14 ,0.9450
+Australia,Dollars,24-Jul-14 ,0.9419
+Australia,Dollars,25-Jul-14 ,0.9404
+Australia,Dollars,28-Jul-14 ,0.9410
+Australia,Dollars,29-Jul-14 ,0.9378
+Australia,Dollars,30-Jul-14 ,0.9315
+Australia,Dollars,31-Jul-14 ,0.9301
+Australia,Dollars, 1-Aug-14 ,0.9304
+Australia,Dollars, 4-Aug-14 ,0.9328
+Australia,Dollars, 5-Aug-14 ,0.9301
+Australia,Dollars, 6-Aug-14 ,0.9327
+Australia,Dollars, 7-Aug-14 ,0.9283
+Australia,Dollars, 8-Aug-14 ,0.9277
+Australia,Dollars,11-Aug-14 ,0.9263
+Australia,Dollars,12-Aug-14 ,0.9270
+Australia,Dollars,13-Aug-14 ,0.9302
+Australia,Dollars,14-Aug-14 ,0.9322
+Australia,Dollars,15-Aug-14 ,0.9306
+Australia,Dollars,18-Aug-14 ,0.9330
+Australia,Dollars,19-Aug-14 ,0.9311
+Australia,Dollars,20-Aug-14 ,0.9306
+Australia,Dollars,21-Aug-14 ,0.9302
+Australia,Dollars,22-Aug-14 ,0.9309
+Australia,Dollars,25-Aug-14 ,0.9296
+Australia,Dollars,26-Aug-14 ,0.9320
+Australia,Dollars,27-Aug-14 ,0.9335
+Australia,Dollars,28-Aug-14 ,0.9352
+Australia,Dollars,29-Aug-14 ,0.9344
+Australia,Dollars, 1-Sep-14 ,ND
+Australia,Dollars, 2-Sep-14 ,0.9276
+Australia,Dollars, 3-Sep-14 ,0.9341
+Australia,Dollars, 4-Sep-14 ,0.9361
+Australia,Dollars, 5-Sep-14 ,0.9376
+Australia,Dollars, 8-Sep-14 ,0.9300
+Australia,Dollars, 9-Sep-14 ,0.9207
+Australia,Dollars,10-Sep-14 ,0.9153
+Australia,Dollars,11-Sep-14 ,0.9115
+Australia,Dollars,12-Sep-14 ,0.9047
+Australia,Dollars,15-Sep-14 ,0.9027
+Australia,Dollars,16-Sep-14 ,0.9096
+Australia,Dollars,17-Sep-14 ,0.9028
+Australia,Dollars,18-Sep-14 ,0.8984
+Australia,Dollars,19-Sep-14 ,0.8935
+Australia,Dollars,22-Sep-14 ,0.8876
+Australia,Dollars,23-Sep-14 ,0.8853
+Australia,Dollars,24-Sep-14 ,0.8870
+Australia,Dollars,25-Sep-14 ,0.8796
+Australia,Dollars,26-Sep-14 ,0.8761
+Australia,Dollars,29-Sep-14 ,0.8738
+Australia,Dollars,30-Sep-14 ,0.8737
+Australia,Dollars, 1-Oct-14 ,0.8734
+Australia,Dollars, 2-Oct-14 ,0.8793
+Australia,Dollars, 3-Oct-14 ,0.8675
+Australia,Dollars, 6-Oct-14 ,0.8747
+Australia,Dollars, 7-Oct-14 ,0.8808
+Australia,Dollars, 8-Oct-14 ,0.8751
+Australia,Dollars, 9-Oct-14 ,0.8778
+Australia,Dollars,10-Oct-14 ,0.8719
+Australia,Dollars,13-Oct-14 ,ND
+Australia,Dollars,14-Oct-14 ,0.8727
+Australia,Dollars,15-Oct-14 ,0.8794
+Australia,Dollars,16-Oct-14 ,0.8766
+Australia,Dollars,17-Oct-14 ,0.8761
+Australia,Dollars,20-Oct-14 ,0.8786
+Australia,Dollars,21-Oct-14 ,0.8797
+Australia,Dollars,22-Oct-14 ,0.8793
+Australia,Dollars,23-Oct-14 ,0.8773
+Australia,Dollars,24-Oct-14 ,0.8812
+Australia,Dollars,27-Oct-14 ,0.8799
+Australia,Dollars,28-Oct-14 ,0.8848
+Australia,Dollars,29-Oct-14 ,0.8904
+Australia,Dollars,30-Oct-14 ,0.8825
+Australia,Dollars,31-Oct-14 ,0.8791
+Australia,Dollars, 3-Nov-14 ,0.8701
+Australia,Dollars, 4-Nov-14 ,0.8729
+Australia,Dollars, 5-Nov-14 ,0.8592
+Australia,Dollars, 6-Nov-14 ,0.8580
+Australia,Dollars, 7-Nov-14 ,0.8620
+Australia,Dollars,10-Nov-14 ,0.8625
+Australia,Dollars,11-Nov-14 ,ND
+Australia,Dollars,12-Nov-14 ,0.8735
+Australia,Dollars,13-Nov-14 ,0.8730
+Australia,Dollars,14-Nov-14 ,0.8737
+Australia,Dollars,17-Nov-14 ,0.8718
+Australia,Dollars,18-Nov-14 ,0.8726
+Australia,Dollars,19-Nov-14 ,0.8623
+Australia,Dollars,20-Nov-14 ,0.8610
+Australia,Dollars,21-Nov-14 ,0.8674
+Australia,Dollars,24-Nov-14 ,0.8615
+Australia,Dollars,25-Nov-14 ,0.8520
+Australia,Dollars,26-Nov-14 ,0.8534
+Australia,Dollars,27-Nov-14 ,ND
+Australia,Dollars,28-Nov-14 ,0.8524
+Australia,Dollars, 1-Dec-14 ,0.8521
+Australia,Dollars, 2-Dec-14 ,0.8457
+Australia,Dollars, 3-Dec-14 ,0.8417
+Australia,Dollars, 4-Dec-14 ,0.8405
+Australia,Dollars, 5-Dec-14 ,0.8330
+Australia,Dollars, 8-Dec-14 ,0.8296
+Australia,Dollars, 9-Dec-14 ,0.8341
+Australia,Dollars,10-Dec-14 ,0.8305
+Australia,Dollars,11-Dec-14 ,0.8265
+Australia,Dollars,12-Dec-14 ,0.8268
+Australia,Dollars,15-Dec-14 ,0.8232
+Australia,Dollars,16-Dec-14 ,0.8220
+Australia,Dollars,17-Dec-14 ,0.8173
+Australia,Dollars,18-Dec-14 ,0.8168
+Australia,Dollars,19-Dec-14 ,0.8128
+Australia,Dollars,22-Dec-14 ,0.8141
+Australia,Dollars,23-Dec-14 ,0.8097
+Australia,Dollars,24-Dec-14 ,0.8109
+Australia,Dollars,25-Dec-14 ,ND
+Australia,Dollars,26-Dec-14 ,ND
+Australia,Dollars,29-Dec-14 ,0.8146
+Australia,Dollars,30-Dec-14 ,0.8199
+Australia,Dollars,31-Dec-14 ,0.8173
+Australia,Dollars, 1-Jan-15 ,ND
+Australia,Dollars, 2-Jan-15 ,0.8118
+Australia,Dollars, 5-Jan-15 ,0.8095
+Australia,Dollars, 6-Jan-15 ,0.8118
+Australia,Dollars, 7-Jan-15 ,0.8049
+Australia,Dollars, 8-Jan-15 ,0.8126
+Australia,Dollars, 9-Jan-15 ,0.8191
+Australia,Dollars,12-Jan-15 ,0.8165
+Australia,Dollars,13-Jan-15 ,0.8164
+Australia,Dollars,14-Jan-15 ,0.8163
+Australia,Dollars,15-Jan-15 ,0.8212
+Australia,Dollars,16-Jan-15 ,0.8194
+Australia,Dollars,19-Jan-15 ,ND
+Australia,Dollars,20-Jan-15 ,0.8177
+Australia,Dollars,21-Jan-15 ,0.8101
+Australia,Dollars,22-Jan-15 ,0.8099
+Australia,Dollars,23-Jan-15 ,0.7935
+Australia,Dollars,26-Jan-15 ,0.7934
+Australia,Dollars,27-Jan-15 ,0.7939
+Australia,Dollars,28-Jan-15 ,0.7973
+Australia,Dollars,29-Jan-15 ,0.7758
+Australia,Dollars,30-Jan-15 ,0.7762
+Australia,Dollars, 2-Feb-15 ,0.7818
+Australia,Dollars, 3-Feb-15 ,0.7737
+Australia,Dollars, 4-Feb-15 ,0.7761
+Australia,Dollars, 5-Feb-15 ,0.7803
+Australia,Dollars, 6-Feb-15 ,0.7807
+Australia,Dollars, 9-Feb-15 ,0.7813
+Australia,Dollars,10-Feb-15 ,0.7781
+Australia,Dollars,11-Feb-15 ,0.7713
+Australia,Dollars,12-Feb-15 ,0.7763
+Australia,Dollars,13-Feb-15 ,0.7772
+Australia,Dollars,16-Feb-15 ,ND
+Australia,Dollars,17-Feb-15 ,0.7816
+Australia,Dollars,18-Feb-15 ,0.7778
+Australia,Dollars,19-Feb-15 ,0.7810
+Australia,Dollars,20-Feb-15 ,0.7833
+Australia,Dollars,23-Feb-15 ,0.7807
+Australia,Dollars,24-Feb-15 ,0.7808
+Australia,Dollars,25-Feb-15 ,0.7898
+Australia,Dollars,26-Feb-15 ,0.7816
+Australia,Dollars,27-Feb-15 ,0.7810
+Australia,Dollars, 2-Mar-15 ,0.7780
+Australia,Dollars, 3-Mar-15 ,0.7840
+Australia,Dollars, 4-Mar-15 ,0.7821
+Australia,Dollars, 5-Mar-15 ,0.7763
+Australia,Dollars, 6-Mar-15 ,0.7712
+Australia,Dollars, 9-Mar-15 ,0.7716
+Australia,Dollars,10-Mar-15 ,0.7637
+Australia,Dollars,11-Mar-15 ,0.7582
+Australia,Dollars,12-Mar-15 ,0.7705
+Australia,Dollars,13-Mar-15 ,0.7631
+Australia,Dollars,16-Mar-15 ,0.7656
+Australia,Dollars,17-Mar-15 ,0.7615
+Australia,Dollars,18-Mar-15 ,0.7653
+Australia,Dollars,19-Mar-15 ,0.7618
+Australia,Dollars,20-Mar-15 ,0.7759
+Australia,Dollars,23-Mar-15 ,0.7848
+Australia,Dollars,24-Mar-15 ,0.7869
+Australia,Dollars,25-Mar-15 ,0.7856
+Australia,Dollars,26-Mar-15 ,0.7836
+Australia,Dollars,27-Mar-15 ,0.7754
+Australia,Dollars,30-Mar-15 ,0.7645
+Australia,Dollars,31-Mar-15 ,0.7625
+Australia,Dollars, 1-Apr-15 ,0.7615
+Australia,Dollars, 2-Apr-15 ,0.7566
+Australia,Dollars, 3-Apr-15 ,0.7645
+Australia,Dollars, 6-Apr-15 ,0.7657
+Australia,Dollars, 7-Apr-15 ,0.7646
+Australia,Dollars, 8-Apr-15 ,0.7715
+Australia,Dollars, 9-Apr-15 ,0.7706
+Australia,Dollars,10-Apr-15 ,0.7674
+Australia,Dollars,13-Apr-15 ,0.7579
+Australia,Dollars,14-Apr-15 ,0.7638
+Australia,Dollars,15-Apr-15 ,0.7610
+Australia,Dollars,16-Apr-15 ,0.7796
+Australia,Dollars,17-Apr-15 ,0.7776
+Australia,Dollars,20-Apr-15 ,0.7727
+Australia,Dollars,21-Apr-15 ,0.7741
+Australia,Dollars,22-Apr-15 ,0.7771
+Australia,Dollars,23-Apr-15 ,0.7782
+Australia,Dollars,24-Apr-15 ,0.7825
+Australia,Dollars,27-Apr-15 ,0.7859
+Australia,Dollars,28-Apr-15 ,0.8017
+Australia,Dollars,29-Apr-15 ,0.8065
+Australia,Dollars,30-Apr-15 ,0.7867
+Australia,Dollars, 1-May-15 ,0.7813
+Australia,Dollars, 4-May-15 ,0.7839
+Australia,Dollars, 5-May-15 ,0.7941
+Australia,Dollars, 6-May-15 ,0.8005
+Australia,Dollars, 7-May-15 ,0.7914
+Australia,Dollars, 8-May-15 ,0.7914
+Australia,Dollars,11-May-15 ,0.7899
+Australia,Dollars,12-May-15 ,0.7989
+Australia,Dollars,13-May-15 ,0.8118
+Australia,Dollars,14-May-15 ,0.8082
+Australia,Dollars,15-May-15 ,0.8053
+Australia,Dollars,18-May-15 ,0.8001
+Australia,Dollars,19-May-15 ,0.7918
+Australia,Dollars,20-May-15 ,0.7877
+Australia,Dollars,21-May-15 ,0.7888
+Australia,Dollars,22-May-15 ,0.7828
+Australia,Dollars,25-May-15 ,ND
+Australia,Dollars,26-May-15 ,0.7738
+Australia,Dollars,27-May-15 ,0.7712
+Australia,Dollars,28-May-15 ,0.7631
+Australia,Dollars,29-May-15 ,0.7659
+Australia,Dollars, 1-Jun-15 ,0.7613
+Australia,Dollars, 2-Jun-15 ,0.7748
+Australia,Dollars, 3-Jun-15 ,0.7803
+Australia,Dollars, 4-Jun-15 ,0.7673
+Australia,Dollars, 5-Jun-15 ,0.7622
+Australia,Dollars, 8-Jun-15 ,0.7650
+Australia,Dollars, 9-Jun-15 ,0.7685
+Australia,Dollars,10-Jun-15 ,0.7749
+Australia,Dollars,11-Jun-15 ,0.7726
+Australia,Dollars,12-Jun-15 ,0.7742
+Australia,Dollars,15-Jun-15 ,0.7767
+Australia,Dollars,16-Jun-15 ,0.7753
+Australia,Dollars,17-Jun-15 ,0.7667
+Australia,Dollars,18-Jun-15 ,0.7831
+Australia,Dollars,19-Jun-15 ,0.7758
+Australia,Dollars,22-Jun-15 ,0.7745
+Australia,Dollars,23-Jun-15 ,0.7739
+Australia,Dollars,24-Jun-15 ,0.7689
+Australia,Dollars,25-Jun-15 ,0.7741
+Australia,Dollars,26-Jun-15 ,0.7650
+Australia,Dollars,29-Jun-15 ,0.7677
+Australia,Dollars,30-Jun-15 ,0.7704
+Australia,Dollars, 1-Jul-15 ,0.7664
+Australia,Dollars, 2-Jul-15 ,0.7630
+Australia,Dollars, 3-Jul-15 ,ND
+Australia,Dollars, 6-Jul-15 ,0.7521
+Australia,Dollars, 7-Jul-15 ,0.7435
+Australia,Dollars, 8-Jul-15 ,0.7445
+Australia,Dollars, 9-Jul-15 ,0.7438
+Australia,Dollars,10-Jul-15 ,0.7427
+Australia,Dollars,13-Jul-15 ,0.7407
+Australia,Dollars,14-Jul-15 ,0.7450
+Australia,Dollars,15-Jul-15 ,0.7366
+Australia,Dollars,16-Jul-15 ,0.7430
+Australia,Dollars,17-Jul-15 ,0.7371
+Australia,Dollars,20-Jul-15 ,0.7380
+Australia,Dollars,21-Jul-15 ,0.7429
+Australia,Dollars,22-Jul-15 ,0.7368
+Australia,Dollars,23-Jul-15 ,0.7375
+Australia,Dollars,24-Jul-15 ,0.7279
+Australia,Dollars,27-Jul-15 ,0.7304
+Australia,Dollars,28-Jul-15 ,0.7325
+Australia,Dollars,29-Jul-15 ,0.7307
+Australia,Dollars,30-Jul-15 ,0.7278
+Australia,Dollars,31-Jul-15 ,0.7332
+Australia,Dollars, 3-Aug-15 ,0.7277
+Australia,Dollars, 4-Aug-15 ,0.7419
+Australia,Dollars, 5-Aug-15 ,0.7346
+Australia,Dollars, 6-Aug-15 ,0.7343
+Australia,Dollars, 7-Aug-15 ,0.7393
+Australia,Dollars,10-Aug-15 ,0.7404
+Australia,Dollars,11-Aug-15 ,0.7288
+Australia,Dollars,12-Aug-15 ,0.7375
+Australia,Dollars,13-Aug-15 ,0.7361
+Australia,Dollars,14-Aug-15 ,0.7376
+Australia,Dollars,17-Aug-15 ,0.7386
+Australia,Dollars,18-Aug-15 ,0.7334
+Australia,Dollars,19-Aug-15 ,0.7316
+Australia,Dollars,20-Aug-15 ,0.7357
+Australia,Dollars,21-Aug-15 ,0.7343
+Australia,Dollars,24-Aug-15 ,0.7202
+Australia,Dollars,25-Aug-15 ,0.7183
+Australia,Dollars,26-Aug-15 ,0.7087
+Australia,Dollars,27-Aug-15 ,0.7179
+Australia,Dollars,28-Aug-15 ,0.7129
+Australia,Dollars,31-Aug-15 ,0.7100
+Australia,Dollars, 1-Sep-15 ,0.7036
+Australia,Dollars, 2-Sep-15 ,0.7011
+Australia,Dollars, 3-Sep-15 ,0.7025
+Australia,Dollars, 4-Sep-15 ,0.6917
+Australia,Dollars, 7-Sep-15 ,ND
+Australia,Dollars, 8-Sep-15 ,0.7023
+Australia,Dollars, 9-Sep-15 ,0.7024
+Australia,Dollars,10-Sep-15 ,0.7086
+Australia,Dollars,11-Sep-15 ,0.7074
+Australia,Dollars,14-Sep-15 ,0.7137
+Australia,Dollars,15-Sep-15 ,0.7092
+Australia,Dollars,16-Sep-15 ,0.7186
+Australia,Dollars,17-Sep-15 ,0.7147
+Australia,Dollars,18-Sep-15 ,0.7222
+Australia,Dollars,21-Sep-15 ,0.7125
+Australia,Dollars,22-Sep-15 ,0.7078
+Australia,Dollars,23-Sep-15 ,0.7004
+Australia,Dollars,24-Sep-15 ,0.6998
+Australia,Dollars,25-Sep-15 ,0.7014
+Australia,Dollars,28-Sep-15 ,0.7005
+Australia,Dollars,29-Sep-15 ,0.7007
+Australia,Dollars,30-Sep-15 ,0.7020
+Australia,Dollars, 1-Oct-15 ,0.7044
+Australia,Dollars, 2-Oct-15 ,0.7025
+Australia,Dollars, 5-Oct-15 ,0.7088
+Australia,Dollars, 6-Oct-15 ,0.7143
+Australia,Dollars, 7-Oct-15 ,0.7213
+Australia,Dollars, 8-Oct-15 ,0.7225
+Australia,Dollars, 9-Oct-15 ,0.7328
+Australia,Dollars,12-Oct-15 ,ND
+Australia,Dollars,13-Oct-15 ,0.7283
+Australia,Dollars,14-Oct-15 ,0.7256
+Australia,Dollars,15-Oct-15 ,0.7316
+Australia,Dollars,16-Oct-15 ,0.7261
+Australia,Dollars,19-Oct-15 ,0.7254
+Australia,Dollars,20-Oct-15 ,0.7256
+Australia,Dollars,21-Oct-15 ,0.7226
+Australia,Dollars,22-Oct-15 ,0.7220
+Australia,Dollars,23-Oct-15 ,0.7215
+Australia,Dollars,26-Oct-15 ,0.7262
+Australia,Dollars,27-Oct-15 ,0.7233
+Australia,Dollars,28-Oct-15 ,0.7143
+Australia,Dollars,29-Oct-15 ,0.7081
+Australia,Dollars,30-Oct-15 ,0.7133
+Australia,Dollars, 2-Nov-15 ,0.7141
+Australia,Dollars, 3-Nov-15 ,0.7173
+Australia,Dollars, 4-Nov-15 ,0.7148
+Australia,Dollars, 5-Nov-15 ,0.7148
+Australia,Dollars, 6-Nov-15 ,0.7034
+Australia,Dollars, 9-Nov-15 ,0.7046
+Australia,Dollars,10-Nov-15 ,0.7030
+Australia,Dollars,11-Nov-15 ,ND
+Australia,Dollars,12-Nov-15 ,0.7116
+Australia,Dollars,13-Nov-15 ,0.7118
+Australia,Dollars,16-Nov-15 ,0.7085
+Australia,Dollars,17-Nov-15 ,0.7115
+Australia,Dollars,18-Nov-15 ,0.7078
+Australia,Dollars,19-Nov-15 ,0.7208
+Australia,Dollars,20-Nov-15 ,0.7233
+Australia,Dollars,23-Nov-15 ,0.7188
+Australia,Dollars,24-Nov-15 ,0.7241
+Australia,Dollars,25-Nov-15 ,0.7246
+Australia,Dollars,26-Nov-15 ,ND
+Australia,Dollars,27-Nov-15 ,0.7192
+Australia,Dollars,30-Nov-15 ,0.7235
+Australia,Dollars, 1-Dec-15 ,0.7320
+Australia,Dollars, 2-Dec-15 ,0.7309
+Australia,Dollars, 3-Dec-15 ,0.7310
+Australia,Dollars, 4-Dec-15 ,0.7346
+Australia,Dollars, 7-Dec-15 ,0.7268
+Australia,Dollars, 8-Dec-15 ,0.7211
+Australia,Dollars, 9-Dec-15 ,0.7204
+Australia,Dollars,10-Dec-15 ,0.7299
+Australia,Dollars,11-Dec-15 ,0.7214
+Australia,Dollars,14-Dec-15 ,0.7258
+Australia,Dollars,15-Dec-15 ,0.7176
+Australia,Dollars,16-Dec-15 ,0.7207
+Australia,Dollars,17-Dec-15 ,0.7100
+Australia,Dollars,18-Dec-15 ,0.7197
+Australia,Dollars,21-Dec-15 ,0.7172
+Australia,Dollars,22-Dec-15 ,0.7231
+Australia,Dollars,23-Dec-15 ,0.7221
+Australia,Dollars,24-Dec-15 ,0.7269
+Australia,Dollars,25-Dec-15 ,ND
+Australia,Dollars,28-Dec-15 ,0.7262
+Australia,Dollars,29-Dec-15 ,0.7293
+Australia,Dollars,30-Dec-15 ,0.7284
+Australia,Dollars,31-Dec-15 ,0.7286
+Australia,Dollars, 1-Jan-16 ,ND
+Australia,Dollars, 4-Jan-16 ,0.7166
+Australia,Dollars, 5-Jan-16 ,0.7151
+Australia,Dollars, 6-Jan-16 ,0.7070
+Australia,Dollars, 7-Jan-16 ,0.7025
+Australia,Dollars, 8-Jan-16 ,0.6976
+Australia,Dollars,11-Jan-16 ,0.6992
+Australia,Dollars,12-Jan-16 ,0.6975
+Australia,Dollars,13-Jan-16 ,0.6996
+Australia,Dollars,14-Jan-16 ,0.6980
+Australia,Dollars,15-Jan-16 ,0.6864
+Australia,Dollars,18-Jan-16 ,ND
+Australia,Dollars,19-Jan-16 ,0.6929
+Australia,Dollars,20-Jan-16 ,0.6855
+Australia,Dollars,21-Jan-16 ,0.7003
+Australia,Dollars,22-Jan-16 ,0.7014
+Australia,Dollars,25-Jan-16 ,0.6970
+Australia,Dollars,26-Jan-16 ,0.7005
+Australia,Dollars,27-Jan-16 ,0.7074
+Australia,Dollars,28-Jan-16 ,0.7085
+Australia,Dollars,29-Jan-16 ,0.7071
+Australia,Dollars, 1-Feb-16 ,0.7084
+Australia,Dollars, 2-Feb-16 ,0.7058
+Australia,Dollars, 3-Feb-16 ,0.7134
+Australia,Dollars, 4-Feb-16 ,0.7216
+Australia,Dollars, 5-Feb-16 ,0.7084
+Australia,Dollars, 8-Feb-16 ,0.7103
+Australia,Dollars, 9-Feb-16 ,0.7065
+Australia,Dollars,10-Feb-16 ,0.7089
+Australia,Dollars,11-Feb-16 ,0.7096
+Australia,Dollars,12-Feb-16 ,0.7098
+Australia,Dollars,15-Feb-16 ,ND
+Australia,Dollars,16-Feb-16 ,0.7103
+Australia,Dollars,17-Feb-16 ,0.7168
+Australia,Dollars,18-Feb-16 ,0.7150
+Australia,Dollars,19-Feb-16 ,0.7125
+Australia,Dollars,22-Feb-16 ,0.7238
+Australia,Dollars,23-Feb-16 ,0.7209
+Australia,Dollars,24-Feb-16 ,0.7177
+Australia,Dollars,25-Feb-16 ,0.7208
+Australia,Dollars,26-Feb-16 ,0.7130
+Australia,Dollars,29-Feb-16 ,0.7152
+Australia,Dollars, 1-Mar-16 ,0.7172
+Australia,Dollars, 2-Mar-16 ,0.7268
+Australia,Dollars, 3-Mar-16 ,0.7360
+Australia,Dollars, 4-Mar-16 ,0.7425
+Australia,Dollars, 7-Mar-16 ,0.7467
+Australia,Dollars, 8-Mar-16 ,0.7451
+Australia,Dollars, 9-Mar-16 ,0.7528
+Australia,Dollars,10-Mar-16 ,0.7444
+Australia,Dollars,11-Mar-16 ,0.7572
+Australia,Dollars,14-Mar-16 ,0.7515
+Australia,Dollars,15-Mar-16 ,0.7465
+Australia,Dollars,16-Mar-16 ,0.7435
+Australia,Dollars,17-Mar-16 ,0.7637
+Australia,Dollars,18-Mar-16 ,0.7618
+Australia,Dollars,21-Mar-16 ,0.7594
+Australia,Dollars,22-Mar-16 ,0.7625
+Australia,Dollars,23-Mar-16 ,0.7533
+Australia,Dollars,24-Mar-16 ,0.7516
+Australia,Dollars,25-Mar-16 ,0.7518
+Australia,Dollars,28-Mar-16 ,0.7549
+Australia,Dollars,29-Mar-16 ,0.7567
+Australia,Dollars,30-Mar-16 ,0.7667
+Australia,Dollars,31-Mar-16 ,0.7677
+Australia,Dollars, 1-Apr-16 ,0.7672
+Australia,Dollars, 4-Apr-16 ,0.7614
+Australia,Dollars, 5-Apr-16 ,0.7519
+Australia,Dollars, 6-Apr-16 ,0.7613
+Australia,Dollars, 7-Apr-16 ,0.7504
+Australia,Dollars, 8-Apr-16 ,0.7554
+Australia,Dollars,11-Apr-16 ,0.7599
+Australia,Dollars,12-Apr-16 ,0.7659
+Australia,Dollars,13-Apr-16 ,0.7649
+Australia,Dollars,14-Apr-16 ,0.7705
+Australia,Dollars,15-Apr-16 ,0.7717
+Australia,Dollars,18-Apr-16 ,0.7746
+Australia,Dollars,19-Apr-16 ,0.7806
+Australia,Dollars,20-Apr-16 ,0.7817
+Australia,Dollars,21-Apr-16 ,0.7758
+Australia,Dollars,22-Apr-16 ,0.7713
+Australia,Dollars,25-Apr-16 ,0.7717
+Australia,Dollars,26-Apr-16 ,0.7741
+Australia,Dollars,27-Apr-16 ,0.7594
+Australia,Dollars,28-Apr-16 ,0.7635
+Australia,Dollars,29-Apr-16 ,0.7612
+Australia,Dollars, 2-May-16 ,0.7641
+Australia,Dollars, 3-May-16 ,0.7492
+Australia,Dollars, 4-May-16 ,0.7454
+Australia,Dollars, 5-May-16 ,0.7465
+Australia,Dollars, 6-May-16 ,0.7358
+Australia,Dollars, 9-May-16 ,0.7323
+Australia,Dollars,10-May-16 ,0.7351
+Australia,Dollars,11-May-16 ,0.7398
+Australia,Dollars,12-May-16 ,0.7314
+Australia,Dollars,13-May-16 ,0.7273
+Australia,Dollars,16-May-16 ,0.7300
+Australia,Dollars,17-May-16 ,0.7352
+Australia,Dollars,18-May-16 ,0.7285
+Australia,Dollars,19-May-16 ,0.7213
+Australia,Dollars,20-May-16 ,0.7215
+Australia,Dollars,23-May-16 ,0.7203
+Australia,Dollars,24-May-16 ,0.7184
+Australia,Dollars,25-May-16 ,0.7186
+Australia,Dollars,26-May-16 ,0.7227
+Australia,Dollars,27-May-16 ,0.7205
+Australia,Dollars,30-May-16 ,ND
+Australia,Dollars,31-May-16 ,0.7242
+Australia,Dollars, 1-Jun-16 ,0.7242
+Australia,Dollars, 2-Jun-16 ,0.7225
+Australia,Dollars, 3-Jun-16 ,0.7339
+Australia,Dollars, 6-Jun-16 ,0.7362
+Australia,Dollars, 7-Jun-16 ,0.7452
+Australia,Dollars, 8-Jun-16 ,0.7479
+Australia,Dollars, 9-Jun-16 ,0.7431
+Australia,Dollars,10-Jun-16 ,0.7395
+Australia,Dollars,13-Jun-16 ,0.7394
+Australia,Dollars,14-Jun-16 ,0.7360
+Australia,Dollars,15-Jun-16 ,0.7404
+Australia,Dollars,16-Jun-16 ,0.7312
+Australia,Dollars,17-Jun-16 ,0.7385
+Australia,Dollars,20-Jun-16 ,0.7458
+Australia,Dollars,21-Jun-16 ,0.7461
+Australia,Dollars,22-Jun-16 ,0.7491
+Australia,Dollars,23-Jun-16 ,0.7598
+Australia,Dollars,24-Jun-16 ,0.7451
+Australia,Dollars,27-Jun-16 ,0.7357
+Australia,Dollars,28-Jun-16 ,0.7353
+Australia,Dollars,29-Jun-16 ,0.7444
+Australia,Dollars,30-Jun-16 ,0.7432
+Australia,Dollars, 1-Jul-16 ,0.7485
+Australia,Dollars, 4-Jul-16 ,ND
+Australia,Dollars, 5-Jul-16 ,0.7456
+Australia,Dollars, 6-Jul-16 ,0.7511
+Australia,Dollars, 7-Jul-16 ,0.7488
+Australia,Dollars, 8-Jul-16 ,0.7559
+Australia,Dollars,11-Jul-16 ,0.7534
+Australia,Dollars,12-Jul-16 ,0.7631
+Australia,Dollars,13-Jul-16 ,0.7624
+Australia,Dollars,14-Jul-16 ,0.7632
+Australia,Dollars,15-Jul-16 ,0.7587
+Australia,Dollars,18-Jul-16 ,0.7597
+Australia,Dollars,19-Jul-16 ,0.7496
+Australia,Dollars,20-Jul-16 ,0.7486
+Australia,Dollars,21-Jul-16 ,0.7497
+Australia,Dollars,22-Jul-16 ,0.7453
+Australia,Dollars,25-Jul-16 ,0.7458
+Australia,Dollars,26-Jul-16 ,0.7516
+Australia,Dollars,27-Jul-16 ,0.7460
+Australia,Dollars,28-Jul-16 ,0.7511
+Australia,Dollars,29-Jul-16 ,0.7599
+Australia,Dollars, 1-Aug-16 ,0.7567
+Australia,Dollars, 2-Aug-16 ,0.7611
+Australia,Dollars, 3-Aug-16 ,0.7592
+Australia,Dollars, 4-Aug-16 ,0.7637
+Australia,Dollars, 5-Aug-16 ,0.7615
+Australia,Dollars, 8-Aug-16 ,0.7656
+Australia,Dollars, 9-Aug-16 ,0.7677
+Australia,Dollars,10-Aug-16 ,0.7717
+Australia,Dollars,11-Aug-16 ,0.7710
+Australia,Dollars,12-Aug-16 ,0.7669
+Australia,Dollars,15-Aug-16 ,0.7687
+Australia,Dollars,16-Aug-16 ,0.7697
+Australia,Dollars,17-Aug-16 ,0.7619
+Australia,Dollars,18-Aug-16 ,0.7684
+Australia,Dollars,19-Aug-16 ,0.7620
+Australia,Dollars,22-Aug-16 ,0.7629
+Australia,Dollars,23-Aug-16 ,0.7632
+Australia,Dollars,24-Aug-16 ,0.7605
+Australia,Dollars,25-Aug-16 ,0.7611
+Australia,Dollars,26-Aug-16 ,0.7614
+Australia,Dollars,29-Aug-16 ,0.7576
+Australia,Dollars,30-Aug-16 ,0.7516
+Australia,Dollars,31-Aug-16 ,0.7519
+Australia,Dollars, 1-Sep-16 ,0.7542
+Australia,Dollars, 2-Sep-16 ,0.7557
+Australia,Dollars, 5-Sep-16 ,ND
+Australia,Dollars, 6-Sep-16 ,0.7674
+Australia,Dollars, 7-Sep-16 ,0.7675
+Australia,Dollars, 8-Sep-16 ,0.7666
+Australia,Dollars, 9-Sep-16 ,0.7549
+Australia,Dollars,12-Sep-16 ,0.7526
+Australia,Dollars,13-Sep-16 ,0.7470
+Australia,Dollars,14-Sep-16 ,0.7485
+Australia,Dollars,15-Sep-16 ,0.7512
+Australia,Dollars,16-Sep-16 ,0.7489
+Australia,Dollars,19-Sep-16 ,0.7560
+Australia,Dollars,20-Sep-16 ,0.7552
+Australia,Dollars,21-Sep-16 ,0.7589
+Australia,Dollars,22-Sep-16 ,0.7644
+Australia,Dollars,23-Sep-16 ,0.7621
+Australia,Dollars,26-Sep-16 ,0.7642
+Australia,Dollars,27-Sep-16 ,0.7658
+Australia,Dollars,28-Sep-16 ,0.7659
+Australia,Dollars,29-Sep-16 ,0.7676
+Australia,Dollars,30-Sep-16 ,0.7667
+Australia,Dollars, 3-Oct-16 ,0.7664
+Australia,Dollars, 4-Oct-16 ,0.7644
+Australia,Dollars, 5-Oct-16 ,0.7618
+Australia,Dollars, 6-Oct-16 ,0.7580
+Australia,Dollars, 7-Oct-16 ,0.7556
+Australia,Dollars,10-Oct-16 ,ND
+Australia,Dollars,11-Oct-16 ,0.7545
+Australia,Dollars,12-Oct-16 ,0.7553
+Australia,Dollars,13-Oct-16 ,0.7558
+Australia,Dollars,14-Oct-16 ,0.7610
+Australia,Dollars,17-Oct-16 ,0.7626
+Australia,Dollars,18-Oct-16 ,0.7679
+Australia,Dollars,19-Oct-16 ,0.7715
+Australia,Dollars,20-Oct-16 ,0.7640
+Australia,Dollars,21-Oct-16 ,0.7597
+Australia,Dollars,24-Oct-16 ,0.7603
+Australia,Dollars,25-Oct-16 ,0.7652
+Australia,Dollars,26-Oct-16 ,0.7657
+Australia,Dollars,27-Oct-16 ,0.7606
+Australia,Dollars,28-Oct-16 ,0.7578
+Australia,Dollars,31-Oct-16 ,0.7611
+Australia,Dollars, 1-Nov-16 ,0.7659
+Australia,Dollars, 2-Nov-16 ,0.7667
+Australia,Dollars, 3-Nov-16 ,0.7681
+Australia,Dollars, 4-Nov-16 ,0.7669
+Australia,Dollars, 7-Nov-16 ,0.7700
+Australia,Dollars, 8-Nov-16 ,0.7733
+Australia,Dollars, 9-Nov-16 ,0.7674
+Australia,Dollars,10-Nov-16 ,0.7590
+Australia,Dollars,11-Nov-16 ,ND
+Australia,Dollars,14-Nov-16 ,0.7532
+Australia,Dollars,15-Nov-16 ,0.7540
+Australia,Dollars,16-Nov-16 ,0.7492
+Australia,Dollars,17-Nov-16 ,0.7455
+Australia,Dollars,18-Nov-16 ,0.7345
+Australia,Dollars,21-Nov-16 ,0.7357
+Australia,Dollars,22-Nov-16 ,0.7388
+Australia,Dollars,23-Nov-16 ,0.7391
+Australia,Dollars,24-Nov-16 ,ND
+Australia,Dollars,25-Nov-16 ,0.7425
+Australia,Dollars,28-Nov-16 ,0.7478
+Australia,Dollars,29-Nov-16 ,0.7469
+Australia,Dollars,30-Nov-16 ,0.7387
+Australia,Dollars, 1-Dec-16 ,0.7411
+Australia,Dollars, 2-Dec-16 ,0.7445
+Australia,Dollars, 5-Dec-16 ,0.7476
+Australia,Dollars, 6-Dec-16 ,0.7454
+Australia,Dollars, 7-Dec-16 ,0.7479
+Australia,Dollars, 8-Dec-16 ,0.7448
+Australia,Dollars, 9-Dec-16 ,0.7442
+Australia,Dollars,12-Dec-16 ,0.7486
+Australia,Dollars,13-Dec-16 ,0.7494
+Australia,Dollars,14-Dec-16 ,0.7512
+Australia,Dollars,15-Dec-16 ,0.7343
+Australia,Dollars,16-Dec-16 ,0.7298
