@@ -30,8 +30,8 @@ class MySpider(scrapy.Spider):
     items = []
     for title in title:
       item = FedreserveItem()
-      #item ['Country'] = hxs('').extract()
-      #item ['Monetary_Unit'] = hxs('').extract()
+      item ['Country'] = "Australia"
+      item ['Monetary_Unit'] = "Dollars"
       item ['Date'] = title.select('th[@headers="a1"]/text()').extract()
       item ['Rate'] = MapCompose(unicode.strip)(title.select('td[@headers="a2 a1 r1"]/text()').extract())
       items.append(item)
